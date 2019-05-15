@@ -5,8 +5,6 @@
 
 - [Races](#races)
 - [Classes](#classes)
-- [Value](#value)
-- [Risk](#risk)
-- [Conformity](#conformity)
+- [Skills](#Skils)
 
 <!-- tocstop -->
