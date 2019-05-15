@@ -10,10 +10,14 @@
     + [Politics](#politics)
     + [The State](#the-state)
     + [Religion](#religion)
+    + [Technology and Industry](#technology-and-industry)
+    + [Thaumaturgy](#thaumaturgy)
   * [Rohagi - The Continent](#rohagi-the-continent)
 - [Races](#races)
 - [Classes](#classes)
-- [Skills](#Skils)
+- [Skills](#Skills)
+- [Equipment](#Equipment)
+- [Adversaries](#Adversaries)
 
 <!-- tocstop -->
 
