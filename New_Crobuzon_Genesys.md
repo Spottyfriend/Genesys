@@ -13,11 +13,14 @@
     + [Technology and Industry](#technology-and-industry)
     + [Thaumaturgy](#thaumaturgy)
   * [Rohagi - The Continent](#rohagi-the-continent)
-- [Races](#races)
+- [Species](#species)
 - [Classes](#classes)
-- [Skills](#Skills)
-- [Equipment](#Equipment)
-- [Adversaries](#Adversaries)
+- [Skills](#skills)
+- [Talents](#talents)
+- [Items and Equipment](#items-and-equipment)
+- [Vehicles](#vehicles)
+- [Adversaries](#adversaries)
+- [Additional Rules](#additional-rules)
 
 <!-- tocstop -->
 
