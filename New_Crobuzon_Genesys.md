@@ -13,7 +13,7 @@
     + [Technology and Industry](#technology-and-industry)
     + [Thaumaturgy](#thaumaturgy)
   * [Rohagi - The Continent](#rohagi-the-continent)
-- [Species](#species)
+- [Races](#races)
   * [Humans](#humans)
   * [Remade](#remade)
   * [Cactacae](#cactacae)
