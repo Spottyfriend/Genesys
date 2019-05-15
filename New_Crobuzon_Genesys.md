@@ -21,7 +21,6 @@
   * [Vodyanoi](#vodyanoi)
   * [Wyrmen](#wyrmen)
   * [Garuda](#remade)
-  * [Hotchi](#hotchi)
 - [Classes](#classes)
 - [Skills](#skills)
 - [Talents](#talents)
