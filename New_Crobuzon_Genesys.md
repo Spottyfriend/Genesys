@@ -3,6 +3,8 @@
 
 <!-- toc -->
 
+- [Introduction] (#introduction)
+- [Setting] (#setting)
 - [Races](#races)
 - [Classes](#classes)
 - [Skills](#Skils)
