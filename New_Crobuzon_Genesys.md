@@ -3,7 +3,7 @@
 
 <!-- toc -->
 
-- [New Crobuzon: Genesys](#new-crobuzon:-genesys)
+- [New Crobuzon: Genesys](#new-crobuzon-genesys)
   * [Surplus Value](#surplus-value)
   * [History, and Human Nature](#history-and-human-nature)
   * [Value](#value)
