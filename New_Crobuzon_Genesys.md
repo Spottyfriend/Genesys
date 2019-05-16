@@ -13,6 +13,7 @@
     + [Technology and Industry](#technology-and-industry)
     + [Thaumaturgy](#thaumaturgy)
   * [Rohagi - The Continent](#rohagi-the-continent)
+  * [Elsewhere](#elsewhere)
 - [Races](#races)
   * [Humans](#humans)
   * [Remade](#remade)
