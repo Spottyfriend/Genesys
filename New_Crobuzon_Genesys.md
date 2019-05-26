@@ -22,9 +22,8 @@
   * [Vodyanoi](#vodyanoi)
   * [Wyrmen](#wyrmen)
   * [Garuda](#remade)
-- [Archetypes](#archetypes)
 - [Careers](#Careers)
-- [Skills](#skills)
+- [Skills](#skills)V
 - [Talents](#talents)
 - [Items and Equipment](#items-and-equipment)
 - [Vehicles](#vehicles)
