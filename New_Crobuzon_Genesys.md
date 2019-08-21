@@ -23,7 +23,7 @@
   * [Wyrmen](#wyrmen)
   * [Garuda](#remade)
 - [Careers](#Careers)
-- [Skills](#skills)V
+- [Skills](#skills)
 - [Talents](#talents)
 - [Items and Equipment](#items-and-equipment)
 - [Vehicles](#vehicles)
