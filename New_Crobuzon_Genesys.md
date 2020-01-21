@@ -34,6 +34,6 @@
 
 ## Introduction
 
-Welcome, reader, to the definitive guide for playing Fantasy Flight's Genesys RPG system within the world of Bas-Lag, with a focus on that world's greatest city-state - New Crobuzon.
+Welcome, reader, to the definitive guide for playing Fantasy Flight's Genesys RPG system within the world of Bas-Lag, with a focus on that world's greatest city-state: New Crobuzon.
 
 The world of Bas-Lag was created by fantasy/sci-fi author China Mieville and is the setting of his books: [*Perdido Street Station*](https://en.wikipedia.org/wiki/Perdido_Street_Station), [*The Scar*](https://en.wikipedia.org/wiki/The_Scar_(novel)), [*Iron Council*](https://en.wikipedia.org/wiki/Iron_Council) and the short story [*Jack*](https://en.wikipedia.org/wiki/Looking_for_Jake). It is inhabited by countless sentient species, filled with weird technologies, sciences and magics, and has a history which stretches back thousands of years, from the rise and fall of the Ghosthead Empire, to the 19th century of the First Umbric Age. 
