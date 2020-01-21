@@ -36,7 +36,10 @@
 ## Credits
 
 Bryce Jones (Creator of the 3.5e D&D Bas-Lag project)
+
 Wolfang Baur (Writer for Dragon Magazine)
+
+
 
 ## Introduction
 
