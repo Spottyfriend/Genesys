@@ -51,4 +51,10 @@ What seperates Bas-Lag from other fantasy settings, is its unrelenting insistenc
 
 It's not a contradiction to say, however, that Bas-Lag is a world, in many ways, quite close to our own. Great riches are, more often than not, accumulated not by glory, or evil conquest, but by simple exploitation driven by self-interest; Bas-Lag's empires are built up more by industry and racial politics than a diablobical desire to conquer. This is not to say, of course, that there are no villains in Bas-Lag, or heroes, but that those individuals must fit into a world with all the moral liminality of our own.
 
-The intention of this guide is to give the reader *both* an understanding of the world of Bas-Lag, with a heavy focus on the city of New Crobuzon, *and*, an understanding of the rules that the RPG system *Genesys* provides in relation to that world: races, careers, skills, talents, items and equipment, vehicles and adversaries.
+The intention of this guide is to give the reader *both* an understanding of the world of Bas-Lag, with a heavy focus on the city of New Crobuzon, *and* an understanding of the rules that the RPG system *Genesys* provides in relation to that world: races, careers, skills, talents, items and equipment, vehicles and adversaries.
+
+## Setting
+
+### The City
+
+
