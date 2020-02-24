@@ -59,4 +59,4 @@ This guide aims to allow players to run a campaign in New Crobuzon without havin
 
 ### The City: New Crobuzon
 
-[Map of the City from Perdido Street Station](https://i.imgur.com/m4IIX51.gif)
+![Map of the City from Perdido Street Station](https://i.imgur.com/m4IIX51.gif)
