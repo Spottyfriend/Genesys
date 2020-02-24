@@ -35,9 +35,9 @@
 
 ## Credits
 
-Bryce Jones (Creator of the 3.5e D&D Bas-Lag project)
+Bryce Jones (Creator of the 3.5e D&D Bas-Lag project, which this guide borrows liberally from)
 
-Wolfang Baur (Writer for Dragon Magazine)
+Wolfang Baur (Writer for Dragon Magazine, issue #352 of which much of this guide is lifted from)
 
 
 
@@ -60,3 +60,38 @@ This guide aims to allow players to run a campaign in New Crobuzon without havin
 ### The City: New Crobuzon
 
 ![Map of the City from Perdido Street Station](https://i.imgur.com/m4IIX51.gif)
+
+The city of Crobuzon was founded roughly 1,800 years ago as a small village near the coast of lron Bay at the outflow to the Gross Tar river, near where Tarmuth is now. It prospered and quickly became a favorite target of pirate attacks until, 100 years after its founding, one such raid burned Crobuzon to the ground.
+
+The inhabitants pulled up stakes and moved to where the River Tar meets with the Canker, just a few miles upriver from its meeting with
+the sea. Although the people renamed it New Crobuzon, the dating system from the first settlement's founding on Iron Bay was retained (Anno Urbis / Before New Crobuzon). Over time, its exploited citizens and hard-scheming mayors have extended its reach thousands of miles, and have built its manufactories into a vast, sprawling, industrial mess. The city-state has created great art and advanced sciences, funded rail travel and gliding aerostats, destroyed one of its rival cities and brought others to heel, and has made some of its merchants very, very wealthy indeed.
+
+New Crobuzon now suffers the diseases of a proud industrial metropolis: alchemical wastes flow into the Gross Tar from Brock
+Marsh; the crowds (three and a half million strong) strain its streets and rails; and while its newer buildings tower ten and even twenty stories high, every mass of concrete, tar, and brick is rotting at the base. Many of its districts are slums; rebels and unions threaten the wealth of the powerful capitalist industrialists; and its citizens are barely held in cheek by the bruta militia.
+
+Wekome to New Crobuzon, the greatest city-state of the world.
+
+#### Geography
+
+**The Wealthy Districts**
+
+Wealth in the city comes in several forms: money, power, knowledge, and influence. All of these can be found in the richest districts, which cluster near the centre and northeast of the city.
+
+**Chnum**: A district of merchants and factory-owners who command redstone manors full of servants and sleep on featherbeds, Chnum is a dull but very pleasant place. Its wide avenues and large houses are always watched both by the militia and by private guards, who protect their employers from everything from kidnapping to beggars.
+
+**The Crow**: this fashionable commercial and shopping district is spread out around Perdido Street Station in a mix of broad streets and tangled alleys, Three main shopping streets-LeTissof Street, Concubek Pass, and Bouleveard Does Ghérou - radiate out from the station and BilSantum Plaza, at the heart of the district. During the day and early evening, they are always packed with carts, street vendors, buskers, and pedestrians. Many of them simply take in the sights along the thorough-fares, for all the world seems to bring its wares to the elegant shops to sell: fine tailoring, tropical produce, inlaid snuffboxes, children's golems, gaslight lamps, and feathery lace.
+
+Old noble families that once lived here have long since fleed for. quieter districts, their homes converted to two- and three-story shops. In the side streets and alleys stand the offices of lawyers and doctors, the dining halls of exclusive gentlement's clubs, actuaries', geothaumaturges', apothecaries', and well-heeled gambling halls. The people here are welathy and know it, and the only pockets of poverty are those inhabited by those who make their living from the execesses, vices and hobbies of the rich: pickpockets, expensive escorts, fortunetellers and palmists.
+
+**Flag Hill**: A fine hill district with excellent views and enormous houses that back onto shared, gated gardens, Flag Hill has long been home to bankers and captains of industry. Until recenUy, its lower slopes included a number of 'undesirable' sections, but that has changed. In recent decades, its luxury housing has expanded as builders have bought out or driven away the small pockets of the poor that once dotted sections of Flag Hill, and many older row homes have been torn down to make way for edifices clad in stone rather than brick on the hill's lower slopes. Although it still lacks a bit of polish, it is a posh place of rising status for new money. Some snobs have taken to distinguishing "Old Flag Hill" near the fop from "New Flag Hill" around the flanks.
+
+**Ludmead**: Elegant architecture and the old money that goes with it are only half the story of Ludmead. The other half is the University of New Crobuzon, with its o1d brickwork and large halls surrounding a tree-lined green quadrangle in the heart of the old campus, sitting between Ludmead, Mafaton and Saltbur. The Science Faculty, the Arts Faculty, the Engineering Faculty, the Language Faculty, and the Commerce Faculty all have their own builings, each with a porter who makes sure that vagrants and others stay out of the classrooms
+and laboratories. The students are overwhelmingly male and human, but some xenians and women also attend.
+
+Ludmead is also home to Ludmead Station,a well-kept, neatly-tiled station on the Dexter line. A ring of cheap and noisy student taverns surrounds the university, and a good system of streetlights illuminates the area. Walking there at night is quite safe, if occaisonally roudy.
+
+**Mog Hill and Mafaton**: These are largely similar districts; wealthy but otherwise uninteresting. A few of the larger manors have dedicated mooring posts for aerostats or dirigibles.
+
+**Salacus Fields**: A place of fashion and the fashionable, poets and pamphleteers, and the latest breed of junkies. Its residents delight in the scandalous and the outré, and the district is crowded with tea-houses and bars. Clothes here are bright and artistic, and it is a fine place for romance. The artists vary from the wealthiest, with their patrons and lucrative city contracts, to the conventially successful. Many of the artists are xenians working with golem-magic (common among the vodyanoi), or Khepri gland-artists. Its reputation for dissendence and radical artistry is mostly just that at, with richer students and the rebellious sons of businessmen pushing many of the harder radicals into Howl Barrow. Salacus Fields is gentrifying, much to the horror of its older residents.
+
+**Ghettoes and Slums**
