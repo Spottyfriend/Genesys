@@ -6,7 +6,7 @@
 - [Credits](#credits)
 - [Introduction](#introduction)
 - [Setting](#setting)
-  * [The City](#the-city)
+  * [The City: New Crobuzon](#the-city-new-crobuzon)
     + [Geography](#geography)
     + [Politics](#politics)
     + [The State](#the-state)
@@ -57,6 +57,6 @@ This guide aims to allow players to run a campaign in New Crobuzon without havin
 
 ## Setting
 
-### The City
+### The City: New Crobuzon
 
-
+[Map of the City from Perdido Street Station](https://i.imgur.com/m4IIX51.gif)
