@@ -59,8 +59,6 @@ This guide aims to allow players to run a campaign in New Crobuzon without havin
 
 ### The City: New Crobuzon
 
-![Map of the City from Perdido Street Station](https://i.imgur.com/m4IIX51.gif)
-
 The city of Crobuzon was founded roughly 1,800 years ago as a small village near the coast of lron Bay at the outflow to the Gross Tar river, near where Tarmuth is now. It prospered and quickly became a favorite target of pirate attacks until, 100 years after its founding, one such raid burned Crobuzon to the ground.
 
 The inhabitants pulled up stakes and moved to where the River Tar meets with the Canker, just a few miles upriver from its meeting with
@@ -72,6 +70,8 @@ Marsh; the crowds (three and a half million strong) strain its streets and rails
 Wekome to New Crobuzon, the greatest city-state of the world.
 
 #### Geography
+
+![Map of the City from Perdido Street Station](https://i.imgur.com/m4IIX51.gif)
 
 **The Wealthy Districts**
 
@@ -95,3 +95,16 @@ Ludmead is also home to Ludmead Station,a well-kept, neatly-tiled station on the
 **Salacus Fields**: A place of fashion and the fashionable, poets and pamphleteers, and the latest breed of junkies. Its residents delight in the scandalous and the outré, and the district is crowded with tea-houses and bars. Clothes here are bright and artistic, and it is a fine place for romance. The artists vary from the wealthiest, with their patrons and lucrative city contracts, to the conventially successful. Many of the artists are xenians working with golem-magic (common among the vodyanoi), or Khepri gland-artists. Its reputation for dissendence and radical artistry is mostly just that at, with richer students and the rebellious sons of businessmen pushing many of the harder radicals into Howl Barrow. Salacus Fields is gentrifying, much to the horror of its older residents.
 
 **Ghettoes and Slums**
+
+While every rich district flaunts its wealth in its own special way, poor districts tend to show the same signs of poverty everywhere, although they are still quite distinguishable for natives. The slums are everywhere in the city, from the rotting bricks of Badside to the wreckage of Dog Fenn to the slumping hillside shanties of St. Jabber's Mound - constantly threatening to slide into the next district down whenever a storm washes out the slopes. Echomire can at least boast its docks and Flyside about its militia tower, but the slum-industrial khepri ghetto of Creekside and many others have nothing to recommend them.
+
+**Bonetown**: Named after the Ribs that arch over it so prominently, Bonetown is a shabby place where little good lives. A syncretic mesh
+of industrialism and cross-bred architecture, urban scrubland, shantytowns, and abandoned docklands line the river shore littered with thick-stemmed weeds. Unbenownst to most, the crimelord Mr Motley keeps his base of operations in Bonetown. The district is joined to Brock Marsh by Danechi's Bridge over the Canker.
+
+**Dog Fenn**: A district of markets selling stolen goods, tired sex workers and (its only truly distinguishing feature) the last operating station on its branch of the rail line. The doors to Dog Fenn Station are rusted open and ticket takers rarely show: the station has been abandoned to poverty, but the trains remain inexplicably reliable. 
+
+Dog Fenn is a hotbed of rebellions and illegal pamphleteering. Many believe *Runagate Rampant*, a dissident newspaper, may be printed here. Pamphleteers press papers into the hands of every passerby in many sections of Dog Fenn, and it is a frequent location of cival unrest of the shouting and rock-throwing kind. Rich visit at their peril; poor folk are rarely molested.
+
+By the time the rivers have flowed through New Crobuzon, their confluence - the Gross Tar - is thick with rubbish, sewage and refuse of all kinds. As a result, a few Dog Fenn river-fishers use nets, weirs and evens dredges to eke a living from this flotsam.
+
+**Howl Barrow**: This small slum is mostly known for its transgressive and oppositional residents: illegal sexualites and taboo gender expression  
