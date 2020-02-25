@@ -13,7 +13,7 @@
     + [Religion](#religion)
     + [Technology and Industry](#technology-and-industry)
     + [Thaumaturgy](#thaumaturgy)
-  * [The World](#the-world)
+  * [The World: Bas-Lag](#the-world-bas-lag)
   * [Elsewhere](#elsewhere)
 - [Races](#races)
   * [Humans](#humans)
