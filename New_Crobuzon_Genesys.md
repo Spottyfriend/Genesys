@@ -59,6 +59,9 @@ This guide aims to allow players to run a campaign in New Crobuzon without havin
 
 ### The City: New Crobuzon
 
+*"The river twists and turns to face the city. It looms suddenly, massive, stamped on the landscape. Its light wells up around the surrounds, the rock hills, like bruise-blood. Its dirty towers glow. I am debased. I am compelled to worship this extraordinary presence that has silted into existence at the conjunction of two rivers. It is a vast pollutant, a stench, a klaxon sounding. Fat chimneys retch dirt into the sky even now in the deep night."*
+*Perdido Street Station*
+
 The city of Crobuzon was founded roughly 1,800 years ago as a small village near the coast of lron Bay at the outflow to the Gross Tar river, near where Tarmuth is now. It prospered and quickly became a favorite target of pirate attacks until, 100 years after its founding, one such raid burned Crobuzon to the ground.
 
 The inhabitants pulled up stakes and moved to where the River Tar meets with the Canker, just a few miles upriver from its meeting with
