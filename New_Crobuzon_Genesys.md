@@ -59,6 +59,8 @@ This guide aims to allow players to run a campaign in New Crobuzon without havin
 
 ### The City: New Crobuzon
 
+---
+
 *"The river twists and turns to face the city. It looms suddenly, massive, stamped on the landscape. Its light wells up around the surrounds, the rock hills, like bruise-blood. Its dirty towers glow. I am debased. I am compelled to worship this extraordinary presence that has silted into existence at the conjunction of two rivers. It is a vast pollutant, a stench, a klaxon sounding. Fat chimneys retch dirt into the sky even now in the deep night."* - *Perdido Street Station*
 
 ---
