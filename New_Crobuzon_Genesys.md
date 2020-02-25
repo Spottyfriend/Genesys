@@ -113,7 +113,7 @@ Dog Fenn is a hotbed of rebellions and illegal pamphleteering. Many believe *Run
 
 By the time the rivers have flowed through New Crobuzon, their confluence - the Gross Tar - is thick with rubbish, sewage and refuse of all kinds. As a result, a few Dog Fenn river-fishers use nets, weirs and evens dredges to eke a living from this flotsam.
 
-**Howl Barrow**: This small slum is mostly known for its transgressive and oppositional residents: illegal sexualities and taboo gender expressions flourish alongside political radicalism. Many a dissedent writer, artist and actor, pushed out of the slowly gentrifying Salicus Fields, live destitute in garrets or in tiny studios at the back of hopeful galleries.
+**Howl Barrow**: This small slum is mostly known for its transgressive and oppositional residents: illegal sexualities and taboo gender expressions flourish alongside political radicalism. Many a dissident writer, artist and actor, pushed out of the slowly gentrifying Salicus Fields, live destitute in garrets or in tiny studios at the back of hopeful galleries.
 
 **The Ribs**: Ivory shards of a leviathan, these arching ribs of a fallen giant almost meet about two hundred feet above the ground. The land around them is unlucky; tools break, projects run away into the dust and dirt, nothing propspers. Despite all that, they make a useful landmark to the visitor: just look up, and if you see the ribs, you can orient yourself. The Ribs themselves are a bit of a draw for gawkers, so most residents here are hawkers, buskers, salespeople and acrobats.
 
