@@ -65,7 +65,7 @@ The inhabitants pulled up stakes and moved to where the River Tar meets with the
 the sea. Although the people renamed it New Crobuzon, the dating system from the first settlement's founding on Iron Bay was retained (Anno Urbis / Before New Crobuzon). Over time, its exploited citizens and hard-scheming mayors have extended its reach thousands of miles, and have built its manufactories into a vast, sprawling, industrial mess. The city-state has created great art and advanced sciences, funded rail travel and gliding aerostats, destroyed one of its rival cities and brought others to heel, and has made some of its merchants very, very wealthy indeed.
 
 New Crobuzon now suffers the diseases of a proud industrial metropolis: alchemical wastes flow into the Gross Tar from Brock
-Marsh; the crowds (three and a half million strong) strain its streets and rails; and while its newer buildings tower ten and even twenty stories high, every mass of concrete, tar, and brick is rotting at the base. Many of its districts are slums; rebels and unions threaten the wealth of the powerful capitalist industrialists; and its citizens are barely held in cheek by the bruta militia.
+Marsh; the crowds (three and a half million strong) strain its streets and rails; and while its newer buildings tower ten and even twenty stories high, every mass of concrete, tar, and brick is rotting at the base. Many of its districts are slums; rebels and unions threaten the wealth of the powerful capitalist industrialists; and its citizens are barely held in cheek by the brutal militia.
 
 Wekome to New Crobuzon, the greatest city-state of the world.
 
