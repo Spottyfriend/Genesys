@@ -75,7 +75,9 @@ Wekome to New Crobuzon, the greatest city-state of the world.
 
 ![Map of the City from Perdido Street Station](https://i.imgur.com/m4IIX51.gif)
 
-##### The Wealthier Districts
+---
+
+*The Wealthier Districts*
 
 Wealth in the city comes in several forms: money, power, knowledge, and influence. All of these can be found in the richest districts, which cluster near the centre and northeast of the city.
 
@@ -97,7 +99,9 @@ Ludmead is also home to Ludmead Station,a well-kept, neatly-tiled station on the
 
 **Salacus Fields**: A place of fashion and the fashionable, poets and pamphleteers, and the latest breed of junkies. Its residents delight in the scandalous and the outré, and the district is crowded with tea-houses and bars. Clothes here are bright and artistic, and it is a fine place for romance. The artists vary from the wealthiest, with their patrons and lucrative city contracts, to the conventially successful. Many of the artists are xenians working with golem-magic (common among the vodyanoi), or Khepri gland-artists. Its reputation for dissendence and radical artistry is slowly becoming just that at, with richer students and the rebellious sons of businessmen pushing many of the harder radicals into Howl Barrow. Salacus Fields is gentrifying, much to the horror of its older residents.
 
-##### Ghettoes and Slums
+---
+
+*Ghettoes and Slums*
 
 While every rich district flaunts its wealth in its own special way, poor districts tend to show the same signs of poverty everywhere, although they are still quite distinguishable for natives. The slums are everywhere in the city, from the rotting bricks of Badside to the wreckage of Dog Fenn to the slumping hillside shanties of St. Jabber's Mound - constantly threatening to slide into the next district down whenever a storm washes out the slopes. Echomire can at least boast its docks and Flyside about its militia tower, but the slum-industrial khepri ghetto of Creekside and many others have nothing to recommend them.
 
