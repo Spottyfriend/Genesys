@@ -129,7 +129,7 @@ Poverty is not only downside to the inhabitants of Spatters, however: on occaiso
 
 *Special Districts and Xenian Ghettos*
 
-Some districts have a character all their own, based on the profession or species of the inhabitants. Three of the best-known are the Scientific Quarter of Brock Marsh, the Glasshouse of the city's cattacae, and the khepri's organically reshaped cells and shops. The vodynoi live throughout the city, but always near water of some kind, even if it is just a well or fountain.
+Some districts have a character all their own, based on the profession or species of the inhabitants. Three of the best-known are the Scientific Quarter of Brock Marsh, the Glasshouse of the city's cactacae, and the khepri's organically reshaped cells and shops. The vodynoi live throughout the city, but always near water of some kind, even if it is just a well or fountain.
 
 **Brock Marsh**: Brock Marsh is a triangu1ar slice of the Old City - low ground wedged between the city's two rivers - the Canker and the Tar - as they meet and become the Gross Tar. Its location near Strack Island - the home of the city's parliament building - makes it important enough to rate a militia tower that anchors a short skyrail over to the island.
 
