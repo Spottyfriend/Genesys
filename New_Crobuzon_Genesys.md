@@ -71,6 +71,8 @@ Marsh; the crowds (three and a half million strong) strain its streets and rails
 
 Wekome to New Crobuzon, the greatest city-state of the world.
 
+---
+
 #### Geography
 
 ![Map of the City from Perdido Street Station](https://i.imgur.com/m4IIX51.gif)
@@ -149,3 +151,11 @@ non-cactacae.
 The khepri run Kinken semi-autonomously, though none admit this state of affairs openly. The khepri institutions are nominally just mutual aid societies, each of them answerable to a moiety chief and a hive queen. In fact, these societies are just facades for the moieties or family clans themselves, some of which date back to the earliest days of khepri diaspora. The hive queens control the streets, arrest and punish wrongdoers, proect shopkeepers from anti-xenian assaultm and even levy tributes paid to them in city taxes. The militia visits when it must; lawbreakers harbored in the ghetto are sometimes turned over to the militia after a back-channel request or kept under house arrest within Kinken itself.
 
 Kinken is a step up from the desperately poor khepri homes in Creekside.
+
+---
+
+*Rail and Industrial Locations*
+
+Business and industry is scattered throughout the city, from the sweatshops of Dog Fenn to the savage industrial wastelands of Echomire and Smog Bend. The best-known working districts are Gross Coil, the docks of Kelltree (and to a lesser extent, Echomire), and the famous rails that meet at Perdido Street Station.
+
+**Arrowhead Mines and Arrowhead House**: Owned by the Penton's industrial concern, the Arrowhead Mines are miles outside the city proper, but their ore comes to its smelters every day by rail. A private line, carefully defended, fruns from the mines to the city's edges, and the whole complex is part of a large commerical cartel, rather shadowy, with connections and holding in heavy industry, thickets of front-men and hollowed-out chartered firms.
