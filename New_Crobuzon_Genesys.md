@@ -8,8 +8,7 @@
 - [Setting](#setting)
   * [The City: New Crobuzon](#the-city-new-crobuzon)
     + [Geography](#geography)
-    + [Politics](#politics)
-    + [The State](#the-state)
+    + [Politics and the State](#politics-and-the-state)
     + [Religion](#religion)
     + [Technology and Industry](#technology-and-industry)
     + [Thaumaturgy](#thaumaturgy)
@@ -180,6 +179,8 @@ The city's five main lines are the Dexter, Head, Sink, Sud, and Verso lines, wit
 
 **Tarmuth**: Although New Crobuzon itself is about ten miles from the sea, Tarmuth serves it as a port just a few miles to the east. Though not technically within the city itself, Tarmuth is the city's port and is controlled by Parliament and the great merchant houses. Many of the city's gentry and parliamentarians keep summer houses in the countryside nearby or further along the shore of Iron Bay.
 
+---
+
 *Government and State Locations*
 
 **Militia Towers**: Sticking up from the city like huge needles, the two-hundred-and-fifty-foot-tall militia towers contain the iron fist of the city-state's government; in a sense, they are vertical barracks. Most towers are linked by the seven skyrails to the Spike, the westernmost tower at Perdido Street Station and the militia headquarters. All towers have aerostats and dirigibles ready to deploy at a moment's notice to put down a rioting crowd or a strike that the bosses can no longer tolerate.
@@ -194,4 +195,6 @@ The primary section of parliament is the legislative building itself, home to th
 
 The island is not open to the public. The submerged base of the building is patrolled by vodyanoi mitilia. The skies above are watched by aerostats. The grounds themselves don't appear heavily armed, but are protected by well-placed sniper towers and a series of underground tunnels where troops can move quickly around the island out of sight.
 
+---
 
+#### Politics and the State
