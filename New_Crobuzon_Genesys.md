@@ -35,11 +35,11 @@
 
 ## Credits
 
-Bryce Jones (Creator of the 3.5e D&D Bas-Lag project, which this guide borrows liberally from)
+Bryce Jones (Creator of the 3.5e D&D Bas-Lag project, from which this guide borrows liberally)
 
-Wolfang Baur (Writer for Dragon Magazine, issue #352 of which much of this guide is lifted from)
+Wolfang Baur (Writer for Dragon Magazine, issue #352 from which much of this guide is lifted)
 
-China Miéville (who wrote the books)
+China Miéville (who wrote the Bas-Lag books)
 
 ## Introduction
 
