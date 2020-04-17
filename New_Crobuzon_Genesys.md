@@ -37,9 +37,9 @@
 
 Bryce Jones (Creator of the 3.5e D&D Bas-Lag project, from which this guide borrows liberally)
 
-Wolfang Baur (Writer for Dragon Magazine, issue #352 of which much of this guide is borrowed)
+Wolfang Baur (Writer for Dragon Magazine. Issue #352 is my primary source beyond the books, and this guide uses large portions of that issue verbatim.)
 
-China Miéville (who wrote the Bas-Lag books)
+China Miéville (Author; writer of the Bas-Lag books)
 
 ## Introduction
 
