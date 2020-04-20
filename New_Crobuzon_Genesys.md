@@ -69,7 +69,7 @@ the sea. Although the people renamed it New Crobuzon, the dating system from the
 New Crobuzon now suffers the diseases of a proud industrial metropolis: alchemical wastes flow into the Gross Tar from Brock
 Marsh; the crowds (three and a half million strong) strain its streets and rails; and while its newer buildings tower ten and even twenty stories high, every mass of concrete, tar, and brick is rotting at the base. Many of its districts are slums; rebels and unions threaten the wealth of the powerful capitalist industrialists; and its citizens are barely held in check by the brutal militia.
 
-Wekome to New Crobuzon, the greatest city-state of the world.
+Welcome to New Crobuzon, the greatest city-state of the world.
 
 ---
 
