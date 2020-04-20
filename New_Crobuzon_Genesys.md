@@ -204,4 +204,4 @@ The island is not open to the public. The submerged base of the building is patr
 
 ---
 
-New Crobuzon is a city in a constant state of flux. The uneasy truce between exploited workers and their unfeeling bosses will often explode into strikes and protests, only to be ruthlessly supressed. The state, for its part, maintains the rules of this brutal game, with all its instruments of control positioned to enforce a status quo that places a hard limit on the liberty of the mass of people. In Parliament, New Crobuzon's various parties come to comfortable settlements on tax and 
+New Crobuzon is a city in a constant state of flux. The uneasy truce between exploited workers and their unfeeling bosses will often explode into strikes and protests, only to be ruthlessly supressed. The state, for its part, maintains the rules of this brutal game, with all its instruments of control positioned to enforce a status quo that places a hard limit on the liberty of the mass of people. In Parliament, New Crobuzon's various parties come to comfortable settlements on tax and subsidies for industry.
