@@ -75,7 +75,7 @@ Welcome to New Crobuzon, the greatest city-state of the world.
 
 #### Geography
 
-![Map of the City from Perdido Street Station](https://imgur.com/SQYBSiQ)
+![Map of the City from Perdido Street Station](https://i.imgur.com/SQYBSiQ.png)
 
 ---
 
