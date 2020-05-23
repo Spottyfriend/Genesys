@@ -39,7 +39,7 @@
 
 **Wolfang Baur** (Writer for Dragon Magazine. Issue #352 is my primary source beyond the books, and this guide uses large portions of that issue verbatim.)
 
-**Lee Moyer** (Creator of the New Croubzon city map)
+**Lee Moyer** (Creator of the [New Croubzon city map](https://www.leemoyer.com/maps/h75CB5F6D#h75cb5f6d))
 
 **China Miéville** (Author; writer of the Bas-Lag books)
 
