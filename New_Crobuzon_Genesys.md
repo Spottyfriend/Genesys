@@ -232,7 +232,7 @@ Parliament diligently looks after its own interests during each yearly session. 
 
 Parliament is divided into at least a dozen political parties at any given time, although the ruling party is usually either the Fat Sun or (rarely) Finally We Can See.
 
-**Fat Sun**: The party of industry, trade and all monied interests, the thoroughly corrupt Fat Sun party has reached a height during the government of Mayor Rudgutter. It's supporters can be found amongst all classes in the city, but it's donors and members of Parliment are wealthy amd landowning without exception.
+**Fat Sun**: The party of industry, trade and all monied interests, the thoroughly corrupt Fat Sun party has reached a height during the government of Mayor Rudgutter. It's supporters can be found amongst all classes in the city, but it's donors and members of Parliment are wealthy and landowning without exception.
 
 **Finally We Can See**: A corrupt, weaselly party best known for joining the government coalition – regardless of the coalition’s makeup. Finally We Can See traditionally makes liberal noises and claims to represent “the honest everyday citizen” but it has rarely been a majority party.
 
