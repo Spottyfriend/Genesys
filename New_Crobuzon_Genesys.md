@@ -196,6 +196,8 @@ Dissidents are brought to the Spike for judgement in secret courts by the facele
 
 The primary section of Parliament is the legislative building itself, home to the constant deliberations, bribery, and brinksmanship that make up New Crobuzoner political life. Numbers vary from session to session as new rules of order are adopted by each parliament to govern the size of the succeeding one, but generally between three-hundred and five-hundred members of Parliament work and live on Strack Island during the height of parliamentary sessions.
 
+The Mayor's office - the Lemquist Room - also sits somewhere within the walls of parliament. Behind the huge, ancient, iron-bound doors, the Lemquist Room is immensely tall, panelled in darkwood of exquisite quality. Portraits of previous mayors circle the room, from the ceiling thirty feet above, spiralling slowly down to within six feet of the floor. An enormous window looks out directly at Perdido Street Station and the Spike.
+
 The island is not open to the public. The submerged base of the building is patrolled by vodyanoi mitilia. The skies above are watched by aerostats. The grounds themselves don't appear heavily armed, but are protected by well-placed sniper towers and a series of underground tunnels where troops can move quickly around the island out of sight.
 
 ---
@@ -214,4 +216,28 @@ The Mayor is effectively the head of state in New Crobuzon, although Parliament 
 
 While Parliament is responsible for taxation and proposing legislation, it is primarily a check on mayoral power. In good times, the two operate in a sort of symbiotic harmony. In bad times, nothing is too outrageous: fiscal threats, petty vengeances, blackmail, and outright Remakings are sometimes part of the political game in New Crobuzon. A cabinet of six to seventeen lords and ministers – appointed by the Mayor – reports to him and none other. Although the precise configuration varies, most cabinets include a Lord Privy Seal, Minister of Commerce and Industry, Chancellor of the Exchequer, Minister of Justice (including the Junior Minister for Remaking,) Lord Captain of the Militia, Minister of State, and a Minister Without Portfolio.
 
-At present, the Mayor is Bentham Rudgutter. A typical Mayor in most ways: Bentham is a member of the Fat Sun party, is extremely well-connected, wealthy, calculating, and utterly ruthless. Whilst some Crobuzoners may accuse him of having grown fat off of the vast power that his position provides, these naysayers are, in a literal sense at least, incorrect; Bentham is tall, muscled and commands the attention of all those in his presence.
+At present, the Mayor is Bentham Rudgutter. A typical Mayor - Bentham is a member of the Fat Sun party, is extremely well-connected, wealthy, calculating, and utterly ruthless. Whilst some Crobuzoners may accuse him of having grown fat off of the vast power that his position provides, these naysayers are, in a literal sense at least, incorrect; Bentham is tall, muscled and commands the attention of all those in his presence.
+
+---
+
+*Parliament*
+
+Parliament, housed in a huge blackened building on Strack Island, consists of a body of roughly 500 of the richest and most venial public servants in New Crobuzon, and consists entirely of propertied men and women, plus a few vodyanoi and cactacae. The very few xenians who are represented are usually elevated by special mechanisms to ensure “reputable representation,” although they could technically be elected simply on the usual system.
+
+Parliament diligently looks after its own interests during each yearly session. The interests of the working man or woman of New Crobuzon are, for the most part, only worth considering near election time. To vote in the New Crobuzon elections, one must be either a property-owning citizen, or the lucky winner of an electoral lottery, (i.e., the “suffrage lottery.”) The lottery’s purpose is to add the voice of “ordinary people” to the “expertise” of the wealthy. In practice, though, many of those who win such a lottery sell their voting tickets to vote-shapers, who use them as proxies for their own interests.
+
+---
+
+*Political Parties*
+
+Parliament is divided into at least a dozen political parties at any given time, although the ruling party is usually either the Fat Sun or (rarely) Finally We Can See.
+
+**Fat Sun**: The party of industry, trade and all monied interests, the thoroughly corrupt Fat Sun party has reached a height during the government of Mayor Rudgutter. It's supporters can be found amongst all classes in the city, but it's donors and members of Parliment are wealthy amd landowning without exception.
+
+**Finally We Can See**: A corrupt, weaselly party best known for joining the government coalition – regardless of the coalition’s makeup. Finally We Can See traditionally makes liberal noises and claims to represent “the honest everyday citizen” but it has rarely been a majority party.
+
+**Diverse Tendency**: A small party of xenians and a few humans, Diverse Tendency attempts to exploit legitimate xenian fears at the ballot box for its own ends (namely a share of the spoils of government.) While it preaches tolerance, it does little to encourage it. The party sometimes holds the balance of power, but is too small to rule. Thoroughly corrupt, it is nonetheless popular in the xenian ghettos. Xenian radicals view party members as sell-outs.
+
+**Three Quills**: appealing to nativism, jingoism and a violent anti-Xenian sentiment, the Three Quills party is known for proposing pogroms to kill or exile the khepri, cactacae, vodyanoi, and all other non-humans from the city. The party has a significant street presence in some areas in the city, with 'Quillers' committing assaults against Xenians and suspected radicals; breaking strikes that attempt to organise Xenians and humans together.
+
+
