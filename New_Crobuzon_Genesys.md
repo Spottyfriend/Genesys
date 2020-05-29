@@ -234,7 +234,7 @@ Parliament is divided into at least a dozen political parties at any given time,
 
 **Fat Sun**: The party of industry, trade and all monied interests, the thoroughly corrupt Fat Sun party has reached a height during the government of Mayor Rudgutter. It's supporters can be found amongst all classes in the city, but it's donors and members of Parliment are wealthy and landowning without exception.
 
-**Finally We Can See**: A corrupt, weaselly party best known for joining the government coalition – regardless of the coalition’s makeup. Finally We Can See traditionally makes liberal noises and claims to represent “the honest everyday citizen” but it has rarely been a majority party.
+**Finally We Can See**: A corrupt, weaselly party best known for joining the government coalition – regardless of the coalition’s makeup. Finally We Can See traditionally makes liberal noises and claims to represent “the honest everyday citizen” but it has rarely done anything to show it.
 
 **Diverse Tendency**: A small party of xenians and a few humans, Diverse Tendency attempts to exploit legitimate xenian fears at the ballot box for its own ends (namely a share of the spoils of government.) While it preaches tolerance, it does little to encourage it. The party sometimes holds the balance of power, but is too small to rule. Thoroughly corrupt, it is nonetheless popular in the xenian ghettos. Xenian radicals view party members as sell-outs.
 
