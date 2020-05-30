@@ -186,7 +186,7 @@ The city's five main lines are the Dexter, Head, Sink, Sud, and Verso lines, wit
 
 *Government and State Locations*
 
-**Militia Towers**: Sticking up from the city like huge needles, the two-hundred-and-fifty-foot-tall militia towers contain the iron fist of the city-state's government; in a sense, they are vertical barracks. Most towers are linked by the seven skyrails to the Spike, the westernmost tower at Perdido Street Station and the militia headquarters. All towers have aerostats and dirigibles ready to deploy at a moment's notice to put down a rioting crowd or a strike that the bosses can no longer tolerate.
+**Militia Towers and Skyrails**: Sticking up from the city like huge needles, the two-hundred-and-fifty-foot-tall militia towers contain the iron fist of the city-state's government; in a sense, they are vertical barracks. Most towers are linked by the seven skyrails to the Spike, the westernmost tower at Perdido Street Station and the militia headquarters, allowing swift transport in dangling pods by militiamen and other state officials along the thick, thrumming wires. All towers have aerostats and dirigibles ready to deploy at a moment's notice to put down a rioting crowd or a strike that the bosses can no longer tolerate.
 
 The towers stand in ten locations throughout the city, including Flyside, Strack Island, Sheck, and Bonetown, and the central Spike at Perdido Street Station. Each is manned by at least fifty and up to five-hundred militiamen, though they do not mark themselves with badges or uniforms in public unless absolutley necessary. The top of each tower is an observation platform where telescopes and optics are mounted to spy on the citizenry.
 
@@ -240,4 +240,22 @@ Parliament is divided into at least a dozen political parties at any given time,
 
 **Three Quills**: appealing to nativism, jingoism and a violent anti-Xenian sentiment, the Three Quills party is known for proposing pogroms to kill or exile the khepri, cactacae, vodyanoi, and all other non-humans from the city. The party has a significant street presence in some areas in the city, with 'Quillers' committing assaults against Xenians and suspected radicals; breaking strikes that attempt to organise Xenians and humans together.
 
+---
 
+*Militia*
+
+The militia, New Crobuzon’s military defence and its internal correction agents, only appear in their uniforms, the infamous full-face masks and dark armour, the shields and flintlocks, when they are acting as guards at some hyper-secure location, or at times of great emergency. They wore their colours openly during the Pirate Wars and the Sacramundi Riots, when enemies attacked the city’s order from without or within. Otherwise though, for their day-to-day duties, they rely on their reputation and on their vast network of informers (with colonel-informers for oversight) and plain-clothed officers.
+
+When the militia strike, it is the man drinking cassis in the cafe, the old woman weighed down with bags, the clerk in stiff collar and polished shoes who suddenly reach over their heads and pull hoods from invisible folds in the cloth, who slip enormous flintlocks from hidden holsters and pour into criminal dens. When a cutpurse runs from a shouting victim, it might be a portly man with a bushy moustache who grabs the offender in a punishing necklock and disappears with him or her into the crowd, or a militia tower.
+
+No witness could ever say for sure what the agents had looked like in their civilian guise. And no one would ever see the clerk or the portly man or any of them again, in that part of the city.
+
+In New Crobuzon, policing is done by decentralized fear.
+
+---
+
+*The Courts and Punishment Factories*
+
+Criminals of all kinds are brought to the Spike for judgment. In secret courts, presided over by the faceless Magisters, judges who hide their faces and operate using false names, those found guilty are sentenced to harsh punishments - whippings, fines, or, often, transportation to the punishment factories for Remaking.
+
+Magisters, even the top-rank doges, were citizens, it is always stressed, citizens like anyone. They work masked for justice’s sake, for the anonymity of justice. Any dwelling, in any part of town, could house a servant of law. Either way, 
