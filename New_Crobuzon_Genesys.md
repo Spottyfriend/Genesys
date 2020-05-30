@@ -254,8 +254,26 @@ In New Crobuzon, policing is done by decentralized fear.
 
 ---
 
-*The Courts and Punishment Factories*
+*Courts*
 
-Criminals of all kinds are brought to the Spike for judgment. In secret courts, presided over by the faceless Magisters, judges who hide their faces and operate using false names, those found guilty are sentenced to harsh punishments - whippings, fines, or, often, transportation to the punishment factories for Remaking.
+Criminals of all kinds are brought to the Spike for judgement. In secret courts, presided over by the faceless magisters - judges who hide their faces and operate using false names - those found guilty are sentenced to harsh punishments - whippings, fines, or, often, transportation to the punishment factories for Remaking.
 
-Magisters, even the top-rank doges, were citizens, it is always stressed, citizens like anyone. They work masked for justice’s sake, for the anonymity of justice. Any dwelling, in any part of town, could house a servant of law. Either way, 
+As is often stressed by officials, magisters, even the top-rank doges, are citizens; they can be of any class, and come from any district; they work masked for justice’s sake, for the anonymity of justice. Critics point out that if magisters were to show their faces, they might meet harsher punishment on the streets than even they could deal out in the courts. In any case, the courts are among the most feared and respected state institutions in New Crobuzon.
+
+---
+
+*Punishment Factories*
+
+Dotted across the city, above and below ground, the punishment factories of New Crobuzon are considered by many to be the cruelest instruments of New Crobuzon's state machine. 
+
+For a vast array of crimes, individuals are sentenced by a magister to a Remaking; the form of this Remaking often will supposedly hold some poetic justice, such as a thief receiving grotesquely mutilated hands. Other remakings are for the benefit of the state alone, such as melding an inmate with construction equipment for the purpose of hard manual labor. In any case, no one comes out of a punishment factory untouched by the nightmarish process.
+
+Employed in the factories are a small army of highly trained biothaumaturges, experts in the art of tearing at and recreating flesh, bonding it in unintended ways, manipulating it within the limits dictated only by the mind of the thaumaturge themself. Of course, the techniques can heal and repair, but that is not their function here.
+
+---
+
+#### Religion
+
+---
+
+
