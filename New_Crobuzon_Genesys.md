@@ -57,6 +57,8 @@ The intention of this guide is to give the reader *both* an understanding of the
 
 This guide aims to allow players to run a campaign in New Crobuzon without having read Mieville's books, although groups will be at a definite story-telling advantage if *at least* the GM has read the first of Mieville's Bas-Lag series: *Perdido Street Station*. In view of this, the details of the world of Bas-Lag contained within this guide will be in relation to that world in the years just preceding 1779, which is to say, just preceding *Perdido Street Station*. This guide will therefore be spoiler-free in terms of plot events, although readers will miss out on the joy of discovering the world as Mieville presents it. In any case, spoiler-adverse readers should procede with care.
 
+Nerdier readers also may wish to take note that not all information contained within this guide is strictly *canon*, since, though my primary source is Mieville's books, I also use many of details found in *Dragon* #352. The writer, Bauer, was given access to Meiville's unpublished notebooks, but was also given license to add to Meiville's world, though without changing any of its established facts. Less nerdier readers are free, therefore, to totally disregard this information; it will not affect your experience of play in the slightest.
+
 ## Setting
 
 ### The City: New Crobuzon
