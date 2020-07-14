@@ -278,4 +278,4 @@ Employed in the factories are a small army of highly trained biothaumaturges, ex
 
 ---
 
-
+The pantheons, cults, and religious sects of New Crobuzon are almost as diverse as the Crobuzoners themselves, and many traditions have flourished, diminished, and seen resurgences over the city's long history. Some major theologies have perisisted in the city, however.  
