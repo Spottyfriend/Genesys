@@ -278,4 +278,16 @@ Employed in the factories are a small army of highly trained biothaumaturges, ex
 
 ---
 
-The pantheons, cults, and religious sects of New Crobuzon are almost as diverse as the Crobuzoners themselves, and many traditions have flourished, diminished, and seen resurgences over the city's long history. Some major theologies have perisisted in the city, however.  
+The pantheons, cults, and religious sects of New Crobuzon are almost as diverse as the Crobuzoners themselves, and many traditions have flourished, diminished, and seen resurgences over the city's long history; some major theologies have perisisted in the city, however.
+
+---
+
+*'The Gods'*
+
+The most established religion in New Crobuzon is the church of, what many Crobozeners would simply call, 'the gods' (or 'human gods', as opposed to those worshipped by xenian cultures). Whilst not a diety himself, the most famous, and most worshipped, idol of the church is Saint Jabber, whose very name is imbedded in city and in its dialect. One can hardly step onto the street without hearing the exclamation of 'Jabber's arse!' or 'for Jabber's sake!", not to mention the fact you may be stepping on a street in Jabber's Mound. Many children in New Crobuzon will enjoy a toffee-pudding on Jabber's Feast, or walk the latern-lined streets, jostled by singing crowds at the festival of Jabber's Morning.
+
+The god Darioch is another of New Crobuzon's most popular dieties. 
+Solenton
+Crawfoot
+Salter
+
