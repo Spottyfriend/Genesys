@@ -280,14 +280,31 @@ Employed in the factories are a small army of highly trained biothaumaturges, ex
 
 The pantheons, cults, and religious sects of New Crobuzon are almost as diverse as the Crobuzoners themselves, and many traditions have flourished, diminished, and seen resurgences over the city's long history; some major theologies have perisisted in the city, however.
 
+A note for readers here: Mieville does not go into extensive detail on the majority of the panetheons of New Crobuzon. Presented below is all the detail that is provided within the books; GMs are of course free expand on the below in any direction they see fit.
+
 ---
 
 *'The Gods'*
 
 The most established religion in New Crobuzon is the church of, what many Crobozeners would simply call, 'the gods' (or 'human gods', as opposed to those worshipped by xenian cultures). Whilst not a diety himself, the most famous, and most worshipped, idol of the church is Saint Jabber, whose very name is imbedded in city and in its dialect. One can hardly step onto the street without hearing the exclamation of 'Jabber's arse!' or 'for Jabber's sake!", not to mention the fact you may be stepping on a street in Jabber's Mound. Many children in New Crobuzon will enjoy a toffee-pudding on Jabber's Feast, or walk the latern-lined streets, jostled by singing crowds at the festival of Jabber's Morning.
 
-The god Darioch is another of New Crobuzon's most popular dieties. 
-Solenton
-Crawfoot
-Salter
+The god Darioch is another of New Crobuzon's most popular dieties. He is a key figure in the well-known fables - the *Crawfoot Chronicles*; the New Crobuzoner navy has named several ships after him; and many Crobuzoner's will know the prayer of Darioch's Lament. The Daughter's of Darioch are a nun-like order of women who forgoe worldly pleasures for the worship of Darioch and Jabber.
+
+Other gods of New Crobuzon's most established religion include Solenton, Crawfoot (who's jesting and misadventures are documented in the well-known *Crawfoot Chronicles*), and Salter.
+
+---
+
+*The Khepri Gods*
+
+Awesome Broodma is a central figure of worship for the Khepri of New Crobuzon, as, to a lesser extent, are the Artspitter, Nurse, Air Harvester, Elyctric Devil, Wingsister (whose worshippers take to the rooftops and pray for flight) and the guard-gods the Tough Sisters, one with crossbow and flintlock, another with spear and hooknet, and the third with a metaclockwork stingbox. Strange to even the latter, rarer sects though, are those who pledge themselves to Insect Aspect.
+
+Properly transliterated from Khepri into the New Crobuzon script, the chymico-audio-visual composite of description, devotion and awe that is the name of the god is rendered Insect/Aspect/ (male)/(singleminded). It is taught that (what is usually translated as) 'Insect Aspect' is the lord of all creation, the all-powerful force that knows only hunger and thirst and rutting and satisfaction. He shat out the universe after eating the void, in a mindless act of cosmic creation the purer and more brilliant for being devoid of motive or awareness.
+
+The bleak doctrine of Insect Aspect is that khepri women are cursed. Some vile flaw on the part of the first woman had consigned her daughters to lives encumbered with slow, floundering bipedal bodies and minds possessed by useless consciousness. Woman had lost the insectile purity of God and male. Worshippers of Insect Aspect, therefore, worship the mindless male khepri and seek to live as they do - without complex thought beyond eating and pleasureless sex.
+
+---
+
+Palgolak
+
+The Palgolak church is popular in New Crobuzon partly due to its immense library 
 
