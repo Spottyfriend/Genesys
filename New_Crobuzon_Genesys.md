@@ -326,7 +326,7 @@ The viciously anti-xenian Codling Brood is growing in the city. Their theologies
 
 ---
 
-*Church of the Clock Gods
+*Church of the Clock Gods*
 
 The religion of the clock gods is one more closely associated with the humans living in Shankell (the city that lies on the southern coastline of the Meagre Sea). Churches can be found in New Crobuzon though, with the ululating hymn to Sanshad, the sun god, being belted through their windows. A newer religion in the city, the teachings of the clock gods only found their way over the Meagre Sea some thirty years ago, but, since then, many of the sublties and nuances of the theology has been lost. Worshippers in New Crobuzon, however, have a certain rowdy zeal that their cousins in Shankell lack.
 
