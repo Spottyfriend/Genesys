@@ -294,7 +294,7 @@ Other gods of New Crobuzon's most established religion include Solenton, Crawfoo
 
 ---
 
-*The Khepri Gods*
+*Khepri Gods*
 
 Awesome Broodma is a central figure of worship for the Khepri of New Crobuzon, as, to a lesser extent, are the Artspitter, Nurse, Air Harvester, Elyctric Devil, Wingsister (whose worshippers take to the rooftops and pray for flight) and the guard-gods the Tough Sisters, one with crossbow and flintlock, another with spear and hooknet, and the third with a metaclockwork stingbox. Strange to even the latter, rarer sects though, are those who pledge themselves to Insect Aspect.
 
@@ -304,7 +304,7 @@ The bleak doctrine of Insect Aspect is that khepri women are cursed. Some vile f
 
 ---
 
-*The Palgolak Church*
+*Palgolak Church*
 
 The Palgolak church is popular in New Crobuzon, even for non-believers, partly due to its immense library, which houses at least as many tomes as the library of New Crobuzon University. If one knows anything about the diety and his followers, it is easy to see why this is what the church is primarily known for. Palgolak is a god of knowledge. He is depicted either as a fat, squat human reading in a bath, or a slender vodyanoi doing the same, or, mystically, both at once. His congregation are human and vodyanoi in roughly equal proportions. He is an amiable, pleasant deity, a sage whose existence is entirely devoted to the collection, categorization, and dissemination of information.
 
@@ -314,13 +314,13 @@ The New Crobuzon Palgolak Library has the best collection of religious manuscrip
 
 ---
 
-*The Godmech Cogs and One True God*
+*Godmech Cogs and One True God*
 
 The followers of One True God are the Godmech Cogs, believers in a mechanised, construct-like cosmos. Worshippers may be found across the city, with interlocking wheels tattooed across their arms, attempting to convert those unfortunate enough to have decided to engage a Cog in casual conversation. Despite their reputation for heated theological debate however, the Godmech Cogs are egalitarian and, even at their worst, mostly harmless.
 
 ---
 
-*The Codling Brood*
+*Codling Brood*
 
 The viciously anti-xenian Codling Brood is growing in the city. Their theologies lead them to a violent human supremacy which have some associating with the Three Quills party; it would not be unsuprising to find a member of the Brood patrolling some moonlit poorer district with a Quiller gang, out to "keep their city clean".
 
@@ -329,6 +329,14 @@ The viciously anti-xenian Codling Brood is growing in the city. Their theologies
 *Church of the Clock Gods*
 
 The religion of the clock gods is one more closely associated with the humans living in Shankell (the city that lies on the southern coastline of the Meagre Sea). Churches can be found in New Crobuzon though, with the ululating hymn to Sanshad, the sun god, able to be heard belted through their windows. A newer religion in the city, the teachings of the clock gods only found their way over the Meagre Sea some thirty years ago, but, since then, many of the sublties and nuances of the theology has been lost. Worshippers in New Crobuzon, however, have a certain rowdy zeal that their cousins in Shankell lack.
+
+---
+
+*Manifold Horizon*
+
+Very few if any temples to the Manifold Horizon exist in New Crobuzon, and only a handful of believers may be found, at most. Worship in the tradition of the Manifold Horizon is split into its various Moments. The Moments of the Manifold Horizon are as diverse as they are numerous: Cadmer, Moment of Calculation; Zaori, Moment of Magic Wine; Pharru, Moment of Forgotten Snow; Tekke Shesim, Moment of Memory; Tekke Vogu; Moment of the Hidden and Lost; Moment of Doves; Moment of Desiccation. Monks fully dedicated to such moments may learn thaumaturgic abilities associated with each. A monk of Tekke Vogu, for example, is utterly enfolded in the Moment, giving them the power to uncover a hidden truth in exchange for something forcably and painfully hidden from them about their self, their past, or even parts of their physical bodies; their dedicate also leaves them totally unseen. Monks of Zaori, on the other hand, may experience visions upon drinking certain liquids. Those monks dedicated to the Moment of Desiccation possess the power to turn blood to ash, among other abilities.
+
+The Manifold Horizon is primarily a Teshi religion, so any worshippers to have successfully arived in New Crobuzon will have come very far indeed, since Tesh lies on the far South West side of the contient from New Crobuzon.
 
 ---
 
