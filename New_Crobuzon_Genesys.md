@@ -280,7 +280,7 @@ Employed in the factories are a small army of highly trained biothaumaturges, ex
 
 The pantheons, cults, and religious sects of New Crobuzon are almost as diverse as the Crobuzoners themselves, and many traditions have flourished, diminished, and seen resurgences over the city's long history; some major theologies have perisisted in the city, however.
 
-A note for readers here: Mieville does not go into extensive detail on the majority of the panetheons of New Crobuzon. Presented below is all the detail that is provided within the books; GMs are of course free expand on the below in any direction they see fit.
+A note for readers here: Mieville does not go into extensive detail on the majority of the panetheons of New Crobuzon. Presented below is all the detail that is provided within the books; GMs are of course free expand on the following descriptions in any direction they see fit.
 
 ---
 
@@ -304,7 +304,34 @@ The bleak doctrine of Insect Aspect is that khepri women are cursed. Some vile f
 
 ---
 
-Palgolak
+*The Palgolak Church*
 
-The Palgolak church is popular in New Crobuzon partly due to its immense library 
+The Palgolak church is popular in New Crobuzon, even for non-believers, partly due to its immense library, which houses at least as many tomes as the library of New Crobuzon University. If one knows anything about the diety and his followers, it is easy to see why this is what the church is primarily known for. Palgolak is a god of knowledge. He is depicted either as a fat, squat human reading in a bath, or a slender vodyanoi doing the same, or, mystically, both at once. His congregation are human and vodyanoi in roughly equal proportions. He is an amiable, pleasant deity, a sage whose existence is entirely devoted to the collection, categorization, and dissemination of information.
 
+The Palgolaki are proselytizers, holding that everything known by a worshipper is immediately known by Palgolak, which is why they are religiously charged to read voraciously. But their mission is only secondarily for the glory of Palgolak, and primarily for the glory of knowledge, which is why they are sworn to admit all who wish to enter into their library.
+
+The New Crobuzon Palgolak Library has the best collection of religious manuscripts known in the world of Bas-Lag, and it therefore attracts pilgrims from a huge variety of religious traditions and factions. They throng the northern ends of Brock Marsh and Spit Hearth, all the worshipping races of the Bas-Lag, in robes and masks, sporting whips, leashes, magnifying glasses, the whole gamut of religious paraphernalia.
+
+---
+
+*The Godmech Cogs and One True God*
+
+The followers of One True God are the Godmech Cogs, believers in a mechanised, construct-like cosmos. Worshippers may be found across the city, with interlocking wheels tattooed across their arms, attempting to convert those unfortunate enough to have decided to engage a Cog in casual conversation. Despite their reputation for heated theological debate however, the Godmech Cogs are egalitarian and, even at their worst, mostly harmless.
+
+---
+
+*The Codling Brood*
+
+The viciously anti-xenian Codling Brood is growing in the city. Their theologies lead them to a violent human supremacy which have some associating with the Three Quills party; it would not be unsuprising to find a member of the Brood patrolling some moonlit poorer district with a Quiller gang, out to "keep their city clean".
+
+---
+
+*Church of the Clock Gods
+
+The religion of the clock gods is one more closely associated with the humans living in Shankell (the city that lies on the southern coastline of the Meagre Sea). Churches can be found in New Crobuzon though, with the ululating hymn to Sanshad, the sun god, being belted through their windows. A newer religion in the city, the teachings of the clock gods only found their way over the Meagre Sea some thirty years ago, but, since then, many of the sublties and nuances of the theology has been lost. Worshippers in New Crobuzon, however, have a certain rowdy zeal that their cousins in Shankell lack.
+
+---
+
+*Non-Belief*
+
+Given the vast quantity and variety of traditions and pantheons in the city, one would be forgiven for believing that New Crobuzon's inhabitants were, on the whole, deeply religious. In truth, this is often far from the case. It is true that most believe, justifiably, in the existence of other aspects of existence – they can, after all, be communicated with, and even visited. Alternate planes may indeed be inhabited by beings and essences with immense power, in human terms at least, but, says the non-believer, taking the leap to call these beings “gods” is unncessary, and worshipping them would be close to pointless.
