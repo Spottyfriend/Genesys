@@ -344,3 +344,14 @@ The Manifold Horizon is primarily a Teshi religion, so any worshippers to have s
 *Non-Belief*
 
 Given the vast quantity and variety of traditions and pantheons in the city, one would be forgiven for believing that New Crobuzon's inhabitants were, on the whole, deeply religious. In truth, this is often far from the case. It is true that most believe, justifiably, in the existence of other aspects of reality – they can, after all, be communicated with, and even visited. Alternate planes may indeed be inhabited by beings and essences with immense power, in human terms at least, but, says the non-believer, taking the leap to call these beings “gods” is unncessary, and worshipping them would be close to pointless.
+
+---
+
+**Thaumaturgy**
+
+---
+
+chromathaumaturgy (make light shows)
+elyctro-thaumaturgy
+Geothaumaturgy
+
