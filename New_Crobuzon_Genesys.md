@@ -347,7 +347,11 @@ Given the vast quantity and variety of traditions and pantheons in the city, one
 
 ---
 
-**Thaumaturgy**
+#### Technology and Industry
+
+---
+
+#### Thaumaturgy
 
 ---
 
