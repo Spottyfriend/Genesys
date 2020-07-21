@@ -369,7 +369,7 @@ Elyctro-thaumaturgy
 Geothaumaturgy
 Hedge-mancy
 Kacist Practice
-Communicatrix Practice (With enough training, anyone could effect the odd fumbling hex, but this kind of psychic channelling took a prodigious birth-talent and years of arduous study.)
+Communicatrix/Communicator Practice (With enough training, anyone could effect the odd fumbling hex, but this kind of psychic channelling took a prodigious birth-talent and years of arduous study.)
 Somaturgy/Golemetry (Golemists) (ready-made)
 Biothaumaturgy
 Physico-thaumaturgy
