@@ -56,7 +56,7 @@ The intention of this guide is to give the reader *both* an understanding of the
 
 This guide aims to allow players to run a campaign in New Crobuzon without having read Mieville's books, although groups will be at a definite story-telling advantage if *at least* the GM has read the first of Mieville's Bas-Lag series: *Perdido Street Station*. In view of this, the details of the world of Bas-Lag contained within this guide will be in relation to that world in the years just preceding 1779, which is to say, just preceding *Perdido Street Station*. This guide will therefore be spoiler-free in terms of plot events, although readers will miss out on the joy of discovering the world as Mieville presents it. In any case, spoiler-adverse readers should procede with care.
 
-Nerdier readers also may wish to take note that not all information contained within this guide is strictly *canon*, since, though my primary source is Mieville's books, I also use many of details found in *Dragon* #352. The writer, Bauer, was given access to Meiville's unpublished notebooks, but was also given license to add to Meiville's world, though without changing any of its established facts. Less nerdier readers are free, therefore, to totally disregard this information; it will not affect your experience of play in the slightest.
+Nerdier readers also may wish to take note that not all information contained within this guide is strictly *canon*, since, though my primary source is Mieville's books, I also use many of details found in *Dragon* #352. The writer, Bauer, was given access to Meiville's unpublished notebooks, but was also given license to add to Meiville's world, though without changing any of its established facts. Less nerdier readers are free to totally disregard this information; it will not affect your experience of play in the slightest.
 
 ## Setting
 
@@ -66,11 +66,9 @@ Nerdier readers also may wish to take note that not all information contained wi
 
 The city of Crobuzon was founded roughly 1,800 years ago as a small village near the coast of lron Bay at the outflow to the Gross Tar river, near where Tarmuth is now. It prospered and quickly became a favorite target of pirate attacks until, 100 years after its founding, one such raid burned Crobuzon to the ground.
 
-The inhabitants pulled up stakes and moved to where the River Tar meets with the Canker, just a few miles upriver from its meeting with
-the sea. Although the people renamed it New Crobuzon, the dating system from the first settlement's founding on Iron Bay was retained (Anno Urbis - AU - and retroactively, Before New Crobuzon - BNC). Over time, its exploited citizens and scheming mayors have extended its reach thousands of miles, and have built its manufactories into a vast, sprawling, industrial mess. The city-state has created great art and advanced sciences, funded rail travel and gliding aerostats, destroyed one of its rival cities and brought others to heel, and has made some of its merchants very, very wealthy indeed.
+The inhabitants pulled up stakes and moved to where the River Tar meets with the Canker, just a few miles upriver from its meeting with the sea. Although the people renamed it New Crobuzon, the dating system from the first settlement's founding on Iron Bay was retained (Anno Urbis - AU - and retroactively, Before New Crobuzon - BNC). Over time, its exploited citizens and scheming mayors have extended its reach thousands of miles, and have built its manufactories into a vast, sprawling, industrial mess. The city-state has created great art and advanced sciences, funded rail travel and gliding aerostats, destroyed one of its rival cities and brought others to heel, and has made some of its merchants very, very wealthy indeed.
 
-New Crobuzon now suffers the diseases of a proud industrial metropolis: alchemical wastes flow into the Gross Tar from Brock
-Marsh; the crowds (three and a half million strong) strain its streets and rails; and while its newer buildings tower ten and even twenty stories high, every mass of concrete, tar, and brick is rotting at the base. Many of its districts are slums; rebels and unions threaten the wealth of the powerful capitalist industrialists; and its citizens are barely held in check by the brutal militia.
+New Crobuzon now suffers the diseases of a proud industrial metropolis: alchemical wastes flow into the Gross Tar from Brock Marsh; the crowds (three and a half million strong) strain its streets and rails; and while its newer buildings tower ten and even twenty stories high, every mass of concrete, tar, and brick is rotting at the base. Many of its districts are slums; rebels and unions threaten the wealth of the powerful capitalist industrialists; and its citizens are barely held in check by the brutal militia.
 
 Welcome to New Crobuzon, the greatest city-state in the world.
 
@@ -197,7 +195,7 @@ Dissidents are brought to the Spike for judgement in secret courts by the facele
 
 **Parliament and Strack Island**: Parliament is a dark edifice, a set of smoky black walls that jut from Strack Island at the confluence of the Canker and the Tar. This building is not simply the home of New Crobuzon's elected body and Mayor's office; it is a sprawling complex of governemnt offices, laboratories, holding cells for high-level political prisoners, and archives of all city records. The living quarters of the Lord Mayor and their ministers are also housed within the parliament complex for times of civil unrest.
 
-The primary section of Parliament is the legislative building itself, home to the constant deliberations, bribery, and brinksmanship that make up New Crobuzoner political life. Numbers vary from session to session as new rules of order are adopted by each parliament to govern the size of the succeeding one, but generally between three-hundred and five-hundred members of Parliament work and live on Strack Island during the height of parliamentary sessions.
+The primary section of Parliament is the legislative building itself, home to the constant deliberations, bribery, and brinksmanship that make up New Crobuzoner political life. Numbers of representatives vary from session to session as new rules of order are adopted by each parliament to govern the size of the succeeding one, but generally between three-hundred and five-hundred members of Parliament work and live on Strack Island during the height of parliamentary sessions.
 
 The Mayor's office - the Lemquist Room - also sits somewhere within the walls of parliament. Behind the huge, ancient, iron-bound doors, the Lemquist Room is immensely tall, panelled in darkwood of exquisite quality. Portraits of previous mayors circle the room, from the ceiling thirty feet above, spiralling slowly down to within six feet of the floor. An enormous window looks out directly at Perdido Street Station and the Spike.
 
@@ -215,7 +213,7 @@ New Crobuzon is a city in a constant state of flux. The uneasy truce between exp
 
 *The Lord Mayor*
 
-The Mayor is effectively the head of state in New Crobuzon, although Parliament controls the purse strings, and the home secretary controls much of the civil service. The mayor influences foreign and domestic policy through his control of the militia, and he has the powers of arrest, torture, and Remaking. To ensure the city prospers, he operates primarily through wheedling, deal-making, threatening to use the militia, and enforcement of Parliament’s edicts. He shares responsibility with Parliament for foreign policy, overseas trade, and conducting wars.
+The Mayor is effectively the head of state in New Crobuzon, although Parliament controls the purse strings, and the home secretary controls much of the civil service. The mayor influences foreign and domestic policy through his control of the militia, and he has the powers of arrest, torture, and Remaking. To ensure the city prospers, he operates primarily through wheedling, deal-making, threatening the use of militia, and enforcement of Parliament’s edicts. He shares responsibility with Parliament for foreign policy, overseas trade, and conducting wars.
 
 While Parliament is responsible for taxation and proposing legislation, it is primarily a check on mayoral power. In good times, the two operate in a sort of symbiotic harmony. In bad times, nothing is too outrageous: fiscal threats, petty vengeances, blackmail, and outright Remakings are sometimes part of the political game in New Crobuzon. A cabinet of six to seventeen lords and ministers – appointed by the Mayor – reports to him and none other. Although the precise configuration varies, most cabinets include a Lord Privy Seal, Minister of Commerce and Industry, Chancellor of the Exchequer, Minister of Justice (including the Junior Minister for Remaking,) Lord Captain of the Militia, Minister of State, and a Minister Without Portfolio.
 
@@ -225,9 +223,9 @@ At present, the Mayor is Bentham Rudgutter. A typical Mayor - Bentham is a membe
 
 *Parliament*
 
-Parliament, housed in a huge blackened building on Strack Island, consists of a body of roughly 500 of the richest and most venial public servants in New Crobuzon, and consists entirely of propertied men and women, plus a few vodyanoi and cactacae. The very few xenians who are represented are usually elevated by special mechanisms to ensure “reputable representation,” although they could technically be elected simply on the usual system.
+Parliament, housed in a huge blackened building on Strack Island, consists of a body of roughly 500 of the richest and most venial public servants in New Crobuzon; they are entirely propertied men and women, plus a few vodyanoi and cactacae. The very few xenians who are represented are usually elevated by special mechanisms to ensure “reputable representation,” although they could technically be elected simply on the usual system.
 
-Parliament diligently looks after its own interests during each yearly session. The interests of the working man or woman of New Crobuzon are, for the most part, only worth considering near election time. To vote in the New Crobuzon elections, one must be either a property-owning citizen, or the lucky winner of an electoral lottery, (i.e., the “suffrage lottery.”) The lottery’s purpose is to add the voice of “ordinary people” to the “expertise” of the wealthy. In practice, though, many of those who win such a lottery sell their voting tickets to vote-shapers, who use them as proxies for their own interests.
+Parliament diligently looks after its own interests during each yearly session. The interests of the working man or woman of New Crobuzon are, for the most part, only worth considering near election time. To vote in the New Crobuzon elections, one must be either a property-owning citizen, or the lucky winner of an electoral lottery, (i.e., the “suffrage lottery”). The lottery’s purpose is to add the voice of “ordinary people” to the “expertise” of the wealthy. In practice, though, many of those who win such a lottery sell their voting tickets to vote-shapers, who use them as proxies for their own interests.
 
 ---
 
@@ -235,9 +233,9 @@ Parliament diligently looks after its own interests during each yearly session. 
 
 Parliament is divided into at least a dozen political parties at any given time, although the ruling party is usually either the Fat Sun or (rarely) Finally We Can See.
 
-**Fat Sun**: The party of industry, trade and all monied interests, the thoroughly corrupt Fat Sun party has reached a height during the government of Mayor Rudgutter. It's supporters can be found amongst all classes in the city, but it's donors and members of Parliment are wealthy and landowning without exception.
+**Fat Sun**: The party of industry, trade and all monied interests, the thoroughly corrupt Fat Sun party has reached a new height during the government of Mayor Rudgutter. It's supporters can be found amongst all classes in the city, but it's donors and members of Parliment are wealthy and landowning without exception.
 
-**Finally We Can See**: A corrupt, weaselly party best known for joining the government coalition – regardless of the coalition’s makeup. Finally We Can See traditionally makes liberal noises and claims to represent “the honest everyday citizen” but it has rarely done anything to show it.
+**Finally We Can See**: A corrupt, weaselly party best known for joining the government coalition, regardless of the coalition’s makeup. Finally We Can See traditionally makes liberal noises and claims to represent “the honest everyday citizen” but it has rarely done anything to show it.
 
 **Diverse Tendency**: A small party of xenians and a few humans, Diverse Tendency attempts to exploit legitimate xenian fears at the ballot box for its own ends (namely a share of the spoils of government.) While it preaches tolerance, it does little to encourage it. The party sometimes holds the balance of power, but is too small to rule. Thoroughly corrupt, it is nonetheless popular in the xenian ghettos. Xenian radicals view party members as sell-outs.
 
@@ -247,7 +245,7 @@ Parliament is divided into at least a dozen political parties at any given time,
 
 *Militia*
 
-The militia, New Crobuzon’s military defence and its internal correction agents, only appear in their uniforms, the infamous full-face masks and dark armour, the shields and flintlocks, when they are acting as guards at some hyper-secure location, or at times of great emergency. They wore their colours openly during the Pirate Wars and the Sacramundi Riots, when enemies attacked the city’s order from without or within. Otherwise though, for their day-to-day duties, they rely on their reputation and on their vast network of informers (with colonel-informers for oversight) and plain-clothed officers.
+The militia, New Crobuzon’s military defence and its internal correction agents, only appear in their uniforms - the infamous full-face masks and dark armour, the shields and flintlocks - when they are acting as guards at some hyper-secure location, or at times of great emergency. They wore their colours openly during the Pirate Wars and the Sacramundi Riots, when enemies attacked the city’s order from without or within. Otherwise though, for their day-to-day duties, they rely on their reputation and on their vast network of informers (with colonel-informers for oversight) and plain-clothed officers.
 
 When the militia strike, it is the man drinking cassis in the cafe, the old woman weighed down with bags, the clerk in stiff collar and polished shoes who suddenly reach over their heads and pull hoods from invisible folds in the cloth, who slip enormous flintlocks from hidden holsters and pour into criminal dens. When a cutpurse runs from a shouting victim, it might be a portly man with a bushy moustache who grabs the offender in a punishing necklock and disappears with him or her into the crowd, or a militia tower.
 
@@ -261,7 +259,7 @@ In New Crobuzon, policing is done by decentralized fear.
 
 Criminals of all kinds are brought to the Spike for judgement. In secret courts, presided over by the faceless magisters - judges who hide their faces and operate using false names - those found guilty are sentenced to harsh punishments - whippings, fines, or, often, transportation to the punishment factories for Remaking.
 
-As is often stressed by officials, magisters, even the top-rank doges, are citizens; they can be of any class, and come from any district; they work masked for justice’s sake, for the anonymity of justice. Critics point out that if magisters were to show their faces, they might meet harsher punishment on the streets than even they could deal out in the courts. In any case, the courts are among the most feared and respected state institutions in New Crobuzon.
+As is often stressed by officials, magisters, even the top-rank doges, are citizens: they can be of any class, and come from any district; they work masked for justice’s sake, for the anonymity of justice. Critics point out that if magisters were to show their faces, they might meet harsher punishment on the streets than even they could deal out in the courts. In any case, the courts are among the most feared and respected state institutions in New Crobuzon.
 
 ---
 
@@ -271,7 +269,7 @@ Dotted across the city, above and below ground, the punishment factories of New 
 
 For a vast array of crimes, individuals are sentenced by a magister to a Remaking; the form of this Remaking often will supposedly hold some poetic justice, such as a thief receiving grotesquely mutilated hands. Other remakings are for the benefit of the state alone, such as melding an inmate with construction equipment for the purpose of hard manual labor. In any case, no one comes out of a punishment factory untouched by the nightmarish process.
 
-Employed in the factories are a small army of highly trained biothaumaturges, experts in the art of tearing at and recreating flesh, bonding it in unintended ways, manipulating it within the limits dictated only by the mind of the thaumaturge themself. Of course, the techniques can heal and repair, but that is not their function here.
+Employed in the factories are a small army of highly trained biothaumaturges - experts in the art of tearing at and recreating flesh, bonding it in unintended ways, manipulating it within the limits dictated only by the mind of the thaumaturge themself. Of course, the techniques can heal and repair, but that is not their function here.
 
 ---
 
@@ -335,7 +333,9 @@ The religion of the clock gods is one more closely associated with the humans li
 
 *Manifold Horizon*
 
-Very few if any temples to the Manifold Horizon exist in New Crobuzon, and only a handful of believers may be found, at most. Worship in the tradition of the Manifold Horizon is split into its various Moments. The Moments of the Manifold Horizon are as diverse as they are numerous: Cadmer, Moment of Calculation; Zaori, Moment of Magic Wine; Pharru, Moment of Forgotten Snow; Tekke Shesim, Moment of Memory; Tekke Vogu; Moment of the Hidden and Lost; Moment of Doves; Moment of Desiccation. Monks fully dedicated to such moments may learn thaumaturgic abilities associated with each. A monk of Tekke Vogu, for example, is utterly enfolded in the Moment, giving them the power to uncover a hidden truth in exchange for something forcably and painfully hidden from them about their self, their past, or even parts of their physical bodies; their dedicate also leaves them totally unseen. Monks of Zaori, on the other hand, may experience visions upon drinking certain liquids. Those monks dedicated to the Moment of Desiccation possess the power to turn blood to ash, among other abilities.
+Very few if any temples to the Manifold Horizon exist in New Crobuzon, and only a handful of believers may be found, at most.
+
+Worship in the tradition of the Manifold Horizon is split into its various Moments. The Moments of the Manifold Horizon are as diverse as they are numerous: Cadmer, Moment of Calculation; Zaori, Moment of Magic Wine; Pharru, Moment of Forgotten Snow; Tekke Shesim, Moment of Memory; Tekke Vogu; Moment of the Hidden and Lost; Moment of Doves; Moment of Desiccation. Monks fully dedicated to such moments may learn thaumaturgic abilities associated with each. A monk of Tekke Vogu, for example, is utterly enfolded in the Moment, giving them the power to uncover a hidden truth in exchange for something forcably and painfully hidden from them about their self, their past, or even parts of their physical bodies; their dedicate also leaves them totally unseen. Monks of Zaori, on the other hand, may experience visions upon drinking certain liquids. Those monks dedicated to the Moment of Desiccation possess the power to turn blood to ash, among other abilities.
 
 The Manifold Horizon is primarily a Teshi religion, so any worshippers to have successfully arived in New Crobuzon will have come very far indeed, since Tesh lies on the far South West side of the contient from New Crobuzon.
 
@@ -350,12 +350,30 @@ Given the vast quantity and variety of traditions and pantheons in the city, one
 #### Technology and Industry
 
 ---
+Metaclockwork
+Thaumaturgy
+Chymstry
+Elytricity
+Gas
+Coal
+Oil
+
+---
 
 #### Thaumaturgy
 
 ---
 
-chromathaumaturgy (make light shows)
-elyctro-thaumaturgy
+Chromathaumaturgy (make light shows)
+Elyctro-thaumaturgy
 Geothaumaturgy
-
+Hedge-mancy
+Kacist Practice
+Communicatrix Practice (With enough training, anyone could effect the odd fumbling hex, but this kind of psychic channelling took a prodigious birth-talent and years of arduous study.)
+Somaturgy/Golemetry (Golemists) (ready-made)
+Biothaumaturgy
+Physico-thaumaturgy
+Subvocalurgy (susurrators/whispersmiths 
+chimerist
+Metallo-thaumaturgy
+Meteoromancy
