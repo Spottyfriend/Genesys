@@ -9,6 +9,7 @@
   * [The City: New Crobuzon](#the-city-new-crobuzon)
     + [Geography](#geography)
     + [Politics and the State](#politics-and-the-state)
+    + [Groups and Organisations](#groups-and-organisations)
     + [Religion](#religion)
     + [Technology and Industry](#technology-and-industry)
     + [Thaumaturgy](#thaumaturgy)
@@ -270,6 +271,34 @@ Dotted across the city, above and below ground, the punishment factories of New 
 For a vast array of crimes, individuals are sentenced by a magister to a Remaking; the form of this Remaking often will supposedly hold some poetic justice, such as a thief receiving grotesquely mutilated hands. Other remakings are for the benefit of the state alone, such as melding an inmate with construction equipment for the purpose of hard manual labor. In any case, no one comes out of a punishment factory untouched by the nightmarish process.
 
 Employed in the factories are a small army of highly trained biothaumaturges - experts in the art of tearing at and recreating flesh, bonding it in unintended ways, manipulating it within the limits dictated only by the mind of the thaumaturge themself. Of course, the techniques can heal and repair, but that is not their function here.
+
+---
+
+#### Groups and Organisations
+
+---
+
+As with any city of its size, New Crobuzon is home to many varied communities, groups and organisations - legal and illegal; virtuous and devious; radical and reactionary. Most New Crobuzoners will have had a run-in with at least one organised interest in the city, that is if they themselves are not involved directly - selling drugs for a gang, writing for an illicit news-sheet, or informing for the militia.
+
+---
+
+*Adventurers*
+
+---
+
+*Criminal Gangs*
+
+---
+
+*Militia*
+
+---
+
+*Quillers*
+
+---
+
+*Radicals*
 
 ---
 
