@@ -294,11 +294,19 @@ As with any city of its size, New Crobuzon is home to many varied communities, g
 
 ---
 
-*Quillers*
+*Three Quillers*
+
+Members of the Three Quills Party are committed to a party program of violent anti-xenian sentiment, nationalism and reaction. As such, Three Quillers will often be found in gangs, roaming poorer districts and xenian ghettos after dark, attacking xenian businesses and residents. Not all Quillers are simply thugs however; there are organisers, thinkers and leaders. Building a movement for race-purity takes careful work: there are xenian/human strikes to break, pamphlets of party literature to write and distribute; and human-only social programs to maintain. 
 
 ---
 
 *Radicals*
+
+New Crobuzon's political radicals take various forms, but perhaps the most noteworthy formation are those readers and producers of the illegal news-sheet *Runagate Rampant*. In one sense, the paper is not dissimmilar the *Quarrel*, or the *Beacon*, or any of the city's reputable papers - news, arts and industry are all covered inside - what seperates *Double-R*, as it is known by many, is that takes an explicitly seditionist position on the political questions of the day. 
+
+*RR*'s position is never totally static, since its writers and readers maintain a close eye on the ever-changing goings-on in the factories and the streets as well as in parliament, but a typical *Runagate Rampant* might denounce all partys and call for the spoiling of ballots and for the building of a party from below.
+
+Unlike New Crobuzon's legal press, *Double-R* (as well as its smaller cousins and sometimes rivals *The Shout*, *Forge* and others) is a tool for radical organising. Readers might be seen in after-work drinking sessions, discreetly pointing out an article to a sympathetic co-worker, or attending picket lines with a copy or two tucked under their coat. Reports of strikes, crimes of the state, and planned Quiller actions, whilst absent in *Quarrel*, are all reported in *RR*, providing readers with the knowledge to undertake collective action where necessary.
 
 ---
 
