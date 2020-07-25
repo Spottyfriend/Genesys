@@ -425,7 +425,7 @@ Thaumaturges in New Crobuzon are often artisans, selling their specific trade fr
 
 Below are some of the particular techniques and disciplines of thaumaturgy, but not all thaumaturgy falls into a category, and some might straddle multiple techniques.
 
-**Biothaumaturgy**: The most well-known examples of biothaumaturgy in New Crobuzon are the Remade - those who have been tried and punished by the state in the city's infamous punishment factories - and so, in this sense, biothaumaturgy is part of what makes New Crobuzon the city it is. A biothaumaturge tears at and recreates flesh, bonds it in unintended ways, and manipulates it within the limits dictated only by imagination of the thaumaturge themself. It can be used to heal, but biothaumaturgy horrifying use as a punishment and a weapon of the state has somewhat overshadowed its positive uses.
+**Biothaumaturgy**: The most well-known examples of biothaumaturgy in New Crobuzon are the Remade - those who have been tried and punished by the state in the city's infamous punishment factories - and so, in this sense, biothaumaturgy is part of what makes New Crobuzon the city it is. A biothaumaturge tears at and recreates flesh, bonds it in unintended ways, and manipulates it within the limits dictated only by imagination of the thaumaturge themself. It can be used to heal, but biothaumaturgy's horrifying use as a punishment and a weapon of the state has somewhat overshadowed its positive uses.
 
 **Chromathaumaturgy**: If a thaumaturge wishes to alter the appearence of an object or person, or simply create a colourful light show, she may turn to the study and use of chromathaumaturgy - the thaumaturgic discipline which can influence colour and light.
 
