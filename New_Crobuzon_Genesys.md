@@ -139,7 +139,7 @@ Some districts have a character all their own, based on the profession or specie
 
 Brock Marsh is also called the Scientific Quarter. Some of its denizens are scientists and thinkers, including physicists, chimerist, biophilosophers and teratologists, chymists, necrochymists, mathematicians, karcists and metallurgists, and vodyanoi shaman. If it's an obsure branch of an even more obscure form of knowledge, Brock Marsh is the place to find its practitioners. Its businesses include private libraries, book binders, herbalists, makers of glassware and copper tubing, scale and balance makers, and other artisans who cater to the scientific trade. Small hordes of badgers scamper through the streets, familiars by tradition to the learned, and waddle through special flaps in the store-fronts and doors of these shops.
 
-The favoured locales of the scientific class are pubs. The Dying Child on Umber Promendade is particiularly popular and is run by Silchristcheck, a vodyanoi who rarely leaves his bath. Another favourite is the Moon's Daughters, the common name for the two rocky satelites that orbit the Bas-Lag's moon, which sits near Denachi's Bridge, linking Brock Marsh to Bone Town.
+The favoured locales of the scientific class are pubs. Run by Silchristcheck, a surly vodyanoi who rarely leaves his bath - The Dying Child on Umber Promendade is particiularly popular. Another favourite is the Moon's Daughters (the common name for the two rocky satelites that orbit the Bas-Lag's moon), which sits near Denachi's Bridge, linking Brock Marsh to Bone Town.
 
 **The Glasshouse**: Built in the middle of Riverskin, this enormous hothouse is home to the majority of the city's cactacae. As its name suggests, it is an entirely enclosed glasshouse. A flattened dome over 70 metres high at its peak and, at its base, more than a quarter of a mile in diameter, the Glasshouse covers several city blocks originally designed for human habitation, the old streets stopping abruptly as they reach a glass wall. The old houses have been adapted for their new, much taller and larger inhabitants: roofs and walls knocked through; tops and backsides of buildings given extra rooms. New structures have been crammed in amongst the old - strange agglomerations of human architecture and monolithic stone-slab edifices stretching in big blocks of variegated colour - some several stories tall. The most imposing is a large red-stone step pyramid that serves a religious function known only to the cactacae, although some sort of sun worship seems likely. The pyramid terraces are overflowing with desert plants, and it is topped with a lensed heliochymical device that generates powerful rays of sunlight.
 
@@ -246,11 +246,11 @@ Parliament is divided into at least a dozen political parties at any given time,
 
 *Militia*
 
-The militia, New Crobuzon’s military defence and its internal correction agents, only appear in their uniforms - the infamous full-face masks and dark armour, the shields and flintlocks - when they are acting as guards at some hyper-secure location, or at times of great emergency. They wore their colours openly during the Pirate Wars and the Sacramundi Riots, when enemies attacked the city’s order from without or within. Otherwise though, for their day-to-day duties, they rely on their reputation and on their vast network of informers (with colonel-informers for oversight) and plain-clothed officers.
+The militia, New Crobuzon’s military defence and its internal correction agents, only appear in their uniforms - the infamous full-face masks and dark armour, the shields and flintlocks - when they are acting as guards at some hyper-secure location, or at times of great emergency. They wore their colours openly during the Pirate Wars and the Sacramundi Riots, when enemies attacked the city’s order from without or within, but otherwise, for their day-to-day duties, they rely on their reputation and on their vast network of informers and plain-clothed officers.
 
-When the militia strike, it is the man drinking cassis in the cafe, the old woman weighed down with bags, the clerk in stiff collar and polished shoes who suddenly reach over their heads and pull hoods from invisible folds in the cloth, who slip enormous flintlocks from hidden holsters and pour into criminal dens. When a cutpurse runs from a shouting victim, it might be a portly man with a bushy moustache who grabs the offender in a punishing necklock and disappears with him or her into the crowd, or a militia tower.
+When the militia strike, it is the man drinking cassis in the cafe, the old woman weighed down with bags, the clerk in stiff collar and polished shoes who suddenly reach over their heads and pull hoods from invisible folds in the cloth, who slip enormous flintlocks from hidden holsters and pour into criminal dens. When a cutpurse runs from a shouting victim, it might be a portly man with a bushy moustache who grabs the offender in a punishing necklock and disappears with him into the crowd.
 
-No witness could ever say for sure what the agents had looked like in their civilian guise. And no one would ever see the clerk or the portly man or any of them again, in that part of the city.
+No witness could ever say for sure what the agents had looked like in their civilian guise. And no one ever sees the clerk or the portly man or any of them again, in that part of the city.
 
 In New Crobuzon, policing is done by decentralized fear.
 
@@ -287,7 +287,6 @@ As with any city of its size, New Crobuzon is home to many varied communities, g
 Some of the toughest individuals in all Bas-Lag, one will often find adventurers stopping in New Crobuzon for supplies, to cash in a reward, or even to complete a task in their never-ending quest for gold and experience. Often seen in rare armours and with thaumaturgically enchanced weaponry, adventurers are hardy and dangerous; they are generally lawless, stripped of allegiance or morality, living off their wits, stealing and killing, and hiring themselves out to whoever and whatever comes. 
 
 They are considered by many in New Crobuzon as scum, who live short, violent lives and meet even more violent ends. They hang on to a certain cachet among some more impressionable souls however, through their undeniable bravery and their occasionally impressive exploits.
-
 
 ---
 
@@ -415,5 +414,39 @@ Oil
 #### Thaumaturgy
 
 ---
+
+Thaumaturgy is part the physical science of the university laboratory, and part the magic of fairytale and myth.
+
+Like science, thaumaturgy can be rigourously studied, and theories, models and mathematical renderings fill the textbooks on the subject in the New Crobuzon University library. It can also be used to great effect in industry, with powerful thaumaturgic currents able to power strange engines that coal or oil could not. Thaumaturgy may even be studied directly alongside science: the biology of many creatures in Bas-Lag has thaumaturgic elements, such as the vodyanoi's ablity to perform watercraeft, or the stiltspear's innate ability to secrete thaumaturgeons to camoflage themselves; some more unorthodox scientists and thaumaturge-academics even theorise that thaumaturgons (the theoretical particles whose maniuplation makes thaumaturgy possible) are essentially the same kind of thing as protons, electrons, and the physical subatomic particles.
+
+Unlike science however, thaumaturgy is a physical and mental skill, practisable by individuals. However hard and long the physicist pores over her books, she will never be able to alter the varibles of gravitational pull which she studies, or influence electrons to create lightning, no matter how well she knows the physical processes of a storm. Unlike the physicist, but like the practioner of 'magic', a thaumaturge can do these things. With some combination of spoken words, bodily motion, written symbols and, crucially, the particular combination of concentration and emotional release known as cathexis, a thaumaturge can influence the physical and non-phyiscal elements of the world to their will. In general, anyone can learn a few basic hexes and matter-shaping techniques given application, but the most powerful thaumaturges are those who have studied and practised for decades.
+
+Thaumaturges in New Crobuzon are often artisans, selling their specific trade from a shopfront in Brockmarsh or The Crow, but you will also find many in academia, government research, and in the militia, whose captain-thaumaturges are adept at unleashing thaumaturgic bolts of glowing unlight at enemies of the state who attempt to resist.
+
+Below are some of the particular techniques and disciplines of thaumaturgy, but not all thaumaturgy falls into a category, and some might straddle multiple techniques.
+
+**Biothaumaturgy**: The most well-known examples of biothaumaturgy in New Crobuzon are the Remade - those who have been tried and punished by the state in the city's infamous punishment factories - and so, in this sense, biothaumaturgy is part of what makes New Crobuzon the city it is. A biothaumaturge tears at and recreates flesh, bonds it in unintended ways, and manipulates it within the limits dictated only by imagination of the thaumaturge themself. It can be used to heal, but biothaumaturgy horrifying use as a punishment and a weapon of the state has somewhat overshadowed its positive uses.
+
+**Chromathaumaturgy**: If a thaumaturge wishes to alter the appearence of an object or person, or simply create a colourful light show, she may turn to the study and use of chromathaumaturgy - the thaumaturgic discipline which can influence colour and light.
+
+**Communicatrix Thaumaturgy**: the thaumaturgy employed by a communicatrix or communicator 
+
+**Elyctro-thaumaturgy**
+
+**Empath Thaumaturgy** (can feel emotional presence)
+
+**Geoempath Thaumaturgy** (can feel shape and presence of subterranean formations – oil, rockmilk, a good place for a trap)
+
+**Geothaumaturgy**
+
+**Karcist Thaumaturgy**
+
+**Metallo-thaumaturgy**
+
+**Meteoromancy**
+
+**Somaturgy/Golemetry** (Golemists) (ready-made)
+
+**Subvocalurgy** (susurrators/whispersmiths 
 
 
