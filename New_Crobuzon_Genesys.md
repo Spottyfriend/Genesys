@@ -284,13 +284,26 @@ As with any city of its size, New Crobuzon is home to many varied communities, g
 
 *Adventurers*
 
+Some of the toughest individuals in all Bas-Lag, one will often find adventurers stopping in New Crobuzon for supplies, to cash in a reward, or even to complete a task in their never-ending quest for gold and experience. Often seen in rare armours and with thaumaturgically enchanced weaponry, adventurers are hardy and dangerous; they are generally lawless, stripped of allegiance or morality, living off their wits, stealing and killing, and hiring themselves out to whoever and whatever comes. 
+
+They are considered by many in New Crobuzon as scum, who live short, violent lives and meet even more violent ends. They hang on to a certain cachet among some more impressionable souls however, through their undeniable bravery and their occasionally impressive exploits.
+
+
 ---
 
 *Criminal Gangs*
 
+New Crobuzon is a criminal city. The type of crime varies, of course, from rich to poor, and from district to district, but crime in the Bas-Lag's greatest city-state is pervasive. Whilst those with most power in the city are those who occupy legal (though often no less exploitative) positions, the criminal gangs and their bosses hold significant sway in the city, particulary in poorer districts.
+
+The crimelord Mr Motley operates out of Bonetown, but his power and influence extends all across the city. His work is the drug trade, primarily, but he does not limit himself; where there is illicit profit to be made, Motley will make sure the largest cut is his. Many who work for him do not know it, and even fewer have seen him. Those who have find him... difficult to describe.
+
+Though Motely holds a monopoly in many criminal markets, the khepri Ma Francine is extending her reach out from Kinken. Her Sugardrop Gang will soon find themselves at violent odds with employees of Mr Motely.
+
 ---
 
 *Militia*
+
+Even more pervasive than the city's criminal elements, is the ever-present spectre of New Crobuzon's secret police force - the militia. For more details on the city's half-standing army, half-intelligence organisation, see the appropriate section in [Politics and the State](#politics-and-the-state).
 
 ---
 
@@ -304,9 +317,11 @@ Members of the Three Quills Party are committed to a party program of violent an
 
 New Crobuzon's political radicals take various forms, but perhaps the most noteworthy formation are those readers and producers of the illegal news-sheet *Runagate Rampant*. In one sense, the paper is not dissimmilar the *Quarrel*, or the *Beacon*, or any of the city's reputable papers - news, arts and industry are all covered inside - what seperates *Double-R*, as it is known by many, is that takes an explicitly seditionist position on the political questions of the day. 
 
-*RR*'s position is never totally static, since its writers and readers maintain a close eye on the ever-changing goings-on in the factories and the streets as well as in parliament, but a typical *Runagate Rampant* might denounce all parties and call for the spoiling of ballots and for the building of a party from below - a party of the poor and of the workers.
+*RR*'s position is never totally static, since its writers and readers maintain a close eye on the ever-changing goings-on in the factories and the streets as well as in parliament, but a typical issue of *Runagate Rampant* might denounce all parties and call for the spoiling of ballots and for the building of a party from below - a party of the poor and of the workers.
 
 Unlike New Crobuzon's legal press, *Double-R* (as well as its smaller cousins and sometimes rivals *The Shout*, *Forge* and others) is a tool for radical organising. Readers might be seen in after-work drinking sessions, discreetly pointing out an article to a sympathetic co-worker, or attending picket lines with a copy or two tucked under their coat. Reports of strikes, crimes of the state, and planned Quiller actions, whilst absent in *Quarrel*, are all reported in *RR*, providing readers with the knowledge to undertake collective action where necessary.
+
+The production of the paper takes place in a hidden subterranean office in Dog Fenn. Few but the founding editor of *RR* Benjamin Flex, in whose wardrobe the secret door to the office is located, and a select few writers of the news-sheet, are aware of its location.
 
 ---
 
