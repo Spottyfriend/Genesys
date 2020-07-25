@@ -431,6 +431,8 @@ Below are some of the particular techniques and disciplines of thaumaturgy, but 
 
 **Communicatrix Thaumaturgy**: the thaumaturgy employed by a communicatrix or communicator 
 
+**Elementalist Thaumaturgy**: beast-tamers of a supernatural kind,
+
 **Elyctro-thaumaturgy**
 
 **Empath Thaumaturgy** (can feel emotional presence)
