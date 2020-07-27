@@ -318,7 +318,7 @@ New Crobuzon's political radicals take various forms, but perhaps the most notew
 
 *RR*'s position is never totally static, since its writers and readers maintain a close eye on the ever-changing goings-on in the factories and the streets as well as in parliament, but a typical issue of *Runagate Rampant* might denounce all parties and call for the spoiling of ballots and for the building of a party from below - a party of the poor and of the workers.
 
-Unlike New Crobuzon's legal press, *Double-R* (as well as its smaller cousins and sometimes rivals *The Shout*, *Forge* and others) is a tool for radical organising. Readers might be seen in after-work drinking sessions, discreetly pointing out an article to a sympathetic co-worker, or attending picket lines with a copy or two tucked under their coat. Reports of strikes, crimes of the state, and planned Quiller actions, whilst absent in *Quarrel*, are all reported in *RR*, providing readers with the knowledge to undertake collective action where necessary.
+Unlike New Crobuzon's legal press, *Double-R* (as well as its smaller cousins and sometimes rivals *The Shout*, *Forge* and others) is a tool for radical organising. Readers might be seen in after-work drinking sessions, discreetly pointing out an article to a sympathetic co-worker, or attending picket lines with a copy or two tucked under their coat. Reports of strikes, crimes of the state, and planned Quiller actions, whilst absent in *Quarrel*, are all reported in *RR*, providing readers with the knowledge to undertake collective action where necessary. The writers of *RR* will admit, however, that the paper's influence is not as great as some might like to think, though it is surely growing.
 
 The production of the paper takes place in a hidden subterranean office in Dog Fenn. Few but the founding editor of *RR* Benjamin Flex, in whose wardrobe the secret door to the office is located, and a select few writers of the news-sheet, are aware of its location.
 
@@ -401,6 +401,7 @@ Given the vast quantity and variety of traditions and pantheons in the city, one
 #### Technology and Industry
 
 ---
+Constructs (analytical and difference engines)
 Metaclockwork
 Thaumaturgy
 Chymstry
@@ -417,38 +418,46 @@ Oil
 
 Thaumaturgy is part the physical science of the university laboratory, and part the magic of fairytale and myth.
 
-Like science, thaumaturgy can be rigourously studied, and theories, models and mathematical renderings fill the textbooks on the subject in the New Crobuzon University library. It can also be used to great effect in industry, with powerful thaumaturgic currents able to power strange engines that coal or oil could not. Thaumaturgy may even be studied directly alongside science: the biology of many creatures in Bas-Lag has thaumaturgic elements, such as the vodyanoi's ablity to perform watercraeft, or the stiltspear's innate ability to secrete thaumaturgeons to camoflage themselves; some more unorthodox scientists and thaumaturge-academics even theorise that thaumaturgons (the theoretical particles whose maniuplation makes thaumaturgy possible) are essentially the same kind of thing as protons, electrons, and the physical subatomic particles.
+Like science, thaumaturgy can be rigourously studied, and theories, models and mathematical renderings fill the textbooks on the subject in the New Crobuzon University library. It can also be used to great effect in industry, with powerful thaumaturgic currents able to power strange engines that coal or oil could not. Thaumaturgy may even be studied directly alongside science: the anatomies of many creatures in Bas-Lag have thaumaturgic elements, such as the vodyanoi's ablity to perform watercraeft, or the stiltspear's innate ability to secrete thaumaturgeons to camoflage themselves; some more unorthodox scientists and thaumaturge-academics even theorise that thaumaturgons (the theoretical particles whose maniuplation makes thaumaturgy possible) are essentially the same kind of thing as protons, electrons, and the physical subatomic particles.
 
 Unlike science however, thaumaturgy is a physical and mental skill, practisable by individuals. However hard and long the physicist pores over her books, she will never be able to alter the varibles of gravitational pull which she studies, or influence electrons to create lightning, no matter how well she knows the physical processes of a storm. Unlike the physicist, but like the practioner of 'magic', a thaumaturge can do these things. With some combination of spoken words, bodily motion, written symbols and, crucially, the particular combination of concentration and emotional release known as cathexis, a thaumaturge can influence the physical and non-phyiscal elements of the world to their will. In general, anyone can learn a few basic hexes and matter-shaping techniques given application, but the most powerful thaumaturges are those who have studied and practised for decades.
 
 Thaumaturges in New Crobuzon are often artisans, selling their specific trade from a shopfront in Brockmarsh or The Crow, but you will also find many in academia, government research, and in the militia, whose captain-thaumaturges are adept at unleashing thaumaturgic bolts of glowing unlight at enemies of the state who attempt to resist.
 
-Below are some of the particular techniques and disciplines of thaumaturgy, but not all thaumaturgy falls into a category, and some might straddle multiple techniques.
+Below are some of the particular techniques and disciplines of thaumaturgy, but not all thaumaturgy falls into a category, and some hexes might straddle multiple techniques.
 
-**Biothaumaturgy**: The most well-known examples of biothaumaturgy in New Crobuzon are the Remade - those who have been tried and punished by the state in the city's infamous punishment factories - and so, in this sense, biothaumaturgy is part of what makes New Crobuzon the city it is. A biothaumaturge tears at and recreates flesh, bonds it in unintended ways, and manipulates it within the limits dictated only by imagination of the thaumaturge themself. It can be used to heal, but biothaumaturgy's horrifying use as a punishment and a weapon of the state has somewhat overshadowed its positive uses.
+**Biothaumaturgy**: The most well-known examples of biothaumaturgy in New Crobuzon are the Remade - those who have been tried and punished by the state in the city's infamous punishment factories - and so, in this sense, biothaumaturgy is part of what makes New Crobuzon the city it is. A biothaumaturge tears at and recreates flesh, bonds it in unintended ways, and manipulates it within the limits dictated only by imagination of the thaumaturge themself. It can be used to heal, but biothaumaturgy's horrifying use as a weapon of the state has somewhat overshadowed its positive uses.
 
 **Chromathaumaturgy**: If a thaumaturge wishes to alter the appearence of an object or person, or simply create a colourful light show, she may turn to the study and use of chromathaumaturgy - the thaumaturgic discipline which can influence colour and light.
 
-**Communicatrix Thaumaturgy**: the thaumaturgy employed by a communicatrix or communicator 
+**Communicator Thaumaturgy**: The thaumaturgy employed by a communicator (or communicatrix if the thaumaturge is female) allows the user to embody another person - a person perhaps hundreds of miles away - such that communication with the seperated person is possible. By 'harmonising' with the conciousness of another, those in the presence of the communicator may converse with that individual as they would with the thaumaturge ordinarily. For such powerful thaumaturgy, the communicator requires a small engine connected to a distinctive helmet - usually with a rotatable trumpet jutting from its front - and, preferably, a number of objects owned by or related to the embodied person. Though the communicator's features may shift weirdly to mimic those of the individual being harmonised with, that individual does not experience a change in their physical surroundings, rather, those people in the communicator's presence appear to them as ghostly apparitions. 
 
-**Elementalist Thaumaturgy**: beast-tamers of a supernatural kind,
+Though this is the most impressive of the communicator's thaumaturgic abilities, they may also be useful to any organisation that requires surveillance; a proficient communicator may be able to gain impressions of the thoughts of individuals at a distance. With some deciphering, those thoughts may be identified as seditious.
 
-**Elyctro-thaumaturgy**
+**Elementalist Thaumaturgy**: Beast-tamers of a preternatural  kind, elementalists (or 'elementarii') are thaumaturges capable of bring into being sentient elements - elementals - to aid them in whatever task the elemental in question is appropriate for. Undines, for example, are water elementals popular with vodyanoi thaumaturges for maintaining the natural, healthy moisture level of their skin; luftgeists are air elementals of huge power often utilised for their offensive capablities; yags are animalistic, fire elementals, sometimes dangerous, sometimes small and tame enough to keep as (something like) a pet. There are also stranger elementals however: elementals of elyctricity, metal, sun, wood, darkness, even flesh.
 
-**Empath Thaumaturgy** (can feel emotional presence)
+**Elyctro-thaumaturgy**: Less the skill of a single thaumaturge, elyctro-thaumaturgy is more often used when building thaumaturgic weaponry or equipment. A handheld elyctro-thaumaturgic weapon might, for example, throw arcs of weird current twisting through the air before striking its target.
 
-**Geoempath Thaumaturgy** (can feel shape and presence of subterranean formations – oil, rockmilk, a good place for a trap)
+**Empathic Thaumaturgy**: Empaths are thaumaturges whose skill is associated with the emotional spectrum. Whilst the most useful ability of an empath may be the ability to sense and socially adapt to the emotions of an individual, they can also feel close-by sapient presences, which might come in handy in an situation in which the thaumaturge is expecting any kind of surprise attack. 
 
-**Geothaumaturgy**
+**Geoempathic Thaumaturgy**: By some combination of geothaumaturgic and empathic techniques, the geoempath is able to sense subterranean formations and the presence of particular substances. In the mining of raw materials this is particuarly useful, with geoempaths being employed to direct the construction of mine shafts or similar.
 
-**Karcist Thaumaturgy**
+**Geothaumaturgy**: More directly and obviously powerful than its geoempathic cousin, the geothaumaturgic hex will physically affect the earth in various ways. The most common employment given to geothaumaturges is that of tunneller, or demolitionsman, with the thaumaturge turning stone into slurry with their bare hands and a few whispered words. 
 
-**Metallo-thaumaturgy**
+**Karcist Thaumaturgy**: A karcist is a thaumaturge able to communicate with and pull certain dæmons (creatures from the plane, Hell) through the aether into our world. Some dæmons are perfectly sapient, and Hell even maintains an embassy in New Crobuzon (with a resident karcist to allow communication between planes), whilst others are more animalistic or, at least, more agreeable, and are able to be conjured by a karcist for their offensive capablities. Interacting with the Pit in any respect, however, requires taking a number of precautions and accounting for many different varibles to prevent disaster. The karcist will also require various dæmonological equipment to perform any thaumaturgic operations, unless of course she is knowledgable enough to learn the arcane languages and inact the particular sacrificial rituals that were necessary before the invention of such equipment; few are still in the possession of this knowledge. 
 
-**Meteoromancy**
+**Metallo-thaumaturgy**: Similar to bio- and geo- thaumaturgy, metallo-thaumaturgy involves the shaping of a certain kind of material, in this case, metal. Where a welder might suffice, or even be preferable, for certain metal-working jobs, the metallo-thaumaturge can influence the thaumaturgic energies in such a way to meld metal with their bare hands and, as such, can perform on the fly much more easily. The thaumaturge can also give metals weird puissance and thaumaturgic properties, useuful in some industries.
 
-**Somaturgy/Golemetry** (Golemists) (ready-made)
+**Meteoromancy**: The meteoromance is the thaumaturge concerned primarily with weather and atmosphere. This thaumaturge's hex might, depending on their skill and power, cause a small rain shower, displace fog infront of a moving ship or simply cause a small gust to dry a line of laundry. The New Crobuzon government has its own meteoromancers for predicting the city's long-term weather, generally season by season. In the Tar Wedge cloudtower, there lies a dormant aeromorphic engine that rises, organ like, vertically the height of the hollow tower, but no meteoromance in a hundred and fifty years has had the knowledge or cathexic potency to restart its operations.
 
-**Subvocalurgy** (susurrators/whispersmiths 
+**Somaturgy/Golemetry**: The thaumaturgic art of the golemist or somaturge is the art of intervention and persuasion, but not of the sapient mind, but of inanimate matter. The golemist intervenes in the static, persistently lifeless nature of the rock and nudges it in the direction of order and self-organisation; a golem is created. Like a construct, a golem may be 'programmed' with certain behaviours by the somaturge upon creation, and will act out these until it dispates, and, like a construct, a golem may take instruction from its creator whilst in possession of its not-life.
+
+The larger, more complex and longer-lasting the golem, the more exhausted the golemist becomes. The primary cathexic exursion occurs upon creation and instruction; a relatively simple golem, therefore, may stand guard for sometime without completely exhausting its creator. This is all relative, of course, on the thaumaturge's skill and training.
+
+Golems can be made out of almost anything, so long as that something is inanimate. For golems with specific purposes, or in need of animation quickly or by a weaker somaturge, a ready-made may be used: an already-constructed form which is then animated. In theory, noncorporeal golems are a possiblity, but even the few somaturge academics at the city's university have not successfully created anything more formless than a gas golem.
+
+In New Crobuzon at present, there is little money in golemtry, since even the most complex golems are bested by a good construct.
+
+**Subvocalurgy**: The practiser of subvocalurgy is what is known as a whispersmith, or susurrator. A whispersmith cannot speak in the way the average person can, but instead must whisper across the air, directly into the ear of a nearby person. Not only this, but, when given certain inflections, the whipsersmith's susurrus may direct, hypnosis-like, the listener to act in accordance with the smith's will. The better the whispersmith, the further they can be heard, and the more complex minds they can affect. Such a practise is rare in New Crobuzon, and where is is practised, it is generally done by untrustworthy individuals.
 
 
