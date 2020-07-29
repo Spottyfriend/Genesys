@@ -401,14 +401,32 @@ Given the vast quantity and variety of traditions and pantheons in the city, one
 #### Technology and Industry
 
 ---
-Constructs (analytical and difference engines)
-Metaclockwork
-Thaumaturgy
-Chymstry
+
+For readers, it might be most useful to imagine the technology of New Crobuzon as broadly 'Victorian': trains, ships, cranes and all manner of industrial eqiupment are powered by steam engines burning coal or, more rarely, oil; the city is lit by gas, both in the streets and in homes; large cameras have the ability to capture still images, that, when developed, render a scene in sepia (what is known as a heliotype); and horse-drawn carriages transport passengers around the city (although the horses may be Remade, or indeed not horses at all but some weirder cousin - a pterabird or a beast from the northern tundra -  or even a Remade individual, both cabdriver and cab). New Crobuzon does, however, lack any system of near-instant communication, either by written text or spoken word; messages are delivered by letter using a system of cheap stamps and postal workers, and post arrives regularly.
+
+In its system of production and exchange, New Crobuzon is firmly capitalist: its industry is based on socialised, production-line manufacturing done in large factories, whilst exchange of goods and services mostly takes place in small local shops or in markets. Raw matierals and commodities are transported around the city via train and canal, leaving and entering via New Crobuzon's vast dockyards. There are still some tradespeople whose craft has not yet found itself part of the city's industrial machine however, and who both produce and sell out of their own premises; many professional thaumaturges make their living this way. All this leaves New Crobuzon with a fairly well defined system of classes, with an indsturial working class, who work long hours in poor conditions in factories owned by a wealthy class of industrialists and, between them, a middle class of small business owners and artisans who, in many cases, are being pressed into more and more worker-like conditions.
+
+Science in New Crobuzon progresses alongside industry. Breakthroughs of physics, biology and chymistry from the New Crobuzon University, which today progress at steady rate, inform development in the production process and drive it forward. This dynamic is apparent to all Crobuzoners who live on the banks of the city's rivers, where the stink of chymical overflows permiates many of the less rich districts - the smell of a university lab multiplied a thousandfold. Khrepi must bathe monthly in prophylactics to avoid the itches and sores.
+
+Below are some stranger aspects of New Crobuzon's technology and industry that may benefit from further description.
+
+---
+
+*Constructs*
+
+(analytical and difference engines)
+
+---
+
 Elytricity
-Gas
-Coal
-Oil
+
+---
+
+Metaclockwork
+
+---
+
+Thaumaturgy
 
 ---
 
@@ -420,7 +438,7 @@ Thaumaturgy is part the physical science of the university laboratory, and part 
 
 Like science, thaumaturgy can be rigourously studied, and theories, models and mathematical renderings fill the textbooks on the subject in the New Crobuzon University library. It can also be used to great effect in industry, with powerful thaumaturgic currents able to power strange engines that coal or oil could not. Thaumaturgy may even be studied directly alongside science: the anatomies of many creatures in Bas-Lag have thaumaturgic elements, such as the vodyanoi's ablity to perform watercraeft, or the stiltspear's innate ability to secrete thaumaturgeons to camoflage themselves; some more unorthodox scientists and thaumaturge-academics even theorise that thaumaturgons (the theoretical particles whose maniuplation makes thaumaturgy possible) are essentially the same kind of thing as protons, electrons, and the physical subatomic particles.
 
-Unlike science however, thaumaturgy is a physical and mental skill, practisable by individuals. However hard and long the physicist pores over her books, she will never be able to alter the varibles of gravitational pull which she studies, or influence electrons to create lightning, no matter how well she knows the physical processes of a storm. Unlike the physicist, but like the practioner of 'magic', a thaumaturge can do these things. With some combination of spoken words, bodily motion, written symbols and, crucially, the particular combination of concentration and emotional release known as cathexis, a thaumaturge can influence the physical and non-phyiscal elements of the world to their will. In general, anyone can learn a few basic hexes and matter-shaping techniques given application, but the most powerful thaumaturges are those who have studied and practised for decades.
+Unlike science however, thaumaturgy is a physical and mental skill, practisable by individuals. However hard and long the physicist pores over her books, she will never be able to alter the variables of gravitational pull which she studies, or influence electrons to create lightning, no matter how well she knows the physical processes of a storm. Unlike the physicist, but like the practioner of 'magic', a thaumaturge can do these things. With some combination of spoken words, bodily motion, written symbols and, crucially, the particular combination of concentration and emotional release known as cathexis, a thaumaturge can influence the physical and non-phyiscal elements of the world to their will. In general, anyone can learn a few basic hexes and matter-shaping techniques given application, but the most powerful thaumaturges are those who have studied and practised for decades.
 
 Thaumaturges in New Crobuzon are often artisans, selling their specific trade from a shopfront in Brockmarsh or The Crow, but you will also find many in academia, government research, and in the militia, whose captain-thaumaturges are adept at unleashing thaumaturgic bolts of glowing unlight at enemies of the state who attempt to resist.
 
@@ -498,13 +516,13 @@ The meteoromance is the thaumaturge concerned primarily with weather and atmosph
 
 *Somaturgy/Golemetry*
 
-The thaumaturgic art of the golemist or somaturge is the art of intervention and persuasion, but not of the sapient mind, but of inanimate matter. The golemist intervenes in the static, persistently lifeless nature of the rock and nudges it in the direction of order and self-organisation; a golem is created. Like a construct, a golem may be 'programmed' with certain behaviours by the somaturge upon creation, and will act out these until it dispates, and, like a construct, a golem may take instruction from its creator whilst in possession of its not-life.
+The thaumaturgic art of the golemist or somaturge is the art of intervention and persuasion, but not of the sapient mind, but of inanimate matter. The golemist intervenes in the static, persistently lifeless nature of the rock and nudges it in the direction of order and self-organisation; a golem is created. Like a construct, a golem may be 'programmed' with certain behaviours by the somaturge upon creation, and will act out these until it dispates, but, like a construct, a golem may also take instruction from its creator whilst in possession of its not-life.
 
 The larger, more complex and longer-lasting the golem, the more exhausted the golemist becomes. The primary cathexic exursion occurs upon creation and instruction; a relatively simple golem, therefore, may stand guard for sometime without completely exhausting its creator. This is all relative, of course, on the thaumaturge's skill and training.
 
-Golems can be made out of almost anything, so long as that something is inanimate. For golems with specific purposes, or in need of animation quickly or by a weaker somaturge, a ready-made may be used: an already-constructed form which is then animated. In theory, noncorporeal golems are a possiblity, but even the few somaturge academics at the city's university have not successfully created anything more formless than a gas golem.
+Golems can be made out of almost anything, so long as that something is inanimate. For golems with specific purposes, or in need of animation quickly or by a weaker somaturge, a ready-made may be used - an already-constructed form which is then animated. In theory, noncorporeal golems are a possiblity, but even the few somaturge academics at the city's university have not successfully created anything more formless than a gas golem.
 
-In New Crobuzon at present, there is little money in golemtry, since even the most complex golems are bested by a good construct.
+There is little money in golemtry in the city at present, since even the most complex golems are bested by a good construct.
 
 ---
 
