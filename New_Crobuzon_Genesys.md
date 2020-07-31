@@ -441,7 +441,9 @@ The booming, whale-like song of the city's dirigible airships can be heard throu
 ---
 
 *Thaumaturgy*
+
 Batteries
+
 ---
 
 #### Thaumaturgy
