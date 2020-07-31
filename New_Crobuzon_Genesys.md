@@ -414,20 +414,34 @@ Below are some stranger aspects of New Crobuzon's technology and industry that m
 
 *Constructs*
 
-(analytical and difference engines)
+Constructs in New Crobuzon can be found everywhere and anywhere. Wherever there is a job to be done, you will more than likely find a construct doing its best to complete it. There is huge variety among constructs, but a universal definition might describe a non-sentient, artificial, programmable machine, designed, in most cases, to complete a specific task automatically. Constructs can be chrome or steel, iron or brass or copper, wood or glass; they might be huge military models, designed for conquest and death, intelligent enough to act on spoken orders, or simple automatic road-drills, given instructions via a basic interface of physical buttons. Whilst most operate by a complex system of miniture pistons and levers, powered by high-pressure steam, there are also elytric, thaumaturgic and chymical designs.
+
+All constructs, however, interpret instructions, and indeed the world more broadly, via an internal analytical engine. This is the construct's 'brain': it's design greatly affects how the construct will act and its complexity will allow the construct greater or lesser 'intelligence'. Programme cards connected to this engine will determine the exact responses of the construct to instructions, and these can be swapped in and out should an owner wish to, for example, switch a household assistant construct from a cleaning, to a cooking mode. 
+
+Readers should note that, whilst it is also a powerful piece of technology, a difference engine is no analytical engine. The former is essentially a machine to perform complex calculations; the latter is a computing machine - it can respond to the world - it can 'think'.
 
 ---
 
-Elytricity
+*Dirigibles and the Skyrail*
+
+Whilst most of New Crobuzon's citizens travel by foot, cab, or train, the city allows for transport by both dirigible and by skyrail.
+
+The booming, whale-like song of the city's dirigible airships can be heard throughout the day and night. Mostly property of the state and the super-rich, the dirigibles of New Crobuzon serve as 
+
+
 
 ---
 
-Metaclockwork
+*Elytricity*
 
 ---
 
-Thaumaturgy
+*Metaclockwork*
 
+---
+
+*Thaumaturgy*
+Batteries
 ---
 
 #### Thaumaturgy
