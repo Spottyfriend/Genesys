@@ -284,7 +284,7 @@ As with any city of its size, New Crobuzon is home to many varied communities, g
 
 *Adventurers*
 
-Some of the toughest individuals in all Bas-Lag, one will often find adventurers stopping in New Crobuzon for supplies, to cash in a reward, or even to complete a task in their never-ending quest for gold and experience. Often seen in rare armours and with thaumaturgically enchanced weaponry, adventurers are hardy and dangerous; they are generally lawless, stripped of allegiance or morality, living off their wits, stealing and killing, and hiring themselves out to whoever and whatever comes. 
+Some of the toughest individuals in all Bas-Lag, one will often find adventurers stopping in New Crobuzon for supplies, to cash-in a reward, or even to complete a task in their never-ending quest for gold and experience. Often seen in rare armours and with thaumaturgically enchanced weaponry, adventurers are hardy and dangerous; they are generally lawless, stripped of allegiance or morality, living off their wits, stealing and killing, and hiring themselves out to whoever and whatever comes along. 
 
 They are considered by many in New Crobuzon as scum, who live short, violent lives and meet even more violent ends. They hang on to a certain cachet among some more impressionable souls however, through their undeniable bravery and their occasionally impressive exploits.
 
@@ -424,9 +424,11 @@ Readers should note that, whilst it is also a powerful piece of technology, a di
 
 *Dirigibles and the Skyrail*
 
-Whilst most of New Crobuzon's citizens travel by foot, cab, or train, the city allows for transport by both dirigible and by skyrail.
+While most of New Crobuzon's citizens travel by foot, cab, or train, the city allows for transport by air, via both dirigible and skyrail.
 
-The booming, whale-like song of the city's dirigible airships can be heard throughout the day and night. Mostly property of the state and the super-rich, the dirigibles of New Crobuzon serve as 
+The booming, whalesong of the city's dirigible airships can be heard throughout the day and night. Property of the state and the very-rich, the dirigibles of New Crobuzon serve as leisure vehicles, troop carriers and viewing platforms, as well as, occaisonally, means of mid- to long-distance travel. Aerostats and dirgibles moor at militia towers or the private mooring posts of the richer districts' manors.
+
+New Crobuzon's skyrail is one of the city's unique features.
 
 
 
@@ -478,7 +480,7 @@ If a thaumaturge wishes to alter the appearence of an object or person, or simpl
 
 The thaumaturgy employed by a communicator (or communicatrix if the thaumaturge is female) allows the user to embody another person - a person perhaps hundreds of miles away - such that communication with the seperated person is possible. By 'harmonising' with the conciousness of another, those in the presence of the communicator may converse with that individual as they would with the thaumaturge ordinarily. For such powerful thaumaturgy, the communicator requires a small engine connected to a distinctive helmet - usually with a rotatable trumpet jutting from its front - and, preferably, a number of objects owned by or related to the embodied person. Though the communicator's features may shift weirdly to mimic those of the individual being harmonised with, that individual does not experience a change in their physical surroundings, rather, those people in the communicator's presence appear to them as ghostly apparitions. 
 
-Though this is the most impressive of the communicator's thaumaturgic abilities, they may also be useful to any organisation that requires surveillance; a proficient communicator may be able to gain impressions of the thoughts of individuals at a distance. With some deciphering, those thoughts may be identified as seditious.
+Though this is the most impressive of the communicator's thaumaturgic abilities, they may also be useful to any organisation that requires surveillance; a proficient communicator may be able to gain impressions of the thoughts of individuals at a distance. With some deciphering, those thoughts may be identified as subversive.
 
 ---
 
