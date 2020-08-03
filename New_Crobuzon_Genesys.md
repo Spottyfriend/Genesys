@@ -408,7 +408,7 @@ In its system of production and exchange, New Crobuzon is firmly capitalist: its
 
 Science in New Crobuzon progresses alongside industry. Breakthroughs of physics, biology and chymistry from the New Crobuzon University, which today progress at steady rate, inform development in the production process and drive it forward. This dynamic is apparent to all Crobuzoners who live on the banks of the city's rivers, where the stink of chymical overflows permiates many of the less rich districts - the smell of a university lab multiplied a thousandfold. Khrepi must bathe monthly in prophylactics to avoid the itches and sores.
 
-Below are some stranger aspects of New Crobuzon's technology and industry that may benefit from further description.
+Below are some stranger or particular aspects of New Crobuzon's technology and industry that may benefit from further description.
 
 ---
 
@@ -416,7 +416,7 @@ Below are some stranger aspects of New Crobuzon's technology and industry that m
 
 Constructs in New Crobuzon can be found everywhere and anywhere. Wherever there is a job to be done, you will more than likely find a construct doing its best to complete it. There is huge variety among constructs, but a universal definition might describe a non-sentient, artificial, programmable machine, designed, in most cases, to complete a specific task automatically. Constructs can be chrome or steel, iron or brass or copper, wood or glass; they might be huge military models, designed for conquest and death, intelligent enough to act on spoken orders, or simple automatic road-drills, given instructions via a basic interface of physical buttons. Whilst most operate by a complex system of miniture pistons and levers, powered by high-pressure steam, there are also elytric, thaumaturgic and chymical designs.
 
-All constructs, however, interpret instructions, and indeed the world more broadly, via an internal analytical engine. This is the construct's 'brain': it's design greatly affects how the construct will act and its complexity will allow the construct greater or lesser 'intelligence'. Programme cards connected to this engine will determine the exact responses of the construct to instructions, and these can be swapped in and out should an owner wish to, for example, switch a household assistant construct from a cleaning, to a cooking mode. 
+All constructs, however, interpret instructions, and indeed the world more broadly, via an internal analytical engine. This is the construct's 'brain': its design greatly affects how the construct will act and its complexity allows the construct greater or lesser 'intelligence'. Programme cards connected to this engine will determine the exact responses of the construct to instructions, and these can be swapped in and out should an owner wish to, for example, switch a household assistant construct from a cleaning, to a cooking mode. 
 
 Readers should note that, whilst it is also a powerful piece of technology, a difference engine is no analytical engine. The former is essentially a machine to perform complex calculations; the latter is a computing machine - it can respond to the world - it can 'think'.
 
@@ -424,27 +424,29 @@ Readers should note that, whilst it is also a powerful piece of technology, a di
 
 *Dirigibles and the Skyrail*
 
-While most of New Crobuzon's citizens travel by foot, cab, or train, the city allows for transport by air, via both dirigible and skyrail.
+While most of New Crobuzon's citizens travel by foot, cab, or train, the city also allows for transport by air, via both dirigible and skyrail.
 
-The booming, whalesong of the city's dirigible airships can be heard throughout the day and night. Property of the state and the very-rich, the dirigibles of New Crobuzon serve as leisure vehicles, troop carriers and viewing platforms, as well as, occaisonally, means of mid- to long-distance travel. Aerostats and dirgibles moor at militia towers or the private mooring posts of the richer districts' manors.
+The booming whalesong of the city's dirigible airships can be heard throughout the day and night. Property of the state and the very-rich, the dirigibles of New Crobuzon serve as leisure vehicles, troop carriers and viewing platforms, as well as, occaisonally, means of mid- to long-distance travel. Aerostats and dirgibles moor at militia towers or the private mooring posts of the richer districts' manors.
 
-New Crobuzon's skyrail is one of the city's unique features.
-
-
+New Crobuzon's skyrail is one of the city's unique features. Seven huge, thrumming wires eminate from Perdido Street Station and knot the city together, criss-crossing between the districts' militia towers. Beneath the elyctric rail, small dangling pods streak toward their destinations, providing fast transport for militia and other state officials. 
 
 ---
 
-*Elytricity*
+*Elyctricity*
+
+A rarer means of power than steam, elyctric generation is nevertheless a possiblity in the city, and various industries find a use for it. Elyctricity can equally be used at a smaller-scale - to power a construct, or as part of a weapon. It can also be combined with thaumaturgic or chymical technology, for example in the case of an elyctro-thaumaturgic barb gun, or a chymical, thaumaturgic or metaclockwork battery.
 
 ---
 
 *Metaclockwork*
 
+A khepri invention, metaclockwork technology is extraordinary for its level of intricacy. Finding various applications in personal equipment and industry, its most well-known use is the khepri stingbox - a distinctive weapon that uses a metaclockwork engine to allow two thick, spike tipped cords to be whirled and thrown at a target, piecing armour and skin, and griping horrifically inside the torn flesh of the victim. The metaclockwork of the stingbox allows the cords to extend when thrown, without friction, for more than twenty feet, and weird currents to be sent into the target, leaving them spasming in pain.
+
 ---
 
 *Thaumaturgy*
 
-Batteries
+Thaumaturgy has a huge influence on the technologies of New Crobuzon. Batteries, converters and all manner of thaumaturgic technologies allow for the powering of strange engines and the operation of weird industries, and its combination with other means of power opens up even further avenues for technological usage, both at a personal and industrial scale.
 
 ---
 
@@ -454,9 +456,9 @@ Batteries
 
 Thaumaturgy is part the physical science of the university laboratory, and part the magic of fairytale and myth.
 
-Like science, thaumaturgy can be rigourously studied, and theories, models and mathematical renderings fill the textbooks on the subject in the New Crobuzon University library. It can also be used to great effect in industry, with powerful thaumaturgic currents able to power strange engines that coal or oil could not. Thaumaturgy may even be studied directly alongside science: the anatomies of many creatures in Bas-Lag have thaumaturgic elements, such as the vodyanoi's ablity to perform watercraeft, or the stiltspear's innate ability to secrete thaumaturgeons to camoflage themselves; some more unorthodox scientists and thaumaturge-academics even theorise that thaumaturgons (the theoretical particles whose maniuplation makes thaumaturgy possible) are essentially the same kind of thing as protons, electrons, and the physical subatomic particles.
+Like science, thaumaturgy can be rigourously studied, and theories, models and mathematical renderings fill the textbooks on the subject in the New Crobuzon University library. It can also be used to great effect in industry, with powerful thaumaturgic currents able to power strange engines that coal or oil could not. Thaumaturgy may even be studied directly alongside science: the anatomies of many creatures in Bas-Lag have thaumaturgic elements, such as the vodyanoi's ablity to perform watercraeft, or the stiltspear's innate ability to secrete thaumaturgeons to camoflage themselves; some more unorthodox scientists and thaumaturge-academics even theorise that thaumaturgons (the theoretical particles whose maniuplation makes thaumaturgy possible) are essentially the same kind of thing as protons, elyctrons, and the physical subatomic particles.
 
-Unlike science however, thaumaturgy is a physical and mental skill, practisable by individuals. However hard and long the physicist pores over her books, she will never be able to alter the variables of gravitational pull which she studies, or influence electrons to create lightning, no matter how well she knows the physical processes of a storm. Unlike the physicist, but like the practioner of 'magic', a thaumaturge can do these things. With some combination of spoken words, bodily motion, written symbols and, crucially, the particular combination of concentration and emotional release known as cathexis, a thaumaturge can influence the physical and non-phyiscal elements of the world to their will. In general, anyone can learn a few basic hexes and matter-shaping techniques given application, but the most powerful thaumaturges are those who have studied and practised for decades.
+Unlike science however, thaumaturgy is a physical and mental skill, practisable by individuals. However hard and long the physicist pores over her books, she will never be able to alter the variables of gravitational pull which she studies, or influence elyctrons to create lightning, no matter how well she knows the physical processes of a storm. Unlike the physicist, but like the practioner of 'magic', a thaumaturge can do these things. With some combination of spoken words, bodily motion, written symbols and, crucially, the particular combination of concentration and emotional release known as cathexis, a thaumaturge can influence the physical and non-phyiscal elements of the world to their will. In general, anyone can learn a few basic hexes and matter-shaping techniques given application, but the most powerful thaumaturges are those who have studied and practised for decades.
 
 Thaumaturges in New Crobuzon are often artisans, selling their specific trade from a shopfront in Brockmarsh or The Crow, but you will also find many in academia, government research, and in the militia, whose captain-thaumaturges are adept at unleashing thaumaturgic bolts of glowing unlight at enemies of the state who attempt to resist.
 
@@ -466,7 +468,7 @@ Below are some of the particular techniques and disciplines of thaumaturgy, but 
 
 *Biothaumaturgy*
 
-The most well-known examples of biothaumaturgy in New Crobuzon are the Remade - those who have been tried and punished by the state in the city's infamous punishment factories - and so, in this sense, biothaumaturgy is part of what makes New Crobuzon the city it is. A biothaumaturge tears at and recreates flesh, bonds it in unintended ways, and manipulates it within the limits dictated only by imagination of the thaumaturge themself. It can be used to heal, but biothaumaturgy's horrifying use as a weapon of the state has somewhat overshadowed its positive uses.
+The most well-known examples of biothaumaturgy in New Crobuzon are the Remade - those who have been tried and punished by the state in the city's infamous punishment factories - and so, in this sense, biothaumaturgy is part of what makes New Crobuzon the city it is. A biothaumaturge tears at and recreates flesh, bonds it in unintended ways, and manipulates it within the limits dictated only by imagination of the thaumaturge themself. It can be used to heal, but biothaumaturgy's horrifying use as a weapon of the state has somewhat overshadowed its more positive uses.
 
 ---
 
@@ -486,7 +488,7 @@ Though this is the most impressive of the communicator's thaumaturgic abilities,
 
 *Elementalist Thaumaturgy*
 
-Beast-tamers of a preternatural  kind, elementalists (or 'elementarii') are thaumaturges capable of bring into being sentient elements - elementals - to aid them in whatever task the elemental in question is appropriate for. Undines, for example, are water elementals popular with vodyanoi thaumaturges for maintaining the natural, healthy moisture level of their skin; luftgeists are air elementals of huge power often utilised for their offensive capablities; yags are animalistic, fire elementals, sometimes dangerous, sometimes small and tame enough to keep as (something like) a pet. There are also stranger elementals however: elementals of elyctricity, metal, sun, wood, darkness, even flesh.
+Beast-tamers of a preternatural  kind, elementalists (or 'elementarii') are thaumaturges capable of bringing into being sentient elements - elementals - to aid them in whatever task the elemental in question is appropriate for. Undines, for example, are water elementals popular with vodyanoi thaumaturges for maintaining the natural, healthy moisture-level of their skin; luftgeists are air elementals of huge power often utilised for their offensive capablities; yags are animalistic, fire elementals, sometimes dangerous, sometimes small and tame enough to keep as (something like) a pet. There are also stranger elementals: elementals of elyctricity, metal, sun, wood, darkness, even flesh.
 
 ---
 
