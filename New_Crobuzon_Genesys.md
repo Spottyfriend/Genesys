@@ -81,7 +81,7 @@ Welcome to New Crobuzon, the greatest city-state in the world.
 
 ---
 
-*The Wealthier Districts*
+*Wealthier Districts*
 
 Wealth in the city comes in several forms: money, power, knowledge, and influence. All of these can be found in the richest districts, which cluster near the centre and northeast of the city.
 
@@ -90,6 +90,8 @@ Wealth in the city comes in several forms: money, power, knowledge, and influenc
 **The Crow**: this fashionable commercial and shopping district is spread out around Perdido Street Station in a mix of broad streets and tangled alleys. Three main shopping streets - LeTissof Street, Concubek Pass, and Bouleveard Dos Ghérou - radiate out from the station and BilSantum Plaza, at the heart of the district. During the day and early evening, they are always packed with carts, street vendors, buskers, and pedestrians. Many visitors simply take in the sights along the thorough-fares, for all the world seems to bring its wares to the elegant shops to sell: fine tailoring, tropical produce, inlaid snuffboxes, children's golems, gaslight lamps, and feathery lace.
 
 The old noble families that once lived here have long since fled for quieter districts, their homes converted into two- and three-story shops. In the side streets and alleys stand the offices of lawyers and doctors, the dining halls of exclusive gentlement's clubs, actuaries', geothaumaturges', apothecaries', and well-heeled gambling halls. The people here are wealthy and know it, and the only pockets of poverty are those inhabited by those who make their living from the execesses, vices and hobbies of the rich: pickpockets, expensive escorts, fortunetellers and palmists.
+
+**East Gidd and Nigh Sump**: austere, baroque buildings line the streets of these districts. It is certainly a district for the richer of the city's residents.
 
 **Flag Hill**: A fine district with excellent views and enormous houses that back onto shared, gated gardens, Flag Hill has long been home to bankers and captains of industry. Flowering trees and banyans spill their knotting creepers and make them roots and trunks, emerging from between spotless black paving.
 
@@ -101,13 +103,38 @@ Ludmead is also home to Ludmead Station, a well-kept, neatly-tiled station on th
 
 **Mog Hill and Mafaton**: These are largely similar districts; wealthy but otherwise uninteresting. A few of the larger manors have dedicated mooring posts for aerostats or dirigibles.
 
+**Rim**: a prosperous neighbourhood, Rim is defined by its wide streets and stuccoed houses, though today there are some crumbling blocks behind the grand facades. Residents might find pleasure by rowing on the Canker, an activity that is only possible on the section of the river here - west of the strange chymical and thaumaturgic wastes deposited by the businesses of Brock Marsh.
+
 **Salacus Fields**: A place of fashion and the fashionable, poets and pamphleteers, and the latest breed of junkies. Its residents delight in the scandalous and the outré, and the district is crowded with tea-houses and bars. Clothes here are bright and artistic, and it is a fine place for romance. The artists vary from the wealthiest, with their patrons and lucrative city contracts, to the conventially successful. Many of the artists are xenians working with golem-magic (common among the vodyanoi), or khepri gland-artists. Its reputation for dissendence and radical artistry is slowly becoming just that at, with richer students and the rebellious sons of businessmen pushing many of the harder radicals into Howl Barrow. Salacus Fields is slowly gentrifying, much to the horror of its older residents.
 
 ---
 
-*Ghettoes and Slums*
+*Middle Class Districts*
 
-While every rich district flaunts its wealth in its own special way, poor districts tend to show the same signs of poverty everywhere, although they are still quite distinguishable for natives. The slums are everywhere in the city, from the rotting bricks of Badside to the wreckage of Dog Fenn to the slumping hillside shanties of St. Jabber's Mound - constantly threatening to slide into the next district down whenever a storm washes out the slopes. Echomire can at least boast its docks and Flyside about its militia tower, but the slum-industrial khepri ghetto of Creekside and many others have nothing to recommend them.
+**Barrackham**: Once a much richer district, Barrackham is now faded, and the money has mostly gone elsewhere. There are still grand estates, but compared to the luxury of Flag Hill and Mafaton, the suburbia of Barrackham is shabby, and the bricks of its manors are cracked and peeling.
+
+**Canker Wedge**: Less than two miles from the centre of the city, Canker Wedge is a different world. Low, quiet streets and modest housing, small apologetic parks, frumpy churches and halls, offices with false fronts and façades in a cacophony of muted styles; stunted oaks and darkwoods hide the architecture’s failings. On days off, residents of Canker Wedge can be found visiting its zoo or rowing the waters of the Canker for pleasure, an unthinkable pastime further south.
+
+**Gallmarch and Serpolet**: Gallmarch and Serpolet are middle-class suburbs. Far from the city's centre, they are quiet and dull, and their residents walk the streets mostly unmolested.
+
+**Pelorus Fields**: a 'respectable' district, the Three Quills Party might find some of its richer supporters here.
+
+**Spit Hearth**: a relatively upmarket district, Spit Hearth is the home to three booming 'industries'.
+
+Between the Crow and Spit Hearth, there is an upmarket redlight district, for those with particular and particularly depraved taste. Whilst cheap, quick sex is easily bought in Dog Fenn, the city's more central hub is home to more exotic, horrific and expensive pleasures - Remade designed for sex work, races from foreign lands possessing particularly fetishised anatomies.
+
+Where the borough meets the river, subterranean punishment factories emit wails of pain, sometimes, and hastily smothered screams. But for the sake of its public face, Spit Hearth is able to ignore that hidden economy with only a slight show of distaste.
+
+For centuries, alongside the most depraved aspects of the city, Spit Hearth has been a haven for dissenting churches and religious societies. Its walls are held together with the paste from a thousand mouldering posters advertising theological debates and discussions. The monks and nuns of peculiar contemplative sects walk the streets hurriedly, avoiding eye contact. Dervishes and hieronomers argue on corners.
+
+---
+*Poor Districts and Slums*
+
+While every rich district flaunts its wealth in its own special way, poor districts tend to show the same signs of poverty everywhere, although they are still quite distinguishable for natives. The slums are everywhere in the city, from the rotting bricks of Badside to the wreckage of Dog Fenn to the slumping hillside shanties of St. Jabber's Mound - constantly threatening to slide into the next district down whenever a storm washes out the slopes. Echomire can at least boast its docks and Flyside its militia tower, but the mean, poor streets of Murkside, Raven's Gate, Stoneshell, Chimer and others have nothing to recommend them.
+
+**Aspic**: a busy, lively district, Aspic is filled with all of the city's races and peoples. Its residents are the poor, but pockets of more middle-class and even rich individuals can be found. Whilst rubbish is often piled on street corners, much of Aspic is pleasant and leafy, with bayan-fringed thoroughfares running through it. It's most notable feature is Aspic Bazaar - a vast open-air market that sells everything from trinkets and clothes, to drugs, pets, and fortune-tellings. The rows upon rows of merchandise converge upon the centre of the bazaar like the spokes of a vast wheel. Scams and pickpockets run rampant: *let the buyer beware*.
+
+**Badside**: hovels and slum houses crowd Badside - rotting brick-mulch sinks down into the earth. There was once an attempt to replicate the Kelltree docks in Badside, but all that remains now is three massive stinking troughs of malarial slime, their surfaces broken with half-sunk wrecks and twisted girders.
 
 **Bonetown**: Named after the Ribs that arch over it so prominently, Bonetown is a shabby place where little good lives. A syncretic mesh of industrialism and cross-bred architecture, urban scrubland, shantytowns, and abandoned docklands line the river shore littered with thick-stemmed weeds. Unbenownst to most, the crimelord Mr Motley keeps his base of operations in Bonetown. The district is joined to Brock Marsh by Danechi's Bridge over the Canker.
 
@@ -117,11 +144,23 @@ Dog Fenn is a hotbed of rebellions and illegal pamphleteering. Many believe *Run
 
 By the time the rivers have flowed through New Crobuzon, their confluence - the Gross Tar - is thick with rubbish, sewage and refuse of all kinds. As a result, a few Dog Fenn river-fishers use nets, weirs and evens dredges to eke a living from this flotsam.
 
+**Flyside**:	Cheap and not too violent, crowded, mostly good-natured, Flyside is a mixed area, with a large human majority beside small colonies of vodyanoi by the quiet canal, a few solitary outcast cactacae, even a little two-street khepri hive, a rare traditional community outside of Kinken and Creekside. 
+
 **Howl Barrow**: This small slum is mostly known for its transgressive and oppositional residents: illegal sexualities and taboo gender expressions flourish alongside political radicalism. Many a dissident writer, artist and actor, pushed out of the slowly gentrifying Salicus Fields, live destitute in garrets or in tiny studios at the back of hopeful galleries.
+
+**Ketch Heath**: The most notable feature of Ketch Heath is its huge tower blocks - some of the tallest buildings in the city. Though poor, the district has a certain beauty, with its monoliths reaching into the sky alongside ancient rue conifer pines.
+
+**Lichford**: Another of the city's poor districts, it is filled with shacks and, by the river, vodyanoi slums.
+
+**Petty Coil**: -	A little over a hundred years previously, Petty Coil had been an urban hub for the major families. The Mackie-Drendas and the Turgisadys; Dhrachshachet, the vodyanoi financier and founder of the Drach Bank; Sirrah Jeremile Carr, the merchant-farmer: all had their great houses in Petty Coil’s wide streets. But industry had exploded in New Crobuzon, much of it bankrolled by those very families. Factories and docks budded and proliferated. This was short-lived. Griss Twist became a dump and the winds that blew in from the sea could send a pestilential stench over the Tar into Petty Coil.
+
+The rich have now long deserted their homes, and Petty Coil has degenerated in a lively fashion. It has become noisier. The massive houses have become homes for more and more of New Crobuzon’s swelling population. Windows have broken, been fixed roughly, and broken again. As more small food-shops and bakers and carpenters moved in, Petty Coil has fallen willing prey to the city’s ineluctable capacity for spontaneous architecture.
 
 **The Ribs**: Ivory shards of a leviathan, these arching ribs of a fallen giant almost meet about two hundred feet above the ground. The land around them is unlucky; tools break, projects run away into the dust and dirt, nothing propspers. Despite all that, they make a useful landmark to the visitor: just look up, and if you see the ribs, you can orient yourself. The Ribs themselves are a bit of a draw for gawkers, so most residents here are hawkers, buskers, salespeople and acrobats.
 
-**Sheck**: So well-known for anti-xenian unrest that it has its own militia tower, Sheck is technically a step above the slums. It is separated from Kinken by a couple of small parks, and it is the first step out of poverty and into the petty-bourgeois for many. Despite this, Sheck is an area that often supplies funds to the rebellions elsewhere, and many union organisers, journalists and others who disturb the rich and powerful live here, close to their contacts. As such, right-wing reactionaries from Gross Coil, the Crow, and the Glasshouse, as well as organisers from the sinister Three Quills Party, all seem to have friends in Sheck. Xenians rarely visit Sheck any longer than they must.
+**Sheck**: So well-known for anti-xenian unrest that it has its own militia tower, Sheck is technically a step above the slums. It is separated from Kinken by a couple of small parks, and it is the first step out of poverty and into the petty-bourgeois for many. As such, reactionaries from Gross Coil, the Crow, and the Glasshouse, as well as organisers from the sinister Three Quills Party, all seem to have friends in Sheck. Xenians rarely visit Sheck any longer than they must.
+
+**Sobek Croix**: A district known for its large and pretty gardens, Sobek Croix is nevertheless poor, and its dilapidated slate housing leans tiredly on the impressive trees of its gardens.
 
 **Spatters**: At the edge of Rudewood, this slum of desperate shacks is home to the most downtrodden citizens of New Crobuzon, and the city's only garadua ghetto. Unlike other slums, Spatters isn't a collapsed section of city buildings, but a pure shanty town, built shack by shack from refuse and cast-offs.
 
@@ -141,14 +180,15 @@ Brock Marsh is also called the Scientific Quarter. Some of its denizens are scie
 
 The favoured locales of the scientific class are pubs. Run by Silchristcheck, a surly vodyanoi who rarely leaves his bath - The Dying Child on Umber Promendade is particiularly popular. Another favourite is the Moon's Daughters (the common name for the two rocky satelites that orbit the Bas-Lag's moon), which sits near Denachi's Bridge, linking Brock Marsh to Bone Town.
 
-**Riverskin and The Glasshouse**: 
+**Creekside**: A hundred years ago, Creekside was a tumbledown slum for humans. Today, it is a rookery of found architecture, the khepri home-grubs doing little more than encasing the ruined houses with cement, petrifying them forever on the point of collapse over and over again. The khepri denizens of Creekside are not artists or fruitbar owners, moiety chiefs or hive elders or shopkeepers. They are disreputable and hungry. They work in the factories and in the sewers, sell themselves to whomever would buy. Their sisters in Kinken despise them.
 
-Built in the middle of Riverskin, this enormous hothouse is home to the majority of the city's cactacae. As its name suggests, it is an entirely enclosed glasshouse. A flattened dome over 70 metres high at its peak and, at its base, more than a quarter of a mile in diameter, the Glasshouse covers several city blocks originally designed for human habitation, the old streets stopping abruptly as they reach a glass wall. The old houses have been adapted for their new, much taller and larger inhabitants: roofs and walls knocked through; tops and backsides of buildings given extra rooms. New structures have been crammed in amongst the old - strange agglomerations of human architecture and monolithic stone-slab edifices stretching in big blocks of variegated colour - some several stories tall. The most imposing is a large red-stone step pyramid that serves a religious function known only to the cactacae, although some sort of sun worship seems likely. The pyramid terraces are overflowing with desert plants, and it is topped with a lensed heliochymical device that generates powerful rays of sunlight.
+**Riverskin and The Glasshouse**: Built in the middle of Riverskin, the enormous hothouse that is the Glasshouse is home to many of the city's cactacae. As its name suggests, it is an entirely enclosed glasshouse. A flattened dome over 70 metres high at its peak and, at its base, more than a quarter of a mile in diameter, the Glasshouse covers several city blocks originally designed for human habitation, the streets inside stopping abruptly as they reach a glass wall. The old houses have been adapted for their new, much taller and larger inhabitants: roofs and walls knocked through; tops and backsides of buildings given extra rooms. New structures have been crammed in amongst the old - strange agglomerations of human architecture and monolithic stone-slab edifices stretching in big blocks of variegated colour - some several stories tall. The most imposing is a large red-stone step pyramid that serves a religious function known only to the cactacae, although some sort of sun worship seems likely. The pyramid terraces are overflowing with desert plants, and it is topped with a lensed heliochymical device that generates powerful rays of sunlight.
 
 The glass itself is usually opaque with steam and dirt. The air inside is much warmer and drier than outside, powerful fans regulating temperature and a light source at the peak of the dome heating and brightening the interior. Dune eagles and desert flora live within the glass dome in tended gardens. 
 
-The Glasshouse entrances are always tightly guarded by strong, steady cactacae armed with rivebows and sharp eyes. It is off-limits to
-non-cactacae.
+The Glasshouse entrances are always tightly guarded by strong, steady cactacae armed with rivebows and sharp eyes. It is off-limits to non-cactacae.
+
+The streets of Riverskin incline gently upwards towards the Glasshouse. The houses are old and tall, with rotting wooden frames and walls of damp plaster. In the summer, every rain saturates and blisters them, sending slates cascading from the steep roofs as rusted nails dissolve. The southern half of Riverskin is indistinguishable from Flyside, which it adjoins, but northern Riverskin is very different. It is quieter, more sullen. Cactae pack the Riverskin slums, and a few other quarters in places like Syriac and Abrogate Green. But Riverskin is the centre of their city, and there they mix in equal numbers with human locals. They are the cactus underclass, who enter the Glasshouse to shop and worship, but are forced to live in the infidel city.
 
 **Kinken**: Khepri have lived in New Crobuzon for 700 years, since the first contact with the Bered Kai Nev continent, but they were very few in number unitl the Tragic Crossing. Escaping a unthinkable disaster willingfully forgotten by today's khepri, the great clockwork  engines of the Mercy Ships carried thousands of dying khepri to the shores the continent of Rohagi. The khepri that arrived in New Crobuzon settled in Kinken.
 
@@ -168,11 +208,13 @@ Business and industry is scattered throughout the city, from the sweatshops of D
 
 The Pentons were deeply invovled in the creation of torque bombs that destroyed Suroch during the Pirate Wars. They live in the Arrowhead mansion in the Mafaton district, a place said to conceal a literal fortress beneath its glittering facade. Some even say that a secret rail line runs from it to a secure boathouse on the Canker near Banguest Bridge. No proof of this exists, but the story is widely believed.
 
+**Echomire**: Second to Kelltree in its docks, Echomire is gouged by fat square docks and reservoirs, huge culs-de-sacs of water that jut into the city, linked by deep channels to the river, thronging with ships. It is a savage, industrial zone.
+
 **Griss Twist**: For every industry, there must be dumping grounds. Griss Twist enjoyed a short-lived boom of small machinofacture decades ago - all noise, smells and profit. But it also became the site of massive riverside dumping - a first clandestine, then open - creating a new landscape of rubble, rubbish and industrial offal, cartloads and bargeloads in steady successions. Today the Griss Twist landscape is one of fenced-in mounds of broken machines, mining slag and organic offal. Hills, valleys and piles sorted by type and lagoons of liquid waste and chymical detritus find their home in Griss Twist. Most of the factories are long gone, but the dumps are eternal, and the winds from Iron Bay sometimes send a choking stench over the Tar into Petty Coil across the river.
 
 A few factories still work at half or quarter-time, sorting, smelting and sifting through the landscape of trash. However, the region is most notable for the growing presence within its dumps. Unbeknowst to all but a small congregation of heretic Godmech Cogs, a conglomarated intelligence of constructs is forming. Born of a slipped mechanism in a discarded engine, the *Construct Council* is a now a thinking network of sentient constructs, with each new assimilated construct growing its analytical power and knowledge of the city. It appears to its congregation as a behemoth of rubbish and decaying engines, but it speaks with a human avatar - a rotting body cabled to the Council and speaking with a strange, quivering voice. Day by day the Council grows, though it's ultimate aims are unknown to even its most devoted acolytes.
 
-**Gross Coil**: This district of soot and fumes is home to booming industry, factory-workers crowding in everyday via the Sink Line. It and Skulkford are sitting on layers of older buildings, which, for hundreds of years, have sunk into the mire. The sewers of Gross Coil therefore meld with ruined houses and warehouses. Where these submerged buildings meet the River Tar, the city's Vodyanoi poor live in squalor.
+**Gross Coil**: This district of soot and fumes is home to booming industry, the better-paid factory-workers in the city crowding in everyday via the Sink Line. It and Skulkford are sitting on layers of older buildings, which, for hundreds of years, have sunk into the mire. The sewers of Gross Coil therefore meld with ruined houses and warehouses; the once-human undergangs wage subterranean border-wars. Where these submerged buildings meet the River Tar, the city's Vodyanoi poor live in squalor.
 
 **Kelltree**: Between Rust Bridge and Barley Bride and served by its own rail spur from the Dexter Line, Kelltree is dominated by its large square docks. The channels are carved deep into the clay here to make new passageways for ships: primitive steamships, enormous sailing ships, and even submersibiles carved from great nautili shells. The district is an important workplace for many of the city's vodyanoi stevedores, who live nearby along the water in Lichford and Gross Coil, and along much of the Tar, but both vodyanoi and human laborers load and unload the cargos that arrive daily.
 
