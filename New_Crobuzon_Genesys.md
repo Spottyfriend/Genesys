@@ -79,6 +79,8 @@ Welcome to New Crobuzon, the greatest city-state in the world.
 
 ![Map of the City from Perdido Street Station](https://i.imgur.com/EQWNk8M.png)
 
+A brief note for readers: although the section below gives a summary of most of the districts and boroughs of New Crobuzon, some (Dryside, Pincod, Sunter, and others) are absent. This is because, simply, the books do not give descriptions of every district. GMs are therefore free to insert their own ideas as to what these locations might be like - their peoples, landmarks, industries - and indeed to expand on the following summaries in anyway they wish. 
+
 ---
 
 *Wealthier Districts*
@@ -89,9 +91,9 @@ Wealth in the city comes in several forms: money, power, knowledge, and influenc
 
 **The Crow**: This fashionable commercial and shopping district is spread out around Perdido Street Station in a mix of broad streets and tangled alleys. Three main shopping streets - LeTissof Street, Concubek Pass, and Bouleveard Dos Ghérou - radiate out from the station and BilSantum Plaza, at the heart of the district. During the day and early evening, they are always packed with carts, street vendors, buskers, and pedestrians. Many visitors simply take in the sights along the thorough-fares, for all the world seems to bring its wares to the elegant shops to sell: fine tailoring, tropical produce, inlaid snuffboxes, children's golems, gaslight lamps, and feathery lace.
 
-The old noble families that once lived here have long since fled for quieter districts, their homes converted into two- and three-story shops. In the side streets and alleys stand the offices of lawyers and doctors, the dining halls of exclusive gentlement's clubs, actuaries', geothaumaturges', apothecaries', and well-heeled gambling halls. The people here are wealthy and know it, and the only pockets of poverty are those inhabited by those who make their living from the execesses, vices and hobbies of the rich: pickpockets, expensive escorts, fortunetellers and palmists.
+The old noble families that once lived here have long since fled for quieter districts, their homes converted into two- and three-story shops. In the side streets and alleys stand the offices of lawyers and doctors, the dining halls of exclusive gentlement's clubs, actuaries', geothaumaturges', apothecaries', and well-heeled gambling halls. The people here are wealthy and know it, and the only pockets of poverty are those inhabited by the citizens who make their living from the execesses, vices and hobbies of the rich: pickpockets, expensive escorts, fortunetellers and palmists.
 
-**East Gidd and Nigh Sump**: Austere, baroque buildings line the streets of these districts. They are certainly built for the richer of the city's residents.
+**East Gidd and Nigh Sump**: Austere, baroque buildings line the streets of these districts. They are certainly designed for the richer of the city's families, but it is unclear where the children play - the streets are mostly quiet and empty.
 
 **Flag Hill**: A fine district with excellent views and enormous houses that back onto shared, gated gardens, Flag Hill has long been home to bankers and captains of industry. Flowering trees and banyans spill their knotting creepers and make them roots and trunks, emerging from between spotless black paving.
 
