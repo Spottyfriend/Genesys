@@ -91,7 +91,7 @@ Wealth in the city comes in several forms: money, power, knowledge, and influenc
 
 The old noble families that once lived here have long since fled for quieter districts, their homes converted into two- and three-story shops. In the side streets and alleys stand the offices of lawyers and doctors, the dining halls of exclusive gentlement's clubs, actuaries', geothaumaturges', apothecaries', and well-heeled gambling halls. The people here are wealthy and know it, and the only pockets of poverty are those inhabited by those who make their living from the execesses, vices and hobbies of the rich: pickpockets, expensive escorts, fortunetellers and palmists.
 
-**East Gidd and Nigh Sump**: Austere, baroque buildings line the streets of these districts. It is certainly a district for the richer of the city's residents.
+**East Gidd and Nigh Sump**: Austere, baroque buildings line the streets of these districts. They are certainly built for the richer of the city's residents.
 
 **Flag Hill**: A fine district with excellent views and enormous houses that back onto shared, gated gardens, Flag Hill has long been home to bankers and captains of industry. Flowering trees and banyans spill their knotting creepers and make them roots and trunks, emerging from between spotless black paving.
 
