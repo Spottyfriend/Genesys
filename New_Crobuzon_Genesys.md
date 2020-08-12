@@ -598,3 +598,12 @@ The practiser of subvocalurgy is what is known as a whispersmith, or susurrator.
 
 ---
 
+### The World: Bas-Lag
+
+![Map of Rohagi Continent}(https://i.imgur.com/luTTeyd.jpg)
+
+The world of Bas-Lag is immense, and no one individual has, or perhaps can have, a complete understanding of its vast geographies.
+
+---
+
+*Amarda*
