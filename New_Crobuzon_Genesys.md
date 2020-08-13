@@ -192,9 +192,9 @@ The Glasshouse entrances are always tightly guarded by strong, steady cactacae a
 
 The streets of Riverskin incline gently upwards towards the Glasshouse. The houses are old and tall, with rotting wooden frames and walls of damp plaster. In the summer, every rain saturates and blisters them, sending slates cascading from the steep roofs as rusted nails dissolve. The southern half of Riverskin is indistinguishable from Flyside, which it adjoins, but northern Riverskin is very different. It is quieter, more sullen. Cactae pack the Riverskin slums, and a few other quarters in places like Syriac and Abrogate Green. But Riverskin is the centre of their city, and there they mix in equal numbers with human locals. They are the cactus underclass, who enter the Glasshouse to shop and worship, but are forced to live in the infidel city.
 
-**Kinken**: Khepri have lived in New Crobuzon for 700 years, since the first contact with the Bered Kai Nev continent, but they were very few in number unitl the Tragic Crossing. Escaping a unthinkable disaster willingfully forgotten by today's khepri, the great clockwork  engines of the Mercy Ships carried thousands of dying khepri to the shores the continent of Rohagi. The khepri that arrived in New Crobuzon settled in Kinken.
+**Kinken**: Khepri have lived in New Crobuzon for 700 years, since the first contact with the Bered Kai Nev continent, but they were very few in number unitl the Tragic Crossing. Escaping a unthinkable disaster willingfully forgotten by today's khepri, the great clockwork engines of the Mercy Ships carried thousands of dying khepri to the shores of the continent of Rohagi. The khepri that arrived in New Crobuzon settled in Kinken.
 
-Today, the houses of the khepri district ooze the white mucus of home-grubs. Although called grubs, they are in fact beetles larger than rhinos and they reshape architecture with phlegm-cement to suit khepri standards, their little legs pushing as they eat their way through interiors. Home-grubs obey khepri handers who tug and guide them to make the right renovations, using scent glands and special bridles.
+Today, the houses of the khepri district ooze the white mucus of home-grubs. Although called grubs, they are in fact beetles larger than rhinos; they reshape architecture with phlegm-cement to suit khepri standards, their little legs pushing as they eat their way through interiors. Home-grubs obey khepri handlers who tug and guide them to make the right renovations, using scent glands and special bridles.
 
 The khepri run Kinken semi-autonomously, though none admit this state of affairs openly. The khepri institutions are nominally just mutual aid societies, each of them answerable to a moiety chief and a hive queen. In fact, these societies are just facades for the moieties or family clans themselves, some of which date back to the earliest days of khepri diaspora. The hive queens control the streets, arrest and punish wrongdoers, protect shopkeepers from anti-xenian assault and even levy tributes paid to them in city taxes. The militia visits when it must; lawbreakers harbored in the ghetto are sometimes turned over to the militia after a back-channel request or kept under house arrest within Kinken itself.
 
@@ -502,7 +502,7 @@ Of the many energies and powerful forces in Bas-Lag, the vast majority can be, b
 
 Over two-hundred years ago, nearing the end of the Pirate Wars, New Crobuzon dropped a Torque bomb on Suroch. It would be easier to imagine that nothing, today, remained of that once-great city; the reality is far worse. Houses became molten, shifting statues; insects contorted into thick tree-like structures and calcified; the sentient inhabitants of the city bent into strange shapes and now wander the constantly distorting wasteland in herds. A hundred years later, the city sent a secret research mission to Suroch, to see the long-term effects of the war. So horrified was the heliotypist, Sacramundi, at what he saw, that he leaked copies of his heliotypes to bookshops across the city. The riots that ensued nearly brought down the government. This has largely been forgotten today, but no Torquic experiments have since been conducted.
 
-Far to the south-west of the city, there is a five-hundred year-old Torque rift - the Cacotopic Stain, where Torquic energies are constantly raging. Some, drinking in pubs in Kelltree or Dog Fenn, will claim to have seen it and returned alive, pointing to an extra toe or disfigured eye as proof. They are seldom believed, but the details of their stories are, on occaison, uncannily life-like.
+Far to the south-west of the city, there is a centuries-old Torque rift - the Cacotopic Stain, where Torquic energies are constantly raging. Some, drinking in pubs in Kelltree or Dog Fenn, will claim to have seen it and returned alive, pointing to an extra toe or disfigured eye as proof. They are seldom believed, but the details of their stories are, on occaison, uncannily life-like.
 
 ---
 
@@ -620,4 +620,28 @@ Whilst this guide is intended for adventures in and around the city of New Crobu
 
 *Amarda*
 
+The huge floating city-state of Armada has sailed the Swollen Ocean for between one- and three-thousand years. A city of pirates and press-ganged citizens of a hundred different cultures and races, Amarda's population today numbers some hundred-thousand, all residing on the vast number of ships stolen and lashed together that make up the city. Though it only spans a mile wide, Amarda's streets are as countless as those in New Crobuzon, owing its layers upon layers of decks. Armada thrives on piracy and, through this method, has added great wealth to itself over the centuries. Despite this however, the city has remained a close-to-total secret, since any ship intercepted by Armadan forces is assimilated into the city, and its crew and passengers are press-ganged into citizenship for life. Lucky for those criminals and Remade shipped to Nova Esperium as slave-labour - treated with dignity on the floating city; less lucky for the rich colonalist businessman.
 
+---
+
+*Bered Kai Nev*
+
+It has been some six-and-a-half centuries since the New Crobuzon explorer Seemly crossed the Swollen Ocean and discovered the eastern continent of Bered Kai Nev. Since then though, the government has had little contact with any nation on the continent, and maintains no permanent consuls. The most notable 'contact' was when, five-hundred and fifty years later, khepri refugee ships crawled, barely afloat, into Iron Bay. Their enormous clockwork motors were rusted and broken, their sails ragged. They were charnel ships, packed with thousands of Bered Kai Nev khepri who were only just alive. Though there were khepri already in the city in small numbers, this influx saw the birth of the khepri ghettos that we see today.
+
+---
+
+*Cacotopic Stain*
+
+The Cacotopic Stain is perhaps unlike anywhere else on the continent of Rohagi. Weird, horrific energies known as the Torque create a shifting, distorting landscape; any life that finds its home there is similarly distorted and warped; and no living being can enter and leave precisely the same. The Torque-wounded suffer monstrous effects - tenticles sprouting from the eyes, or holes appearing in the body, one after another, without blood or pain, until nothing remains. The Torquic rift appeared some five-hundred years ago, and it shows no sign of disipating. Travellers should avoid at all costs.
+
+---
+
+*Cobsea*
+
+Set in the vast plains to the south-east, Cobsea is New Crobuzon's smaller neighbour. On relatively good terms, industrialists in the two cities had planned for a railway to stretch the hundreds of miles and connect them. Before these plans could get close to beginning however, the money had run out. There had been some financial crisis, some speculative bubble had burst, some trade network had collapsed under the weight of competition and a plethora of too-cheap products no one could buy, and the project had been killed before it could even be born.
+
+---
+
+*Shankell and the Cymek*
+
+The Cymek, Rohagi's vast southern peninsula, is a harsh place, known for its dry, punishing heat. There is, nevertheless, civilisation to be found. Nomadic tribes of egilitarian garuda move about the skies, seeking food and water, and the cactacae of the great city of Shankell fill the seats of its gladiatorial fleshpits and hookwire cages. But the Cymek is most famous amongst scholars and theologists for its libary.
