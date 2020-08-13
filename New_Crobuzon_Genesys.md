@@ -496,6 +496,16 @@ Thaumaturgy has a huge influence on the technologies of New Crobuzon. Batteries,
 
 ---
 
+*The Torque*
+
+Of the many energies and powerful forces in Bas-Lag, the vast majority can be, broadly speaking, understood, theorised about, and even manipulated. The Torque is no such energy. Where the power of a rushing river, with help from engineers, scientists and labourers, can be used to power a cotton mill, or diverted to destroy a village, Torquic power, with all the engineers, scientists and labourers in New Crobuzon, cannot be controlled, for good or ill. It is a rouge, pathological force. All attempts to tap it have met horrific ends.
+
+Over two-hundred years ago, nearing the end of the Pirate Wars, New Crobuzon dropped a Torque bomb on Suroch. It would be easier to imagine that nothing, today, remained of that once-great city; the reality is far worse. Houses became molten, shifting statues; insects contorted into thick tree-like structures and calcified; the sentient inhabitants of the city bent into strange shapes and now wander the constantly distorting wasteland in herds. A hundred years later, the city sent a secret research mission to Suroch, to see the long-term effects of the war. So horrified was the heliotypist, Sacramundi, at what he saw, that he leaked copies of his heliotypes to bookshops across the city. The riots that ensued nearly brought down the government. This has largely been forgotten today, but no Torquic experiments have since been conducted.
+
+Far to the south-west of the city, there is a five-hundred year-old Torque rift - the Cacotopic Stain, where Torquic energies are constantly raging. Some, drinking in pubs in Kelltree or Dog Fenn, will claim to have seen it and returned alive, pointing to an extra toe or disfigured eye as proof. They are seldom believed, but the details of their stories are, on occaison, uncannily life-like.
+
+---
+
 #### Thaumaturgy
 
 ---
@@ -609,3 +619,5 @@ Whilst this guide is intended for adventures in and around the city of New Crobu
 ---
 
 *Amarda*
+
+
