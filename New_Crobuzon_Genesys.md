@@ -642,6 +642,6 @@ Set in the vast plains to the south-east, Cobsea is New Crobuzon's smaller neigh
 
 ---
 
-*Shankell and the Cymek*
+*The Cymek, Dreer Samher and Shankell*
 
-The Cymek, Rohagi's vast southern peninsula, is a harsh place, known for its dry, punishing heat. There is, nevertheless, civilisation to be found. Nomadic tribes of egilitarian garuda move about the skies, seeking food and water, and the cactacae of the great city of Shankell fill the seats of its gladiatorial fleshpits and hookwire cages. But the Cymek is most famous amongst scholars and theologists for its libary.
+The Cymek, Rohagi's vast southern peninsula, is a harsh place, known for its dry, punishing heat. There is, nevertheless, civilisation to be found. Nomadic tribes of egilitarian garuda move about the skies, seeking food and water, and the cactacae of the great city of Shankell fill the seats of its gladiatorial fleshpits and hookwire cages. But the Cymek is most famous amongst scholars and theologists for its huge libary, which is carried on the backs of a garuda clan. The Cymek Library is considered one of the largest and most comprehensive in Rohagi.
