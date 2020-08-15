@@ -618,15 +618,15 @@ Whilst this guide is intended for adventures in and around the city of New Crobu
 
 ---
 
-*The Anophelii Island*
-
-On a tiny island some two-hundred miles south of the island nation of Gnurr Kett, there remains the last surviving society of anophelii. Some two-thousand years ago, the mosquito-people maintained a vast empire that spanned huge swaths of Rohagi, Shoteka and many of their surrounding islands, and though the Malarial Queendom is all but forgotten amongst the anophelii themselves, the authorities of the once-subjugated nations remember all too well.  
-
----
-
 *Amarda*
 
 The huge floating city-state of Armada has sailed the Swollen Ocean for between one- and three-thousand years. A city of pirates and press-ganged citizens of a hundred different cultures and races, Amarda's population today numbers some hundred-thousand, all residing on the vast number of ships stolen and lashed together that make up the city. Though it only spans a mile wide, Amarda's streets are as countless as those in New Crobuzon, owing its layers upon layers of decks. Armada thrives on piracy and, through this method, has added great wealth to itself over the centuries. Despite this however, the city has remained a close-to-total secret, since any ship intercepted by Armadan forces is assimilated into the city, and its crew and passengers are press-ganged into citizenship for life. Lucky for those criminals and Remade shipped to Nova Esperium as slave-labour - treated with dignity on the floating city; less lucky for the rich colonalist businessman.
+
+---
+
+*The Anophelii Island, Gnurr Kett and Kohnid*
+
+On a tiny island some two-hundred miles south of the island nation of Gnurr Kett, there remains the last surviving society of anophelii. Some two-thousand years ago, the mosquito-people maintained a vast empire that spanned huge swaths of Rohagi, Shoteka and many of their surrounding islands, and though the Malarial Queendom is all but forgotten amongst the anophelii themselves, the authorities of the once-subjugated nations remember all too well. Over the many hundreds of years since, a long-standing agreement has formed between the sailors of Dreer Samher and the Gnurr Kett authorities in Kohnid. The Samheri cactacae, their sap-based circulatory systems shielding them from the she-anophelii's blood-hunger, come to the island with livestock and a few trade goods, and take their cut as middlemen. Kohnid buys from them whatever the anophelii give, but, what they seeks primarily, is the intelligence of the he-anopheli philosophers. Kohnid is playing a game, keeping the brilliant anophelii as pet thinkers; giving them nothing that might make them powerful, or let them escape - Kohnid cannot not risk unleashing a single she-anophelus on the world again - but just enough to think with. The Kettai must not allow anophelii access to any information outside of its control, but the centuries-long maintenance of High Kettai as the island’s only written language ensures that. This way, anophelii science and philosophy are in the hands of the Kohnid elite, who are almost alone in being able to read it. Kohnid's university libraries are filled with the fruits of  anopheli intellectual labour, all creditted to Kettai scholars.
 
 ---
 
@@ -654,6 +654,8 @@ The Cymek, Rohagi's vast southern peninsula, is a harsh place, known for its dry
 
 ---
 
-*Gnurr Kett*
+*High Cromlech*
+
+To the citizens of New Crobuzon, the city of High Cromlech is virtually mythical but, as its more senior state officials well know, the city of the abdead is as real as New Crobuzon itself. A near-impossible journey away,  
 
 
