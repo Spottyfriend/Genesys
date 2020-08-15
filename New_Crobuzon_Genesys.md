@@ -614,7 +614,13 @@ The practiser of subvocalurgy is what is known as a whispersmith, or susurrator.
 
 The world of Bas-Lag is immense, and no one individual has, or perhaps can have, a complete understanding of its vast geographies. The city of New Crobuzon sits close to the east coast of the continent of Rohagi, but is by no means its capital, nor does it reflect the culture of the continent's peoples, which are unimaginably diverse. The Ragamoll-speaking humans of New Crobuzon can hardly be compared to the grindylow of the Cold Claw Sea - indeed, whether the latter's model of conciousness can even be considered related to the former's is still an open question. Trade does nevertheless take place between the nations and cities of Rohagi. Ships have even been sent to, and received from, the east across the Meagre Sea - the continent of Bered Kai Nev and the Crobuzoner colony of Nova Esperium.
 
-Whilst this guide is intended for adventures in and around the city of New Crobuzon, players and GMs will certainly benefit from knowledge of the broader world. New Crobuzon is a hub of so many culutres, and a stop for so many merchant ships and travellers, a vistor from as far away as Khadoh, or the Witchocracy, or even High Cromlech, whilst rare, may nevertheless be found. More intrepid GMs may even wish to take their players further afield than the city - to gain some hidden knowledge from the anophelii of Gnurr Ket, or hunt the great floating city of Armada. Such players should take care.
+Whilst this guide is intended for adventures in and around the city of New Crobuzon, players and GMs will certainly benefit from knowledge of the broader world. New Crobuzon is a hub of so many culutres, and a stop for so many merchant ships and travellers, a vistor from as far away as Khadoh, or the Witchocracy, or even High Cromlech, whilst rare, may nevertheless be found. More intrepid GMs may even wish to take their players further afield than the city - to gain some hidden knowledge from the last anophelii settlement - south of Gnurr Kett, or hunt the great floating city of Armada. Such players should take care.
+
+---
+
+*The Anophelii Island*
+
+On a tiny island some two-hundred miles south of the island nation of Gnurr Kett, there remains the last surviving society of anophelii. Some two-thousand years ago, the mosquito-people maintained a vast empire that spanned huge swaths of Rohagi, Shoteka and many of their surrounding islands, and though the Malarial Queendom is all but forgotten amongst the anophelii themselves, the authorities of the once-subjugated nations remember all too well.  
 
 ---
 
@@ -644,4 +650,10 @@ Set in the vast plains to the south-east, Cobsea is New Crobuzon's smaller neigh
 
 *The Cymek, Dreer Samher and Shankell*
 
-The Cymek, Rohagi's vast southern peninsula, is a harsh place, known for its dry, punishing heat. There is, nevertheless, civilisation to be found. Nomadic tribes of egilitarian garuda move about the skies, seeking food and water, and the cactacae of the great city of Shankell fill the seats of its gladiatorial fleshpits and hookwire cages. But the Cymek is most famous amongst scholars and theologists for its huge libary, which is carried on the backs of a garuda clan. The Cymek Library is considered one of the largest and most comprehensive in Rohagi.
+The Cymek, Rohagi's vast southern peninsula, is a harsh place, known for its dry, punishing heat. There is, nevertheless, civilisation to be found. Nomadic tribes of egilitarian garuda move about the skies, seeking food and water; the cactacae of the great northern city of Shankell fill the seats of its gladiatorial fleshpits and hookwire cages; and, in the south, the fablers of the proud pirate-merchant city Dreer Samher make the gathered crowds drunk on their hypnogogic voices, telling and retelling the stories of old wars and lost loves. But the Cymek is most famous amongst scholars and theologists for its huge libary, which is carried on the backs of a garuda clan. The Cymek Library is considered one of the largest and most comprehensive in Rohagi.
+
+---
+
+*Gnurr Kett*
+
+
