@@ -656,6 +656,6 @@ The Cymek, Rohagi's vast southern peninsula, is a harsh place, known for its dry
 
 *High Cromlech*
 
-To the citizens of New Crobuzon, the city of High Cromlech is virtually mythical but, as its more senior state officials well know, the city of the abdead is as real as New Crobuzon itself. A near-impossible journey away,  
+To the citizens of New Crobuzon, the city of High Cromlech is virtually mythical; as its more senior state officials well know, however, the city of the abdead is as real as New Crobuzon itself. A near-impossible journey away,  
 
 
