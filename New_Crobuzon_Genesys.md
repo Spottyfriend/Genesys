@@ -656,6 +656,16 @@ The Cymek, Rohagi's vast southern peninsula, is a harsh place, known for its dry
 
 *High Cromlech*
 
-To the citizens of New Crobuzon, the city of High Cromlech is virtually mythical; as its more senior state officials well know, however, the city of the abdead is as real as New Crobuzon itself. A near-impossible journey away,  
+To the citizens of New Crobuzon, the city of High Cromlech is virtually mythical; as more senior state officials well know, however, the city of the abdead is as real as New Crobuzon itself. A near-impossible journey away, the few successful travellers will find a city in an all-encompassing quiet. The mindless zombies that make up the majority of the workforce in the city are near-silent, and the blood-addict vampir are creatures of few words. The thanati proper, the aristocracy, are abdead liches with beautiful clothes and skin like preserved leather; their mouths are sewn shut. The noise in the city comes from a small number of living humans - the quick. A minority of low status, the quick are mostly farm-bred and kept in cages until they are strong enough to be processed into zombies, or raised by the aristocracy until they come of age, then to be slain and welcomed into dead society. Then there is Liveside, the quick ghetto, where the living carry out the more intricate labour that zombies cannot perform and the taboo professions that thaniti distain. On a rare occaison, a higher class quick - a liveman or livewife - will earn enough to have themself put down and join the ranks of the abdead aristocracy. Liveman becomes deadman.
+
+---
+
+*Maru'ahm*
+
+The city of Maru'ahm is known, if it is known at all by Crobuzoners, for one thing - gambling. Gambling in Maru'ahm is not simply a popular means of entertainment; it is the basis of society. Legislation is not made, in the senate chamber or court room, but won at the card table; life and death, servitude and freedom, are all decided in games of grandbridge, black sevens, and quincehand.
+
+---
+
+*Myrshock*
 
 
