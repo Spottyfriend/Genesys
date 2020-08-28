@@ -644,7 +644,7 @@ The Cacotopic Stain is perhaps unlike anywhere else on the continent of Rohagi. 
 
 *Cobsea*
 
-Set in the vast plains to the south-east, Cobsea is New Crobuzon's smaller neighbour. On relatively good terms, industrialists in the two cities had planned for a railway to stretch the hundreds of miles and connect them. Before these plans could get close to beginning however, the money had run out. There had been some financial crisis, some speculative bubble had burst, some trade network had collapsed under the weight of competition and a plethora of too-cheap products no one could buy, and the project had been killed before it could even be born.
+Set in the vast plains to the south-east, Cobsea is New Crobuzon's smaller neighbour. On relatively good terms, industrialists in the two settlements had planned for a railway to stretch the hundreds of miles and connect them. Before these plans could get close to beginning however, the money had run out. There had been some financial crisis, some speculative bubble had burst, some trade network had collapsed under the weight of competition and a plethora of too-cheap products no one could buy, and the project had been killed before it could even be born.
 
 ---
 
@@ -667,5 +667,13 @@ The city of Maru'ahm is known, if it is known at all by Crobuzoners, for one thi
 ---
 
 *Myrshock*
+
+With the exclusion of Cobsea, Myrshock is New Crobuzon's closest city neighbour. An ugly port, the architecture of Myrshock appears thrown together. Where it is designed, its aesthetic is unsure - churches with cement facades mimicking antique curlicues, banks using slate in uncommon colours, achieving only vulgarity. Like New Crobuzon, Myrshock is mixed. Human women and men live beside cactacae, and garuda dapple the air as well as the streets; there are vodyanoi in canal ghettos.
+
+Sitting on the north costal edge of the Meagre Sea, visitors from the Cymek will often cross through the port town of Myrshock on their way to New Crobuzon. If the railway, that had once been planned to link the two cities along with Cobsea, had been sucessful, there might well have been far more visitors from the south in New Crobuzon today, but, as it was, the project was cancelled before it had even began. You may nevertheless see a floating factory from Myrshock stopping in Kelltree docks, or, if your security clearance allows, walk past the Myrshock embassy that resides on one of the upper floors of Perdido Street Station's Mandragorae Wing.
+
+---
+
+*Nova Esperium*
 
 
