@@ -676,4 +676,11 @@ Sitting on the north costal edge of the Meagre Sea, visitors from the Cymek will
 
 *Nova Esperium*
 
+Half way across the world, the offical depiction of Nova Esperium is that of a small, bright, glittering city - impressive towers and grain silos, vast beautiful forests surrounding it, filled with unique animals. In truth, on an unmapped continent to the east, New Crobuzon's colony is a little blister of civilization; the life of its residents is hard and often short. Eager for new citizens, Nova Esperium will ask no questions and even pay skilled labourers to take the dangerous journey across the Meagre Sea. The majority of the colony's workforce, however, have little choice in the matter; they are prisoners, indentured laborers, and Remade. The land's indigenous peoples fair even worse. Colonists rarely return, but ships from Nova Esperium do dock in Iron Bay at least annually.
+
+---
+
+*Rudewood*
+
+A vast forest just to the south of the city, Rudewood is party of New Crobuzon for many citizens; the wood even has its own derelict train station, now surrended to the green life of the wood. Adventurous Crobuzoners or bored youths can follow the overgrown tracks for a day of foraging or hunting or fire-lighting. Not that Rudewood is particularly safe for the city-dweller; strange predators slip between the great trees after dark and 
 
