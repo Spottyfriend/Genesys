@@ -686,3 +686,18 @@ A vast forest just to the south of New Crobuzon, for many, Rudewood is part of c
 
 ---
 
+*Salkrikaltor*
+
+While its borders are somewhat nebulous, The Cray Commonwealth of Salkrikaltor (or simply - Salkrikaltor) most commonly refers to those waters enclosed by the islands of Gnomon Tor, Bartoll and the Fins, some hundreds of miles east of Iron Bay. Its capital, Salkrikaltor City, is a submerged city. Some towers and rooftops break the surface of the waves; they are rendered in concrete, in iron, rock and glass, and in sweeps of hardy cold-water coral. Columns spiraled with walkways, linked by spine-thin bridges. Intricate conical spires a hundred feet high. Newer-looking, ovoid mansions carved from stone and ribbed with iron, suspended above the water on struts that jutted from the submerged roofscape. Floating platforms topped with terraces of square brick houses - like those of New Crobuzon - perched preposterously in the sea. The true city, however, lies beneath the waves. A bustling metropolis, Salkrikaltor City is just as much a city as New Crobuzon, from its outer suburbs of low buildings in porous stone and coral, to the monumental architecture at its centre - cathedrals and factories, government buildings and central banks. Many of the buildings, in in traditional Salkrikaltor style, have large windows and doorways, so that small fish can enter and exit unhindered.
+
+With the exception of the small human minority that live above-water, the majority of Salkrikaltor's populous are the cray. Above the torso, they appear similar to humans but for a small ruff of gills on the neck, below it however, they are armoured, and in possession of scuttling, segmented legs as well as a tail. Just as the human resembles the ape, the he-cray resembles the lobster. The cray of the commonwealth keep good relations with New Crobuzon, and trade occurs regularly.
+
+---
+
+*Shoteka and the Witchocracy*
+
+What little is known about the southern continent of Shoteka arrives at New Crobuzon through stories of the Witchocracy - Shud Zar Myrion Zar Koni - a witch-ruled society with ever-strange, ever-uncertain relations with the city. Whilst much is said of the Witchocracy, exclaimed by drunks in Dog Fenn bars or whispered between children before bed, very little of it is ever true.
+
+---
+
+*Suroch*
