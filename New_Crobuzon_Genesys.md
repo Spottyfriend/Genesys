@@ -37,7 +37,7 @@
 
 **Wolfang Baur** (Writer for Dragon Magazine. Issue #352 is my primary source beyond the books, and this guide uses large portions of that issue verbatim.)
 
-**Bryce Jones** (Creator of the [3.5e D&D Bas-Lag project](https://drive.google.com/file/d/0B0vwOvklTLzaRVBHaGRBaG9JQ1E/view), from which this guide borrows liberally. GMs unconcerned by 'canon' are advised to use Jones', much more expansive guide to help expand on the world described in this one, which is both shorter and generally goes without detail not found within Miéville's books.)
+**Bryce Jones** (Creator of the [The Bas-Lag Gazeteer](https://drive.google.com/file/d/0B0vwOvklTLzaRVBHaGRBaG9JQ1E/view), from which this guide borrows liberally. GMs unconcerned by 'canon' are advised to use Jones', much more expansive guide to help expand on the world described in this one, which is both shorter and generally goes without detail not found within Miéville's books.)
 
 **China Miéville** (Author; writer of the Bas-Lag books.)
 
