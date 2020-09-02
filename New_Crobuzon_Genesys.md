@@ -708,14 +708,27 @@ Since the end of the Pirate Wars (or the 'Slow War' or the 'False War'), the onc
 
 *Tesh*
 
-Tesh, City of the Crawling Liquid, is, in some ways, New Crobuzon's twin. A large, prosperous city, sitting near the coast, its industries are developed, as are its armed forces. But Tesh is not like New Crobuzon - it is an alien place. Teshi science is unrecognisable, its technologies and thaumaturgy are arcane and many of its cultural practices are indecipherable except by its citizens and one or two foreign academics, who themselves distort and misunderstand. Many Crobuzoners know a little of Tesh - its moats and glass cats, and the Catoblepas Plain, merchant trawlers and tramp diplomats and the Crying Prince - but very few have anything resembling a correct, let alone complete, picture of the city.
+Tesh, City of the Crawling Liquid, is, in some ways, New Crobuzon's twin. A large, prosperous city, sitting near the coast; its industries are developed, as are its armed forces. But Tesh is not like New Crobuzon - it is an alien place. Teshi science is unrecognisable, its technologies and thaumaturgy are arcane and many of its cultural practices are indecipherable to Crobuzoners, except by one or two academics and diplomats, who themselves distort and misunderstand. Many Crobuzoners know a little of Tesh - its moats and glass cats, and the Catoblepas Plain, merchant trawlers and tramp diplomats and the Crying Prince - but very few have anything resembling a correct, let alone complete, picture of the city.
 
 ---
 
 *The Gengris*
 
-Lodged like an impurity in the southern jag of the Cold Claw Sea is an extraordinary, dangerous place, something between an island, a half-sunk city, and a myth. An amphibious badland about which the civilized world knows next to nothing, except that it exists and that it is dangerous. That place is The Gengris. It is said to be the home of the grindylow, aquatic demons or monsters or degenerate crossbred men and women, depending on which story one believes. The grindylow, or The Gengris (the distinction between race and place is unclear), control the south of the Cold Claw Sea with unbreakable power and a cruel, capricious isolationism. Their waters are lethal and uncharted. Only the most senior officials of New Crobuzon are aware of the precise nature of The Gengris, and even engage in limited trade. Like Tesh and the Witchocracy, Gengris culture appears totally alien; unlike the former, however, the rules of the grindylow cannot be learnt. Transgressions are often deadly.
+Lodged like an impurity in the southern jag of the Cold Claw Sea is an extraordinary, dangerous place, something between an island, a half-sunk city, and a myth. An amphibious badland about which the civilized world knows next to nothing, except that it exists and that it is dangerous. That place is The Gengris. It is said to be the home of the grindylow, aquatic demons or monsters or degenerate crossbred men and women, depending on which story one believes. The grindylow, or The Gengris (the distinction between race and place is unclear), control the south of the Cold Claw Sea with unbreakable power and a cruel, capricious isolationism. Their waters are lethal and uncharted. Only the most senior officials of New Crobuzon are aware of the precise nature of The Gengris, although they do engage in limited trade. Like Tesh and the Witchocracy, Gengris culture appears totally alien; unlike the former, however, the rules of the grindylow cannot be learnt. Transgressions are often deadly.
 
 ---
 
 ### Elsewhere
+
+The land of Bas-Lag, its oceans and deserts, forests and cityscapes, is, it seems, not the only world in or on which life can exist. They are *other* places. Whether these places are actually geographical - whether a traveller could fly upward, past the moon and her orbiting daughters and into the blackness beyond, and find somewhere *else* - or whether only the abyssonauts, explorers with trans-dimensional aspirations, could complete the journey between here and there, it is unclear. What is certain, however, is that the universe is far larger than many would have you believe.
+
+---
+
+*The Eastern Rim of the Universe*
+
+The origins of the Ghosthead Empire are confused and inconsistent. The imperial texts that survive are translations of translations, and the weird artefacts of that all-powerful empire that are scattered across Bas-Lag, resist study. The empire is remembered though (and still feared), certainly, in varying degrees by all the sapient races, but it is mostly its defeat - the Contumancy and the Sloughing Off after it - that is recalled, whilst its origins are forgotten almost totally. The most well-researched scholarly texts, however, found in the Cymek Library or in New Crobuzon University, might say something resembling the following.
+
+Thousands of years ago, on the eastern rim of the universe, there was a world where each morning came with a wall of fire, so hot that it would ignite the air, burn the mountains, and blind anyone who raised their gaze, even from the bottom of the deepest ocean. As the day went, the fire moved across the sky from east to west, and the wall of fire became a disc, a sun, slowly receeding. By noon, the world becmae cold and, by dusk, the cold was unimaginable. The world became enveloped in layers of ice and frost; the very gases, the very aether piled up in bergs and walls, chilled more solid than stone. By night, sun was a distant star, but when day broke, the fire returned again. This was the Ghosthead homeworld. When the Ghosthead arrived on Bas-Lag, so temperate by comparison, having travelled through the dark sea of stars in the belly of a great metal fish, this is what they escaped.
+
+---
+
