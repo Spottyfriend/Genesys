@@ -480,7 +480,7 @@ New Crobuzon's skyrail is one of the city's unique features. Seven huge, thrummi
 
 *Elyctricity*
 
-A rarer means of power than steam, elyctric generation is nevertheless a possiblity in the city, and various industries find a use for it. Elyctricity can equally be used at a smaller-scale - to power a construct, or as part of a weapon. It can also be combined with thaumaturgic or chymical technology, for example in the case of an elyctro-thaumaturgic barb gun, or a chymical, thaumaturgic or metaclockwork battery.
+A rarer means of power than steam, generation of elyctrical currents is nevertheless a possiblity in the city, and various industries find a use for it. Elyctricity can equally be used at a smaller-scale - to power a construct, or as part of a weapon. It can also be combined with thaumaturgic or chymical technology, for example in the case of an elyctro-thaumaturgic barb gun, or a chymical, thaumaturgic or metaclockwork battery.
 
 ---
 
