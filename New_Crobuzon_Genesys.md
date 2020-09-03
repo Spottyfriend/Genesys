@@ -574,7 +574,7 @@ More directly and obviously powerful than its geoempathic cousin, the geothaumat
 
 *Karcist Thaumaturgy*
 
-A karcist is a thaumaturge able to communicate with and pull certain dæmons (creatures from the plane, Hell) through the aether into our world. Some dæmons are perfectly sapient, and Hell even maintains an embassy in New Crobuzon (with a resident karcist to allow communication between planes), whilst others are more animalistic or, at least, more agreeable, and are able to be conjured by a karcist for their offensive capablities. Interacting with the Pit in any respect, however, requires taking a number of precautions and accounting for many different varibles to prevent disaster. The karcist will also require various dæmonological equipment to perform any thaumaturgic operations, unless of course she is knowledgable enough to learn the arcane languages and inact the particular sacrificial rituals that were necessary before the invention of such equipment; few are still in the possession of this knowledge. 
+A karcist is a thaumaturge able to communicate with and pull certain dæmons through the aether into our world. Some dæmons are perfectly sapient, and Hell even maintains an embassy in New Crobuzon (with a resident karcist to allow communication between planes), whilst others are more animalistic or, at least, more acquiescent, and are able to be conjured by a karcist for their offensive capablities. Interacting with the Pit in any respect, however, requires taking a number of precautions and accounting for many different varibles to prevent disaster. The karcist will also require various dæmonological equipment to perform any thaumaturgic operations, unless of course she is knowledgable enough to learn the arcane languages and enact the particular sacrificial rituals that were necessary before the invention of such equipment; few are still in the possession of this knowledge. 
 
 ---
 
@@ -734,4 +734,19 @@ Thousands of years ago, on the eastern rim of the universe, there was a world wh
 
 *The Fractured Land and The Scar*
 
-More than three-thousand years ago, the Ghosthead came to Bas-Lag. They arrived with such force and violence, that the world split open; reality itself was torn. An impossible journey from Iron Bay, the Scar still exists. More than two-thousand miles across, and with hundreds of miles between its two sides, there is a fissure in the ocean, jagged and weird. In between, is the emptiness - the Scar itself. Energies pour from it; possible realities swirl together and break apart; potentiality and possiblity well up about the lesion; the ocean waters are thick with seams of what might be. In the days of the empire, the Ghosthead's dominance relied on their ability to *mine* that possiblity. With this industry, they created engines and weaponry
+More than three-thousand years ago, the Ghosthead came to Bas-Lag. They arrived with such force and violence, that the world split open; reality itself was torn. An impossible journey from Iron Bay, the Scar still exists. More than two-thousand miles across, and with hundreds of miles between its two sides, there is a fissure in the ocean, jagged and weird. In between, is the emptiness - the Scar itself. Energies pour from it; possible realities swirl together and break apart; potentiality and possiblity well up about the lesion; the ocean waters are thick with seams of what might be. In the days of the empire, the Ghosthead's dominance relied on their ability to *mine* that possiblity, tapping the wound that they had created. With this industry, they created circuits and engines and weaponry, shaping reality to their preferred possiblity. With this industry, they ruled Bas-Lag for five-hundred years.
+
+The Fractured Land Hypothesis, posited by any scientist in New Crobuzon, will be met, by most academics, with a derisive snort or patronising smile. The notion of a mythical, nightmarish land, untold thousands of miles away, filled with monsters, where the rules of reality break down, and all caused by some unknown, untheorised force - this, to many academics, is psuedo-science. But when the Ghosthead arrived and broke the world, this is precisely what was thrown up - the Fractured Land, the Broken Country, with its inhabitants of terrible things, a dreadful ecology. Lightfungus. Dreadcurs. Butterflies with unholy appetites. If it does exist, who would dare search for it?
+
+---
+
+*Hell*
+
+Once shrouded in mystery, only contactable in strange languages and via the sacrifice of live animals, the plane of Hell now maintains an embassy in New Crobuzon, and the relations with the Hellkin are friendly. The karcists of New Crobuzon have, today, automated the process of extraplanar invocation using engines and circuits to create victimless sacrifices and dispense with the need for dæmon linguistics. Not that the process is easy of course - the distrupting pressure fronts of the æther can move powerstorms through the abyss and null-space and into the borderlands - but, with the variables accounted for, communication is, very much, possible. Communicated with in this fashion, the dæmons of Hell take the shape of ordinary humans, though their normal voices precede a terrible, tormented echo of the same. Some karcists take the view that this echo is, in fact, due to some distortion, spoken first, and the *real* echo is therefore the smooth, calm voice that the dæmon presents to its listeners. Whether this implies that the Hellkin are, as they might have you believe, the damned souls of the living, it is unclear.
+
+---
+
+*The Worldweb*
+
+
+
