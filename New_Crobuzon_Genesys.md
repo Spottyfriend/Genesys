@@ -11,7 +11,7 @@
     + [Politics and the State](#politics-and-the-state)
     + [Groups and Organisations](#groups-and-organisations)
     + [Religion](#religion)
-    + [Technology and Industry](#technology-and-industry)
+    + [Technology and Economy](#technology-and-economy)
     + [Thaumaturgy](#thaumaturgy)
   * [The World: Bas-Lag](#the-world-bas-lag)
   * [Elsewhere](#elsewhere)
