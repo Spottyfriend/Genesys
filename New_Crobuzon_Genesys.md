@@ -754,4 +754,10 @@ One of the more alien creatures of Bas-Lag, the Weaver is, ostensibly, a great s
 
 ## Races
 
+The races and species of Bas-Lag are near-infinite. Such diversity exists in the world that it would surely be impossible for any anthropologist, even of the greatest university, to document even close to a complete picture of the manifold forms of life. The city of New Crobuzon itself is a mixing pot of possibly hundreds of races, of so many different cultures. Presented below, however, is a summary of the races more commonly found in the city, along with the details required to play each of them as part of a *Genesys* campaign.
+
+---
+
 ### Humans
+
+
