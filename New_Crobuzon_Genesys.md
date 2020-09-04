@@ -69,7 +69,7 @@ The city of Crobuzon was founded roughly 1,800 years ago as a small village near
 
 The inhabitants pulled up stakes and moved to where the River Tar meets with the Canker, just a few miles upriver from its meeting with the sea. Although the people renamed it New Crobuzon, the dating system from the first settlement's founding on Iron Bay was retained (Anno Urbis - AU - and retroactively, Before New Crobuzon - BNC). Over time, its exploited citizens and scheming mayors have extended its reach thousands of miles, and have built its manufactories into a vast, sprawling, industrial mess. The city-state has created great art and advanced sciences, funded rail travel and gliding aerostats, destroyed one of its rival cities and brought others to heel, and has made some of its merchants very, very wealthy indeed.
 
-New Crobuzon now suffers the diseases of a proud industrial metropolis: thick pollutants flow into the Gross Tar from Brock Marsh; the crowds (three and a half million strong) strain its streets and rails; and while its newer buildings tower ten and even twenty stories high, every mass of concrete, tar, and brick is rotting at the base. Many of its districts are slums; rebels and unions threaten the wealth of the powerful capitalist industrialists; and its citizens are barely held in check by the brutal militia.
+New Crobuzon now suffers the diseases of a proud industrial metropolis: thick pollutants flow into the Gross Tar from Brock Marsh; the crowds (some three million strong) strain its streets and rails; and while its newer buildings tower ten and even twenty stories high, every mass of concrete, tar, and brick is rotting at the base. Many of its districts are slums; rebels and unions threaten the wealth of the powerful capitalist industrialists; and its citizens are barely held in check by the brutal militia.
 
 Welcome to New Crobuzon, the greatest city-state in the world.
 
@@ -444,13 +444,18 @@ Given the vast quantity and variety of traditions and pantheons in the city, one
 
 ---
 
-#### Technology and Industry
+#### Technology and Economy
 
 ---
 
 For readers, it might be most useful to imagine the technology of New Crobuzon as broadly 'Victorian': trains, ships, cranes and all manner of industrial eqiupment are powered by steam engines burning coal or, more rarely, oil; the city is lit by gas, both in the streets and in homes; large cameras have the ability to capture still images, that, when developed, render a scene in sepia (what is known as a heliotype); and horse-drawn carriages transport passengers around the city (although the horses may be Remade, or indeed not horses at all but some weirder cousin - a pterabird or a beast from the northern tundra -  or even a Remade individual, both cabdriver and cab). New Crobuzon does, however, lack any system of near-instant communication, either by written text or spoken word; messages are delivered by letter using a system of cheap stamps and postal workers, and post arrives regularly.
 
 In its system of production and exchange, New Crobuzon is firmly capitalist: its industry is based on socialised, production-line manufacturing done in large factories, whilst exchange of goods and services mostly takes place in small local shops or in markets. Raw matierals and commodities are transported around the city via train and canal, leaving and entering via New Crobuzon's vast dockyards. There are still some tradespeople whose craft has not yet found itself part of the city's industrial machine however, and who both produce and sell out of their own premises; many professional thaumaturges make their living this way. All this leaves New Crobuzon with a fairly well defined system of classes, with an indsturial working class, who work long hours in poor conditions in factories owned by a wealthy class of industrialists and, between them, a middle class of small business owners and artisans who, in many cases, are being pressed into more and more worker-like conditions.
+
+The currency of the city is diverse, but the most common denominations are, in order of worth: stivers, shekels, and nobels. Also used are pennies, marks and guineas, with gold pieces also respected. A note for GMs here: whilst the books are not completely clear on the exact worth of each denomination, their approximate worth, which can be used with the prices indicated by the *Genesys Core Rulebook* and other resources, can be treated as follows. (It might be assumed that the multitude of names arises from a system similar to British £sd, outlined [here](http://projectbritain.com/moneyold.htm#:~:text=Before%20decimalization%20on%2015%20February,four%20farthings%20(quarter%20pennies).&text=The%20pre%2Ddecimalisation%20British%20system,introduced%20by%20King%20Henry%20II.))
+One stiver = 5.
+One shekel = 50.
+One noble = 100.
 
 Science in New Crobuzon progresses alongside industry. Breakthroughs of physics, biology and chymistry from the New Crobuzon University, which today progress at steady rate, inform development in the production process and drive it forward. This dynamic is apparent to all Crobuzoners who live on the banks of the city's rivers, where the stink of chymical overflows permiates many of the less rich districts - the smell of a university lab multiplied a thousandfold. Khrepi must bathe monthly in prophylactics to avoid the itches and sores.
 
@@ -516,7 +521,7 @@ Like science, thaumaturgy can be rigourously studied, and theories, models and m
 
 Unlike science however, thaumaturgy is a physical and mental skill, practisable by individuals. However hard and long the physicist pores over her books, she will never be able to alter the variables of gravitational pull which she studies, or influence elyctrons to create lightning, no matter how well she knows the physical processes of a storm. Unlike the physicist, but like the practioner of 'magic', a thaumaturge can do these things. With some combination of spoken words, bodily motion, written symbols and, crucially, the particular combination of concentration and emotional release known as cathexis, a thaumaturge can influence the physical and non-phyiscal elements of the world to their will. In general, anyone can learn a few basic hexes and matter-shaping techniques given application, but the most powerful thaumaturges are those who have studied and practised for decades.
 
-Thaumaturges in New Crobuzon are often artisans, selling their specific trade from a shopfront in Brockmarsh or The Crow, but you will also find many in academia, government research, and in the militia, whose captain-thaumaturges are adept at unleashing thaumaturgic bolts of glowing unlight at enemies of the state who attempt to resist.
+Thaumaturges in New Crobuzon are often artisans, selling their specific trade from a shopfront in Brockmarsh or The Crow, a bagder familiar completing errands on their behalf. You will also find many, however, in academia, government research, and in the militia, whose captain-thaumaturges are adept at unleashing thaumaturgic bolts of glowing unlight at enemies of the state who attempt to resist.
 
 Below are some of the particular techniques and disciplines of thaumaturgy, but not all thaumaturgy falls into a category, and some hexes might straddle multiple techniques.
 
@@ -754,10 +759,10 @@ One of the more alien creatures of Bas-Lag, the Weaver is, ostensibly, a great s
 
 ## Races
 
-The races and species of Bas-Lag are near-infinite. Such diversity exists in the world that it would surely be impossible for any anthropologist, even of the greatest university, to document even close to a complete picture of the manifold forms of life. The city of New Crobuzon itself is a mixing pot of possibly hundreds of races, of so many different cultures. Presented below, however, is a summary of the races more commonly found in the city, along with the details required to play each of them as part of a *Genesys* campaign.
+The races and species of Bas-Lag are uncountable in number. Such diversity exists in the world that it would surely be impossible for any anthropologist, even of the greatest university, to document even close to a complete picture of the manifold forms of life. The city of New Crobuzon itself is a mixing pot of possibly hundreds of sentient races, of so many different cultures. Presented below, however, is a summary of the races more commonly found in the city, along with the details required to play each of them as part of a *Genesys* campaign.
 
 ---
 
 ### Humans
 
-
+The human is a bipedal creature, resembling an upright, hairless ape. On average, they are five and a half foot tall approximately, though both height and weight can vary significantly. In New Crobuzon, they are the majority of the population, with approximately 73% of the some three million Crobuzoners being human.
