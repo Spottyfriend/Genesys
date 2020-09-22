@@ -766,10 +766,32 @@ The races and species of Bas-Lag are uncountable in number. Such diversity exist
 
 ---
 
+### Cactacae
+
+Cactade are a 
+
+---
+
+### Garuda
+
+---
+
 ### Humans
 
 The human is a bipedal creature, resembling an upright, hairless ape. On average, humans are five and a half foot tall approximately, though both height and weight can vary significantly. In New Crobuzon, they are the majority of the population, with approximately 73% of the some three million Crobuzoners being human. As with the other races of New Crobuzon, there is no monolithic 'human culture', but many overlapping cultures and histories refracted through the city's own history. This is especially true for humans, which can be found across the whole continent of Rohagi. A different story might be told by some - perhaps a Quiller or Fat Sun supporter - that the culture of the city and the nation is the culture of humans, a culture which dominates by right. They are wrong, partly - there is nothing natural or Jabber-ordained in the domination of human over xenian - but that domination does exist, in various forms. From the xenian ghettos to the power of the industrialists, almost all human, the xenian is, in many ways, second class.
 
 ---
 
-### Cactacae
+### Khepri
+
+---
+
+### Remade
+
+---
+
+### Vodyanoi
+
+---
+
+### Wyrmen
