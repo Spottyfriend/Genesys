@@ -35,7 +35,7 @@
 
 ## Credits
 
-**Wolfang Baur** (Writer for Dragon Magazine. Issue #352 is my primary source beyond the books, and this guide uses large portions of that issue verbatim.)
+**Wolfang Baur** (Writer for Dragon Magazine. Issue #352 is my primary source beyond the books, and this guide uses portions of that issue verbatim.)
 
 **Bryce Jones** (Creator of the [The Bas-Lag Gazeteer](https://forums.giantitp.com/showthread.php?496536-Setting-153pgs-Bas-Lag-Gazetteer-China-Meiville-s-New-Crobuzon-Perdido-Street&p=21068791), from which this guide borrows liberally. GMs unconcerned by 'canon' are advised to use Jones', much more expansive guide to help expand on the world described in this one, which is both shorter and generally goes without detail not found within Miéville's books.)
 
@@ -57,7 +57,7 @@ The intention of this guide is to give the reader *both* an understanding of the
 
 This guide aims to allow players to run a campaign in New Crobuzon without having read Mieville's books, although groups will be at a definite story-telling advantage if *at least* the GM has read the first of Mieville's Bas-Lag series: *Perdido Street Station*. In view of this, the details of the world of Bas-Lag contained within this guide will be in relation to that world in the years just preceding 1779, which is to say, just preceding *Perdido Street Station*. This guide will therefore be spoiler-free in terms of plot events, although readers will miss out on the joy of discovering the world as Mieville presents it. In any case, spoiler-adverse readers should procede with care.
 
-Nerdier readers also may wish to take note that not all information contained within this guide is strictly *canon*, since, though my primary source is Mieville's books, I also use many of details found in *Dragon* #352. The writer, Bauer, was given access to Meiville's unpublished notebooks, but was also given license to add to Meiville's world, though without changing any of its established facts. Less nerdier readers are free to totally disregard this information; it will not affect your experience of play in the slightest.
+Nerdier readers also may wish to take note that not all information contained within this guide is strictly *canon*, since, though my primary source is Mieville's books, I also use some of details found in *Dragon* #352. The writer, Bauer, was given access to Meiville's unpublished notebooks, but was also given license to add to Meiville's world, though without changing any of its established facts. This guide, however, avoids the more significant details introduced by *Dragon*, such as more explicit descriptions the Ghosthead Empire, and of other towns and cities on Rohagi. Less nerdier readers are free to totally disregard this information; it will not affect your experience of play in the slightest.
 
 ## Setting
 
@@ -742,7 +742,7 @@ Thousands of years ago, on the eastern rim of the universe, there was a world wh
 
 *The Fractured Land and The Scar*
 
-More than three-thousand years ago, the Ghosthead came to Bas-Lag. They arrived with such force and violence, that the world split open; reality itself was torn. An impossible journey from Iron Bay, the Scar still exists. More than two-thousand miles across, and with hundreds of miles between its two sides, there is a fissure in the ocean, jagged and weird. In between, is the emptiness - the Scar itself. Energies pour from it; possible realities swirl together and break apart; potentiality and possiblity well up about the lesion; the ocean waters are thick with seams of what might be. In the days of the empire, the Ghosthead's dominance relied on their ability to *mine* that possiblity, tapping the wound that they had created. With this industry, they created circuits and engines and weaponry, shaping reality to their preferred possiblity. With this industry, they ruled Bas-Lag for five-hundred years.
+More than three-thousand years ago, the Ghosthead came to Bas-Lag. They arrived with such force and violence, that the world split open; reality itself was torn. An impossible journey from Iron Bay, the Scar still exists. More than two-thousand miles across, and with hundreds of miles between its two sides, there is a fissure in the ocean, jagged and weird. In between, is the emptiness - the Scar itself. Energies pour from it; possible realities swirl together and break apart; potentiality and possiblity well up about the lesion; the ocean waters are thick with seams of what might be. In the days of the empire, the Ghosthead's dominance relied on their ability to *mine* that possiblity, tapping the wound that they had created. With this industry, they created circuits and engines and weaponry, shaping reality to their preferred possiblity. With this industry, they ruled Bas-Lag for some five-hundred years.
 
 The Fractured Land Hypothesis, posited by any scientist in New Crobuzon, will be met, by most academics, with a derisive snort or patronising smile. The notion of a mythical, nightmarish land, untold thousands of miles away, filled with monsters, where the rules of reality break down, and all caused by some unknown, untheorised force - this, to many academics, is psuedo-science. But when the Ghosthead arrived and broke the world, this is precisely what was thrown up - the Fractured Land, the Broken Country, with its inhabitants of terrible things, a dreadful ecology. Lightfungus. Dreadcurs. Butterflies with unholy appetites. If it does exist, who would dare search for it?
 
@@ -768,11 +768,13 @@ The races and species of Bas-Lag are uncountable in number. Such diversity exist
 
 ### Cactacae
 
-Cactacae are a 
+Most commonly found in the settlments of the Cymek, the cactus people - cactacae - are, nevertheless, a relatively common sight in New Crobuzon, making up approximately 2% of the population. Standing between 7 and 8 foot tall, the cactacae are a vegatable race with thick, fiberous green skin (although yellow and browns are sometimes seen). Spines and small flowers protrude from the cactus individual if left unplucked, although many choose to do so. Cactacae heads sit flat on their shoulders, without necks. Their fingers are thick and fairly clumsy, although their grip is power enough to crush bone. An oily sap flows through their veins rather than blood, and their bones are strangely shaped, unlike those of any vertebate. A full-grown cactacae is not just tall but also massive, weighing as much as 500 to 700 pounds. Prefering hotter climates, many of the city's cactacae reside in the semi-autonomous cactus ghetto - the Glasshouse - although many can be found in the neighbouring district of Riverskin.
 
 ---
 
 ### Garuda
+
+One of the most uncommon minority races in the city, the New Crobuzon's Garuda are mostly confined to abject poverty in Spatters, though the university has seen one or two Garuda students over the last few decades. In the Cymek, a garuda lives out a brutal but egalitarian existance as part of a nomadic hunting tribe, organised communistically, with no state, money or private property. A Cymek garuda stands tall - a proud hunter - a swing span of some twelve feet, doubling its height, sharp eyes and sharper claws. A garuda in New Crobuzon is no different, at least physically, but its participation in the wage-slavery and poverty of city make it quite a different individal.
 
 ---
 
