@@ -24,6 +24,7 @@
   * [Vodyanoi](#vodyanoi)
   * [Wyrmen](#wyrmen)
 - [Careers](#Careers)
+  * [Test](#test)
 - [Skills](#skills)
 - [Talents](#talents)
 - [Items and Equipment](#items-and-equipment)
@@ -774,7 +775,7 @@ Most commonly found in the settlments of the Cymek, the cactus people - cactacae
 
 ### Garuda
 
-One of the most uncommon minority races in the city, the New Crobuzon's Garuda are mostly confined to abject poverty in Spatters, though the university has seen one or two Garuda students over the last few decades. In the Cymek, a garuda lives out a brutal but egalitarian existance as part of a nomadic hunting tribe, organised communistically, with no state, money or private property. A Cymek garuda stands tall - a proud hunter - a swing span of some twelve feet, doubling its height, sharp eyes and sharper claws. A garuda in New Crobuzon is no different, at least physically, but its participation in the wage-slavery and poverty of city make it quite a different individal.
+One of the most uncommon minority races in the city, the New Crobuzon's Garuda are mostly confined to abject poverty in Spatters, though the university has seen one or two Garuda students over the last few decades. In the Cymek, a garuda lives out a brutal but egalitarian existance as part of a nomadic hunting tribe, organised communistically, with no state, money or private property. A Cymek garuda stands tall - a proud hunter - a swing span of some twelve feet, doubling its height, sharp eyes and sharper claws. A garuda in New Crobuzon is no different, at least physically, but their participation in the wage-slavery and poverty of city make them quite a different individal. The garuada community of Spatters is hierarchical and distrustful, though one can hardly blame them in such a dangerous part of the city.
 
 ---
 
@@ -786,14 +787,40 @@ The human is a bipedal creature, resembling an upright, hairless ape. On average
 
 ### Khepri
 
+There have been khepri in New Crobuzon for some seven-hundred years, ever since the first band of khepri crossed the Swollen Ocean from Bered Kai Nev. The majority of the city's khepri however, came to escape the Ravening. An unknown catastophe, purposefully forgotten by the ancestors of today's khepri, the Ravening drove thousands of khepri on refugee ships to the city - a hundred years ago they crawled, barely afloat, into Iron Bay. Their enormous clockwork motors were rusted and broken, their sails ragged. They were charnel ships, packed with khepri who were only just alive. This influx saw the birth of the khepri ghettos that we see today - Kinken and Creekside. Today, they make up some 8% of New Crobuzon's population.
+
+Unlike most every other race in the city, the sexual dimophism of khepri is absolute. The females are sapient, with a bipedal form. They are strikingly similar to the human woman but for their heads. The female head consists of a 2-foot-long headscarab which resembles an enormous beetle, complete with wiggling legs; fragile, useless wings beneath powerful casings; mandibles; antennae; and compound eyes. Their mouthparts cannot communicate in Ragamoll or any other spoken language, and khepri therefore are forced to communicate with other races via sign language or written notes. Among themselves, the khepri converse by scent and complex chemical gusts which other races can smell and taste, but cannot understand. Male khepri are small, insectile, essentially mindless animals - 2-foot-long scuttling things unable to do more than feed and reproduce which, for female khepri, is an unpleasant chore. Sex between females is highly ritualised in some communities, but in more liberal ones 'pleasuresex' bares more resemblance to sex among humans.
+
 ---
 
 ### Remade
+
+The Remade are not a 'race' as such. They are not an accidential creation of mututation and evolutionary law, but an intentional creation of New Crobuzon's state machine. A convicted criminal is 'remade' by expert biothaumaturges in the city's punishment factories. Their form is twisted, parts added and ripped away, until the remaking meets the court's instruction. Either the remaking seeks to make poetic commentary on the crime - theives melded with the items they stole; political dissidents with mouths disappeared - or the court will order a remaking for the purpose of hard labour - criminals fused with coal furnaces and their arms replaced with tools. The victims of this process must often relearn basic activities like walking, speaking, and other simple physical acts in their new bodies.
+
+A Remade is a pariah who is both legally and politically oppressed. No upright citizen of the middle class loves a criminal, and the default assumption of most New Crobuzoners is that a remade is a political dissident, a violent thug, and possibly a traitor to the city. Even among the city’s less fortunate, the Remade are often viewed with suspicion. Inside the city, Remade make up some 2% of the population. Outside of the city, small bands of fReemade have escaped from captivity and servitude in New Crobuzon and live as bandits, free from this stigma. Even there though, the taboo against the Remade means that few of the fReemade add to their remakings.
 
 ---
 
 ### Vodyanoi
 
+Second only to humans in number, the amphibious, frog-like vodyanoi represent a full 10% of the city's population. Vodyanoi faces are similar to those of humans or cactcae but their large hands and feet are lightly webbed. Their fingers are nimble. The vodyanoi seem smaller than they truly are because of their hunched and squatting posture and their lack of neck, and they rarely seem to stand much more than 4 feet high. Their true size is apparent from their weight, however, as most tip the scales at more than 170 pounds, and the fattest among them weigh 300 pounds or more.
+
+Unlike some xenian races, vodyanoi can be found, in some number, among the middle and upper classes, with some boasting large manors partly submerged beneath water. The mass of vodyanoi though, as with the population as a whole, are workers, with a vast number working in the city's docks.
+
 ---
 
 ### Wyrmen
+
+Wyrmen are aerial clowns and messengers in the skies of Bas-Lag. They are a stupid but genial race, happy to serve, happy to fart, and happy to frown and laugh as the mood takes them. In new Crobuzon, they are typically messengers, couriers, and spies for scientists and thaumaturges. They nest under eaves and on rooftops near the warmth of chimneys, or in abandoned tenements and warehouses with easy access to the sky. Wyrmen speak Ragamoll badly, but they know all the choice curse words. Their children are named with seemingly random words - Bottlecap, Buggerme, and Teafortwo. Physically, wyrmen are red-skinned, four-limbed creatures with two wings and two feet. Their feet function as hands and they rarely walk anywhere. They stand about 3 feet tall at most (although they frequently slouch,) and weigh no more than 60 pounds.
+
+---
+
+## Careers
+
+Many, if not all, of the role-based careers listed in the *Genesys Core Rulebook* (pp.40-42) can be used in this setting. The following are some of the careers found in that rulebook, renamed and redescribed appropriately, followed by an original, thaumaturge career. Where appropriate, I have put the coresponding name of the career given by the *Genesys Core Rulebook* in brackets.
+
+---
+
+
+
+---
