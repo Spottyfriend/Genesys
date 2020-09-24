@@ -24,7 +24,9 @@
   * [Vodyanoi](#vodyanoi)
   * [Wyrmen](#wyrmen)
 - [Careers](#Careers)
-  * [Test](#test)
+  * [Renegade](#Renegade-(leader))
+  * [Survivor](#Suvivor-(soldier))
+  * [Thaumaturge](Thaumaturge)
 - [Skills](#skills)
 - [Talents](#talents)
 - [Items and Equipment](#items-and-equipment)
@@ -817,10 +819,16 @@ Wyrmen are aerial clowns and messengers in the skies of New Crobuzon. They are a
 
 ## Careers
 
-Many, if not all, of the role-based careers listed in the *Genesys Core Rulebook* (pp.40-42) can be used in this setting. The following are some of the careers found in that rulebook, renamed and redescribed appropriately, followed by an original, thaumaturge career. Where appropriate, I have put the coresponding name of the career given by the *Genesys Core Rulebook* in brackets.
+When creating a character in the setting of New Crobuzon, players may use any of the role-based careers listed in the *Genesys Core Rulebook* (pp.40-42), whilst, of course, making them appropriate for the world. The following are some of the careers found in that rulebook that I felt benefitted from renaming and re-describing. Then follows an original, thaumaturge career. Where appropriate, I have put the coresponding name of the career given by the *Genesys Core Rulebook* in brackets.
 
 ---
 
-
+### Renegade (Leader)
 
 ---
+
+### Survivor (Soldier)
+
+---
+
+### Thaumaturge
