@@ -31,7 +31,6 @@
 - [Items and Equipment](#items-and-equipment)
 - [Vehicles](#vehicles)
 - [Adversaries](#adversaries)
-- [Additional Rules](#additional-rules)
 
 <!-- tocstop -->
 
@@ -840,4 +839,4 @@ The Survivor counts the following skills as career skills: Athletics, Brawl, Coe
 
 ### Thaumaturge
 
-The use of 
+The practicioners of that combination of science and fairytale magic we call 'thaumaturgy' are the city's thaumaturges. Anyone can learn a few basic hexes, but a thaumaturge has years of training.
