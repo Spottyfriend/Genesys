@@ -39,6 +39,7 @@
 - [Items and Equipment](#items-and-equipment)
 - [Vehicles](#vehicles)
 - [Adversaries](#adversaries)
+- [Changelog](#changelog)
 
 <!-- tocstop -->
 
