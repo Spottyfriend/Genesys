@@ -26,9 +26,8 @@
 - [Careers](#Careers)
   * [Renegade](#Renegade-leader)
   * [Survivor](#Suvivor-soldier)
-  * [Thaumaturge](Thaumaturge)
+  * [Thaumaturge](#Thaumaturge)
 - [Skills](#skills)
-- [Talents](#talents)
 - [Items and Equipment](#items-and-equipment)
 - [Vehicles](#vehicles)
 - [Adversaries](#adversaries)
@@ -529,7 +528,7 @@ Unlike science however, thaumaturgy is a physical and mental skill, practisable 
 
 Thaumaturges in New Crobuzon are often artisans, selling their specific trade from a shopfront in Brockmarsh or The Crow, a bagder familiar completing errands on their behalf. You will also find many, however, in academia, government research, and in the militia, whose captain-thaumaturges are adept at unleashing thaumaturgic bolts of glowing unlight at enemies of the state who attempt to resist.
 
-Below are some of the particular techniques and disciplines of thaumaturgy, but not all thaumaturgy falls into a category, and some hexes might straddle multiple techniques.
+Below are some of the particular techniques and disciplines of thaumaturgy, but not all thaumaturgy falls into a category, and some hexes might straddle multiple techniques. For how thaumaturgy relates to *Genesys* gameplay, see the section on the [Thaumaturge](#Thaumaturge) career, or the thaumaturgy section under the [Skills](#skills) section.
 
 ---
 
@@ -825,10 +824,20 @@ When creating a character in the setting of New Crobuzon, players may use any of
 
 ### Renegade (Leader)
 
+Wherever there is authority, there are dissidents. This is true from the schoolmaster's office, to the factory, to the city-state, and it is most certainly true in New Crobuzon. With unseen militiamen on every corner, lackeys of the industrialist in every workplace, and reactionary gangs of Quillers roving xenian districts after dark, resistence is a means of survival for many. There are organised radicals of course, those groupings around that illegal newssheet *Runagate Rampate* - its readers, its writers, its distributors, its agitators. There are also more loose sets of affiliations - friends and comrades organising their workplaces, passing on whispers of strikes and calls for demonstrations. To be a renegade in New Crobuzon, an individual must be wary, but there must also be charismatic, confident, disciplined - how else to *organise*? They must be tough-talking at times, and ready to draw a knife if the situation requires.  
+
+The Renegade counts the following skills as career skills: Charm, Coercion, Cool, Discipline, Leadership, Melee, Negotiation, and Perception. Before spending experience during character creation, a Leader may choose four of their career skills and gain one rank in each of them.
+
 ---
 
 ### Survivor (Soldier)
 
+New Crobuzon can be a harsh place and, though it has not seen war in many decades, it is not a place lacking in violence. Physical force is a threat of the state and of criminal gangs certainly, but not all strength in the city is oppressive. Many Crobuzoners depend on strength to feed themselves and their families, whether in the factory, at the docks, or in that legendary glad' circus - the fighting pits of *Cadnebar's*. Nor is the city short in hired muscle should someone require it. Whatever the occupation though, such physical labour makes for a hardy individual.  
+
+The Survivor counts the following skills as career skills: Athletics, Brawl, Coercion, Melee, Perception, Ranged, Survival, and Vigilance. Before spending experience during character creation, a Leader may choose four of their career skills and gain one rank in each of them.
+
 ---
 
 ### Thaumaturge
+
+The use of 
