@@ -26,6 +26,7 @@
 - [Careers](#Careers)
   * [Renegade](#Renegade-leader)
   * [Survivor](#Suvivor-soldier)
+  * [Scholar](#Scholar)
   * [Thaumaturge](#Thaumaturge)
 - [Skills](#skills)
   * [General Skills](#General-Skills)
@@ -36,6 +37,7 @@
     + [Artisanal](#artisanal)
     + [Intellectual](#intellectual)
     + [Martial](#martial)
+- [Talents](#talents)
 - [Items and Equipment](#items-and-equipment)
 - [Vehicles](#vehicles)
 - [Adversaries](#adversaries)
@@ -826,7 +828,7 @@ Wyrmen are aerial clowns and messengers in the skies of New Crobuzon. They are a
 
 ## Careers
 
-When creating a character in the setting of New Crobuzon, players may use any of the role-based careers listed in the *Genesys Core Rulebook* (pp.40-42), whilst, of course, making them appropriate for the world. The following are some of the careers found in that rulebook that I felt benefitted from renaming and re-describing. Then follows an original, thaumaturge career. Where appropriate, I have put the coresponding name of the career given by the *Genesys Core Rulebook* in brackets.
+When creating a character in the setting of New Crobuzon, players may use any of the role-based careers listed in the *Genesys Core Rulebook* (pp.40-42), whilst, of course, making them appropriate for the world. The following are some of the careers found in that rulebook that I felt benefitted from renaming and re-describing. Then follows two original careers - scholar and thaumaturge. Where appropriate, I have put the coresponding name of the career given by the *Genesys Core Rulebook* in brackets.
 
 ---
 
@@ -834,7 +836,7 @@ When creating a character in the setting of New Crobuzon, players may use any of
 
 Wherever there is authority, there are dissidents. This is true from the schoolmaster's office, to the factory, to the city-state, and it is most certainly true in New Crobuzon. With unseen militiamen on every corner, lackeys of the industrialist in every workplace, and reactionary gangs of Quillers roving xenian districts after dark, resistence is a means of survival for many. There are organised radicals of course, those groupings around that illegal newsheet *Runagate Rampate* - its readers, its writers, its distributors, its agitators. There are also more loose sets of affiliations - friends and comrades organising their workplaces, passing on whispers of strikes and calls for demonstrations. To be a renegade in New Crobuzon, an individual must be wary, but there must also be charismatic, confident, disciplined - how else to *organise*? They must be tough-talking at times, and ready to draw a knife if the situation requires.  
 
-The Renegade counts the following skills as career skills: Charm, Coercion, Cool, Discipline, Leadership, Melee, Negotiation, and Perception. Before spending experience during character creation, a Leader may choose four of their career skills and gain one rank in each of them.
+The Renegade counts the following skills as career skills: Charm, Coercion, Cool, Discipline, Leadership, Melee, Negotiation, and Perception. Before spending experience during character creation, a Renegade may choose four of their career skills and gain one rank in each of them.
 
 ---
 
@@ -842,10 +844,56 @@ The Renegade counts the following skills as career skills: Charm, Coercion, Cool
 
 New Crobuzon can be a harsh place and, though it has not seen war in many decades, it is not a place lacking in violence. Physical force is a threat of the state and of criminal gangs certainly, but not all strength in the city is oppressive. Many Crobuzoners depend on strength to feed themselves and their families, whether in the factory, at the docks, or in that legendary glad' circus - the fighting pits of *Cadnebar's*. Nor is the city short in hired muscle should someone require it. Whatever the occupation though, such physical labour makes for a hardy individual.  
 
-The Survivor counts the following skills as career skills: Athletics, Brawl, Coercion, Melee, Perception, Ranged, Survival, and Vigilance. Before spending experience during character creation, a Leader may choose four of their career skills and gain one rank in each of them.
+The Survivor counts the following skills as career skills: Athletics, Brawl, Coercion, Melee, Perception, Ranged, Survival, and Vigilance. Before spending experience during character creation, a Survivor may choose four of their career skills and gain one rank in each of them.
+
+---
+
+### Scholar
+
+
 
 ---
 
 ### Thaumaturge
 
-The practicioners of that combination of science and fairytale magic we call 'thaumaturgy' are the city's thaumaturges. Anyone can learn a few basic hexes, but a thaumaturge has years of training.
+The practicioners of that combination of science and fairytale magic we call 'thaumaturgy' are the city's thaumaturges. Beyond the simple hexes of the university student or barman, a thaumaturge is a trained professional in their craft. Thaumaturges can be found all across New Crobuzon, and indeed Bas-Lag (though their magics become less and less recognisable the further afield one goes).
+
+The Thaumaturge counts the following skills as career skills: Athletics, Brawl, Coercion, Melee, Perception, Ranged, Survival, and *one of* the three thaumaturgic skills. Before spending experience during character creation, a Thaumaturge may choose four of their career skills and gain one rank in each of them.
+
+---
+
+## Skills
+
+The New Crobuzon setting uses a set of all-setting skills, with the exception of its thaumaturgic skills, which diverge from the three magic skills provided in the *Core Rulebook*, and its knowledge skills. With the exception of these latter two, players can refer the *Core Rulebook* on how and when to make skill checks using these skills. It should be noted that the absence of a Computers skill (or similar), which may seem a reasonable inclusion due to the prevalance of constructs in the city, has been left out. This is due to the nature of the city's constructs, which are generally mechanical, and all construct-related checks should use the Mechanics skill, though some constructs are highly complex, and the difficulty rating should reflect this if a PC is attempting to alter or repair one.
+
+---
+
+### General Skills
+
+The New Crobuzon setting uses the following general skills: Athletics, Cool, Coordination, Discipline, Driving, Mechanics, Medicine, Percpetion, Resilience, Skullduggery, Stealth, Streetwise, Survival and Vigiliance.
+
+---
+
+### Combat Skills
+
+The New Crobuzon setting uses the following combat skills: Brawl, Melee and Ranged.
+
+---
+
+### Social Skills
+
+The New Crobuzon setting uses the following social skills: Charm, Coercion, Deception, Leadership and Negotiation.
+
+---
+
+### Knowledge Skills
+
+The New Crobuzon setting uses the following knowledge skills: City, World, Lore, Underworld, Science, Xenology.
+
+The City and World knowledge skills refer to knowledge of place, one often gained by travel and experience. The Lore skill indicates knowledge of places and times where a PC has not, or cannot, travel - mythical lands, times long past, empires long dead. Underworld is the knowledge of the city's criminal element. Science is the theoretical knowledge of the city's sciences and, at the GMs discretion, thaumaturgy. The Xenology knowledge skill represents the PCs understanding of non-human species' and races' biology, culture and history.
+
+---
+
+### Thaumaturgic Skills
+
+While anyone can learn a simple hex or two, real thaumaturgy requires training. What kind of training the thaumaturge receives - in what way she learns and practises her craft - makes all the difference when it comes to the nature of her abilities. A militia-desserter, once a captain-thaumaturge, able to shoot bolts of glowing unlight from his fingers to strike down enemies of the state, will possess an alltogether different skillset to a chromathaumurge tradesperson, crafting and selling beautiful, glowing baubles at Aspic Bazaar. This is not to say that the latter could not move their hands in such a way to blind a man for life, or that the former could not create a strange shifting, crackling trinket which might sell just as well in Aspic Bazaar, but that the skills of the two thaumaturges are bascially different. One has learnt in the workshop, the other in the barracks. The following skills represent that difference, whilst also representing the basic, shared ability of thaumaturges to attack, to augment objects to and to protect themselves using their craft, though in a million varied ways.
