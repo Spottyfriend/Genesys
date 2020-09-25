@@ -828,7 +828,7 @@ Wyrmen are aerial clowns and messengers in the skies of New Crobuzon. They are a
 
 ## Careers
 
-When creating a character in the setting of New Crobuzon, players may use any of the role-based careers listed in the *Genesys Core Rulebook* (pp.40-42), whilst, of course, making them appropriate for the world. The following are some of the careers found in that rulebook that I felt benefitted from renaming and re-describing. Then follows two original careers - scholar and thaumaturge. Where appropriate, I have put the coresponding name of the career given by the *Genesys Core Rulebook* in brackets.
+When creating a character in the setting of New Crobuzon, players may use any of the role-based careers listed in the *Genesys Core Rulebook* (pp.40-42), whilst, of course, making them appropriate for the world. They are: **Entertainer**, **Explorer**, **Healer**, **Leader**, **Scoundrel**, **Socialte**, **Soldier** and **Tradesperson**. The following section gives details the careers found in that rulebook - Leader and Soldier - that I felt benefitted from renaming and re-describing. These are now **Renegade** and **Survivor**. Then follows two original careers - **Scholar** and **Thaumaturge**. Where appropriate, I have put the coresponding name of the career given by the *Genesys Core Rulebook* in brackets.
 
 ---
 
@@ -856,9 +856,9 @@ The Survivor counts the following skills as career skills: Athletics, Brawl, Coe
 
 ### Thaumaturge
 
-The practicioners of that combination of science and fairytale magic we call 'thaumaturgy' are the city's thaumaturges. Beyond the simple hexes of the university student or barman, a thaumaturge is a trained professional in their craft. Thaumaturges can be found all across New Crobuzon, and indeed Bas-Lag (though their magics become less and less recognisable the further afield one goes).
+The practicioners of that combination of science and fairytale magic we call 'thaumaturgy' are the city's thaumaturges. Beyond the simple hexes of the first-year university student or the amateur street-performer, a thaumaturge is a trained professional in their craft. Thaumaturges can be found all across New Crobuzon, and indeed Bas-Lag (though their magics become less and less recognisable the further afield one goes).
 
-The Thaumaturge counts the following skills as career skills: Athletics, Brawl, Coercion, Melee, Perception, Ranged, Survival, and *one of* the three thaumaturgic skills. Before spending experience during character creation, a Thaumaturge may choose four of their career skills and gain one rank in each of them.
+The Thaumaturge counts the following skills as career skills: Coordination, Discipline, Leadership, Perception, Knowledge (Science), Skullduggery, Vigilance and *one* of the three thaumaturgic skills. Before spending experience during character creation, a Thaumaturge may choose four of their career skills and gain one rank in each of them.
 
 ---
 
@@ -870,7 +870,7 @@ The New Crobuzon setting uses a set of all-setting skills, with the exception of
 
 ### General Skills
 
-The New Crobuzon setting uses the following general skills: Athletics, Cool, Coordination, Discipline, Driving, Mechanics, Medicine, Percpetion, Resilience, Skullduggery, Stealth, Streetwise, Survival and Vigiliance.
+The New Crobuzon setting uses the following general skills: Athletics, Cool, Coordination, Discipline, Driving, Mechanics, Medicine, Operating, Percpetion, Resilience, Skullduggery, Stealth, Streetwise, Survival and Vigiliance.
 
 ---
 
