@@ -828,7 +828,7 @@ Wyrmen are aerial clowns and messengers in the skies of New Crobuzon. They are a
 
 ## Careers
 
-When creating a character in the setting of New Crobuzon, players may use any of the role-based careers listed in the *Genesys Core Rulebook* (pp.40-42), whilst, of course, making them appropriate for the world. They are: **Entertainer**, **Explorer**, **Healer**, **Leader**, **Scoundrel**, **Socialte**, **Soldier** and **Tradesperson**. The following section gives details the careers found in that rulebook - Leader and Soldier - that I felt benefitted from renaming and re-describing. These are now **Renegade** and **Survivor**. Then follows two original careers - **Scholar** and **Thaumaturge**. Where appropriate, I have put the coresponding name of the career given by the *Genesys Core Rulebook* in brackets.
+When creating a character in the setting of New Crobuzon, players may use any of the role-based careers listed in the *Genesys Core Rulebook* (pp.40-42), whilst, of course, making them appropriate for the world. They are: **Entertainer**, **Explorer**, **Healer**, **Leader**, **Scoundrel**, **Socialte**, **Soldier** and **Tradesperson**. The following section gives details the careers found in that rulebook - Leader and Soldier - that I felt benefitted from renaming and re-describing. These are now **Renegade** and **Survivor**. Then follows two original careers - **Thinker** and **Thaumaturge**. Where appropriate, I have put the coresponding name of the career given by the *Genesys Core Rulebook* in brackets.
 
 ---
 
@@ -848,9 +848,11 @@ The Survivor counts the following skills as career skills: Athletics, Brawl, Coe
 
 ---
 
-### Scholar
+### Thinker
 
+The majority of the citizens of New Crobuzon earn their keep by the selling of their labour power, either to a wealthy industrialist, or directly to the public by their own small business, but not all these individuals sell their ability to perform *physical* labour. New Crobuzon needs lifters, builders, and shifters of all kinds to maintain itself, but it also needs thinkers. New Crubozon University is surely the largest single organisation of thinkers and scholars in the city - its high-paid professors as well as its overworked research assistants - but this kind of individual can be found across New Crobuzon. Parliament maintains a large research and development department where the latest thaumaturgic and scientific advancements are made to serve the interests of the state, and Brock Marsh  - the city's Scientific Quarter - houses all manner of physicists, biophilosophers and teratologists, chymists, necrochymists and mathematicians, all plying their trade from warehouses and shopfronts (alongside as many of their thaumaturge cousins). This is not to mention, of course, all the less exciting professions of the 'intellectual' worker - the city's secretaries, clerks and administrators.
 
+The Thinker counts the following skills as career skills: Charm, Deception, Knoweldge (Lore), Knowledge (Science), Knowledge (World), Knowledge (Xenology), Negotiation and Perception. Before spending experience during character creation, a Survivor may choose four of their career skills and gain one rank in each of them.
 
 ---
 
