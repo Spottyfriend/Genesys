@@ -26,7 +26,7 @@
 - [Careers](#Careers)
   * [Renegade](#Renegade-leader)
   * [Survivor](#Suvivor-soldier)
-  * [Scholar](#Scholar)
+  * [Thinker](#Thinker)
   * [Thaumaturge](#Thaumaturge)
 - [Skills](#skills)
   * [General Skills](#General-Skills)
