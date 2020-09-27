@@ -902,7 +902,7 @@ The City and World knowledge skills refer to knowledge of place, one often gaine
 
 While anyone can learn a simple hex or two, real thaumaturgy requires training. What kind of training the thaumaturge receives - in what way they learns and practise their craft - makes all the difference when it comes to the nature of their abilities. A militia-desserter, once a captain-thaumaturge, able to shoot bolts of glowing unlight from his fingers to strike down enemies of the state, will possess an alltogether different skillset to a chromathaumurge tradesperson, crafting and selling beautiful, glowing baubles at Aspic Bazaar. This is not to say that the latter could not move their hands in such a way to blind a man for life, or that the former could not create a strange shifting, crackling trinket which might sell just as well in Aspic Bazaar, but that the skills of the two thaumaturges are bascially different. One has learnt in the workshop, the other in the barracks. The following skills represent that difference, whilst also representing the basic, shared ability of thaumaturges to attack, to augment objects to and to protect themselves using their craft, though in a million varied ways.
 
-When investing points into any thaumaturgic skill, a player should have in mind what specific discipline of thaumaturgy their character is proficient in. Did they take a class in introductory biothaumaturgy before their expulsion from New Crobuzon University? Or did they learn a little somaturgy from a golemist street performer? Whilst this will not make specific mechanical gameplay differences, since the thaumaturgic abilities available to PCs are defined by what skills they have invested in, both GMs and PCs should have an understanding of the flavour of these abilities. For example, a biothaumaturge scholar with one point invested in the Thaumaturgy (Intellectual) skill will attack a combatant in a very different way to an amateur scientist and meteoromance with one point in the same skill. Though the two will roll the same dice to make an attack, the flavour of such an attack might be very different - the former, perhaps, plunging his hands through the skin of the enemy in an attempt to rearrange their organs, the latter displacing the air around an adversary's mouth and nose to prevent them from breathing.
+When investing points into any thaumaturgic skill, a player should have in mind what specific discipline of thaumaturgy their character is proficient in. Did they take a class in introductory biothaumaturgy before their expulsion from New Crobuzon University? Or did they learn a little somaturgy from a golemist street performer? Whilst this will not make specific mechanical gameplay differences, since the thaumaturgic abilities available to PCs are defined by what skills they have invested in, both GMs and PCs should have an understanding of the flavour of these abilities. For example, a biothaumaturge scholar with one point invested in the Thaumaturgy (Intellectual) skill will attack a combatant in a very different way to an amateur scientist and meteoromance with one point in the same skill. Though the two will roll the same dice to make an attack, the flavour of such an attack might be very different - the former, perhaps, plunging his hands through the skin of the enemy in an attempt to rearrange their organs, the latter displacing the air around an adversary's mouth and nose to prevent them from breathing. For a description of the various disciplines of thaumaturgy, see the (thaumaturgy)[thaumaturgy] section within the setting chapter of this guide.
 
 Due to the necessary aspect of specialisation when learning thaumaturgy, **no PC can have skill points in more than *one* thaumaturgic skill** unless agreed with the GM for story reasons (i.e. the PC goes through particular training over the course of the campaign).
 
@@ -910,12 +910,22 @@ Due to the training required to become an advanced user in a particular thaumatu
 
 ---
 
-#### Thaumaturgy (Artisanal)
+#### Artisanal (Agility)
+
+For many, thaumaturgy is not an theoretical science, or a weapon, but a craft. The geoempath's ability to sense subterranean formations as part of a mining operation, and the geothaumaturge's ability to turn rock to slurry in order to carry out that operation, is no abstract pursuit, but a part of their work. So too with many of the petit-bourgeois artisans of Brock Marsh, selling their thaumaturgic services to the public. Often, the use of thaumaturgy in this manner is a careful blend of coordination of both the body and mind, and training will involve practice rather than study. Such thaumaturgy might be better compared to blacksmithing or stoneworking rather than the wizardary of fairytales.
+
+The **Artisianal thaumaturgic skill uses the Agility characteristic**, reflecting the often physical nature of the training and practice of the user's craft.
+
+A  PC with at least one point in this skill gains access the following spells: Attack, Barrier, 
 
 ---
 
-#### Thaumaturgy (Intellectual)
+#### Intellectual (Intellect)
+
+Charge thaumaturgeons are a strange phenomenon. They can unleash destruction, and they can heal; they can be bent to the will of an individual who can focus her mind and channel that focus into changing reality. All this is to say that, to a scholar, thaumaturgy is an excellent subject of study.
 
 ---
 
-#### Thaumaturgy (Martial)
+#### Martial (Willpower)
+
+In the right hands, thaumaturgy can be a powerful destructive force, and an excellent means of self-defense. For those who have learnt thaumaturgy in a certain setting, this is their primary focus. 
