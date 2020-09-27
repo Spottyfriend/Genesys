@@ -34,9 +34,9 @@
   * [Social Skills](#Social-skills)
   * [Knowledge Skills](#knowledge-skills)
   * [Thaumaturgic Skills](#Thaumaturgic-Skills)
-    + [Artisanal](#artisanal)
-    + [Intellectual](#intellectual)
-    + [Martial](#martial)
+    + [Artisanal](#thaumaturgy-artisanal)
+    + [Intellectual](#thaumaturgy-intellectual)
+    + [Martial](#thaumaturgy-martial)
 - [Talents](#talents)
 - [Items and Equipment](#items-and-equipment)
 - [Vehicles](#vehicles)
@@ -538,7 +538,7 @@ Unlike science however, thaumaturgy is a physical and mental skill, practisable 
 
 Thaumaturges in New Crobuzon are often artisans, selling their specific trade from a shopfront in Brockmarsh or The Crow, a bagder familiar completing errands on their behalf. You will also find many, however, in academia, government research, and in the militia, whose captain-thaumaturges are adept at unleashing thaumaturgic bolts of glowing unlight at enemies of the state who attempt to resist.
 
-Below are some of the particular techniques and disciplines of thaumaturgy, but not all thaumaturgy falls into a category, and some hexes might straddle multiple techniques. For how thaumaturgy relates to *Genesys* gameplay, see the section on the [Thaumaturge](#Thaumaturge) career, or the thaumaturgy section under the [Skills](#skills) section.
+Below are some of the particular techniques and disciplines of thaumaturgy, but not all thaumaturgy falls into a category, and some hexes might straddle multiple techniques. For how thaumaturgy relates to *Genesys* gameplay, see the section on the [Thaumaturge](#Thaumaturge) career, or the thaumaturgy section under the [Skills](#thaumaturgic-skills) section.
 
 ---
 
@@ -860,7 +860,7 @@ The Thinker counts the following skills as career skills: Charm, Deception, Know
 
 The practicioners of that combination of science and fairytale magic we call 'thaumaturgy' are the city's thaumaturges. Beyond the simple hexes of the first-year university student or the amateur street-performer, a thaumaturge is a trained professional in their craft. Thaumaturges can be found all across New Crobuzon, and indeed Bas-Lag (though their magics become less and less recognisable the further afield one goes). Probably the most well-known gathering of thaumaturges in New Croubzon though is in the city's Scientific Quarter - Brock Marsh. There, badgers, familiars by tradition, waddle between warehouses and shopfronts, ferrying chymical-thaumaturgic compounds from scientist to thaumaturge and back. When a thaumaturgic errand needs doing, a citizen will more often than not make for Brock Marsh, and they will, more often than not, find what they need. Despite its relatively day-to-day usage and the prevalance of its practicioners, thaumaturgy is a powerful tool. The state therefore has keen interest in it, and you will find many thaumaturges in labs and workshops in the warren of Parliament, as well as in the militia, who employ thaumaturgic abilities for offensive as well as surveillance purposes.
 
-There are a huge variety of thaumaturges, but most are specialised, generally as part of their occupation. They are biothaumaturges, karcists, or golemists. Whilst some will possess knowledge of other styles and traditions, and of theories of thaumaturgy more generally, few will master multiple disciplines. 
+There are a huge variety of thaumaturges, but most are specialised, generally as part of their occupation. They are biothaumaturges, karcists, golemists etc. Whilst some will possess knowledge of other styles and traditions, and of theories of thaumaturgy more generally, very few will master multiple disciplines. For a description of the various disciplines of thaumaturgy, see the (thaumaturgy)[thaumaturgy] section within the setting chapter of this guide.
 
 The Thaumaturge counts the following skills as career skills: Coordination, Discipline, Leadership, Perception, Knowledge (Science), Skullduggery, Vigilance and *one* of the three thaumaturgic skills. Before spending experience during character creation, a Thaumaturge may choose four of their career skills and gain one rank in each of them.
 
@@ -900,4 +900,22 @@ The City and World knowledge skills refer to knowledge of place, one often gaine
 
 ### Thaumaturgic Skills
 
-While anyone can learn a simple hex or two, real thaumaturgy requires training. What kind of training the thaumaturge receives - in what way she learns and practises her craft - makes all the difference when it comes to the nature of her abilities. A militia-desserter, once a captain-thaumaturge, able to shoot bolts of glowing unlight from his fingers to strike down enemies of the state, will possess an alltogether different skillset to a chromathaumurge tradesperson, crafting and selling beautiful, glowing baubles at Aspic Bazaar. This is not to say that the latter could not move their hands in such a way to blind a man for life, or that the former could not create a strange shifting, crackling trinket which might sell just as well in Aspic Bazaar, but that the skills of the two thaumaturges are bascially different. One has learnt in the workshop, the other in the barracks. The following skills represent that difference, whilst also representing the basic, shared ability of thaumaturges to attack, to augment objects to and to protect themselves using their craft, though in a million varied ways.
+While anyone can learn a simple hex or two, real thaumaturgy requires training. What kind of training the thaumaturge receives - in what way they learns and practise their craft - makes all the difference when it comes to the nature of their abilities. A militia-desserter, once a captain-thaumaturge, able to shoot bolts of glowing unlight from his fingers to strike down enemies of the state, will possess an alltogether different skillset to a chromathaumurge tradesperson, crafting and selling beautiful, glowing baubles at Aspic Bazaar. This is not to say that the latter could not move their hands in such a way to blind a man for life, or that the former could not create a strange shifting, crackling trinket which might sell just as well in Aspic Bazaar, but that the skills of the two thaumaturges are bascially different. One has learnt in the workshop, the other in the barracks. The following skills represent that difference, whilst also representing the basic, shared ability of thaumaturges to attack, to augment objects to and to protect themselves using their craft, though in a million varied ways.
+
+When investing points into any thaumaturgic skill, a player should have in mind what specific discipline of thaumaturgy their character is proficient in. Did they take a class in introductory biothaumaturgy before their expulsion from New Crobuzon University? Or did they learn a little somaturgy from a golemist street performer? Whilst this will not make specific mechanical gameplay differences, since the thaumaturgic abilities available to PCs are defined by what skills they have invested in, both GMs and PCs should have an understanding of the flavour of these abilities. For example, a biothaumaturge scholar with one point invested in the Thaumaturgy (Intellectual) skill will attack a combatant in a very different way to an amateur scientist and meteoromance with one point in the same skill. Though the two will roll the same dice to make an attack, the flavour of such an attack might be very different - the former, perhaps, plunging his hands through the skin of the enemy in an attempt to rearrange their organs, the latter displacing the air around an adversary's mouth and nose to prevent them from breathing.
+
+Due to the necessary aspect of specialisation when learning thaumaturgy, **no PC can have skill points in more than *one* thaumaturgic skill** unless agreed with the GM for story reasons (i.e. the PC goes through particular training over the course of the campaign).
+
+Due to the training required to become an advanced user in a particular thaumaturgic craft, **no PC who does not have the Thaumaturge career can have more than *one* point in *any* thaumaturgic skill** unless agreed with the GM for story reasons (i.e. the PC goes through particular training over the course of the campaign).
+
+---
+
+#### Thaumaturgy (Artisanal)
+
+---
+
+#### Thaumaturgy (Intellectual)
+
+---
+
+#### Thaumaturgy (Martial)
