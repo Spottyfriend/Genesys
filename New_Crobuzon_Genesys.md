@@ -394,7 +394,7 @@ A note for readers here: Mieville does not go into extensive detail on the major
 
 *'The Gods'*
 
-The most established religion in New Crobuzon is the church of, what many Crobozeners would simply call, 'the gods' (or 'human gods', as opposed to those worshipped by xenian cultures). Whilst not a diety himself, the most famous, and most worshipped, idol of the church is Saint Jabber, whose very name is imbedded in city and in its dialect. One can hardly step onto the street without hearing the exclamation of 'Jabber's arse!' or 'for Jabber's sake!", not to mention the fact you may be stepping on a street in Jabber's Mound. Many children in New Crobuzon will enjoy a toffee-pudding on Jabber's Feast, or walk the latern-lined streets, jostled by singing crowds at the festival of Jabber's Morning.
+The most established religion in New Crobuzon is the church of, what many Crobozeners would simply call, 'the gods' (or 'human gods', as opposed to those worshipped by xenian cultures). Whilst not a diety himself, the most famous, and most worshipped, idol of the church is Saint Jabber, whose very name is imbedded in city and in its dialect. One can hardly step onto the street without hearing the exclamation of 'Jabber's arse!' or 'for Jabber's sake!", not to mention the fact you may be stepping on a street in Jabber's Mound. Many children in New Crobuzon will enjoy a toffee-pudding on Jabber's Feast, or walk the lantern-lined streets, jostled by singing crowds at the festival of Jabber's Morning.
 
 The god Darioch is another of New Crobuzon's most popular dieties. He is a key figure in the well-known fables - the *Crawfoot Chronicles*; the New Crobuzoner navy has named several ships after him; and many Crobuzoner's will know the prayer of Darioch's Lament. The Daughter's of Darioch are a nun-like order of women who forgoe worldly pleasures for the worship of Darioch and Jabber.
 
@@ -436,7 +436,7 @@ The viciously anti-xenian Codling Brood is growing in the city. Their theologies
 
 *Church of the Clock Gods*
 
-The religion of the clock gods is one more closely associated with the humans living in Shankell (the city that lies on the southern coastline of the Meagre Sea). Churches can be found in New Crobuzon though, with the ululating hymn to Sanshad, the sun god, able to be heard belted through their windows. A newer religion in the city, the teachings of the clock gods only found their way over the Meagre Sea some thirty years ago, but, since then, many of the sublties and nuances of the theology has been lost. Worshippers in New Crobuzon, however, have a certain rowdy zeal that their cousins in Shankell lack.
+The religion of the clock gods is one more closely associated with the citizens of Shankell (the city that lies on the southern coastline of the Meagre Sea). Churches can be found in New Crobuzon though, with the ululating hymn to Sanshad, the sun god, able to be heard belted through their windows. A newer religion in the city, the teachings of the clock gods only found their way over the Meagre Sea some thirty years ago, but, since then, many of the sublties and nuances of the theology has been lost. Worshippers in New Crobuzon, however, have a certain rowdy zeal that their cousins in Shankell lack.
 
 ---
 
@@ -446,7 +446,7 @@ Very few if any temples to the Manifold Horizon exist in New Crobuzon, and only 
 
 Worship in the tradition of the Manifold Horizon is split into its various Moments. The Moments of the Manifold Horizon are as diverse as they are numerous: Cadmer, Moment of Calculation; Zaori, Moment of Magic Wine; Pharru, Moment of Forgotten Snow; Tekke Shesim, Moment of Memory; Tekke Vogu; Moment of the Hidden and Lost; Moment of Doves; Moment of Desiccation. Monks fully dedicated to such moments may learn thaumaturgic abilities associated with each. A monk of Tekke Vogu, for example, is utterly enfolded in the Moment, giving them the power to uncover a hidden truth in exchange for something forcably and painfully hidden from them about their self, their past, or even parts of their physical bodies; their dedicate also leaves them totally unseen. Monks of Zaori, on the other hand, may experience visions upon drinking certain liquids. Those monks dedicated to the Moment of Desiccation possess the power to turn blood to ash, among other abilities.
 
-The Manifold Horizon is primarily a Teshi religion, so any worshippers to have successfully arived in New Crobuzon will have come very far indeed, since Tesh lies on the far South West side of the contient from New Crobuzon.
+The Manifold Horizon is primarily a Teshi religion, so any worshippers to have successfully arived in New Crobuzon will have come very far indeed, since Tesh lies on the far south-west side of the contient from New Crobuzon.
 
 ---
 
@@ -908,24 +908,36 @@ Due to the necessary aspect of specialisation when learning thaumaturgy, **no PC
 
 Due to the training required to become an advanced user in a particular thaumaturgic craft, **no PC who does not have the Thaumaturge career can have more than *one* point in *any* thaumaturgic skill** unless agreed with the GM for story reasons (i.e. the PC goes through particular training over the course of the campaign).
 
+For casting the spells found in the *Genesys Core Rulebook*, players may disregard anything reading 'Arcane/Primal/Divine only' (for example, in both tables on p.216) and assume that these feats are possible, as long as they are not contradicted by this guide, and so long as the player has a sufficent in-game description of the action that is in-keeping with the flavour of their thaumaturgic abilities.
+
 ---
 
 #### Artisanal (Agility)
 
-For many, thaumaturgy is not an theoretical science, or a weapon, but a craft. The geoempath's ability to sense subterranean formations as part of a mining operation, and the geothaumaturge's ability to turn rock to slurry in order to carry out that operation, is no abstract pursuit, but a part of their work. So too with many of the petit-bourgeois artisans of Brock Marsh, selling their thaumaturgic services to the public. Often, the use of thaumaturgy in this manner is a careful blend of coordination of both the body and mind, and training will involve practice rather than study. Such thaumaturgy might be better compared to blacksmithing or stoneworking rather than the wizardary of fairytales.
+For many, thaumaturgy is not an theoretical science, or a weapon, but a craft. The geoempath's ability to sense subterranean formations as part of a mining operation, and the geothaumaturge's ability to turn rock to slurry in order to carry out that operation, is no abstract pursuit, but a part of their work. So too with many of the petit-bourgeois artisans of Brock Marsh, selling their thaumaturgic services to the public. Often, the use of thaumaturgy in this manner is a careful blend of coordination of both the body and mind, and training will involve practice rather than study. Such thaumaturgy might be better compared to blacksmithing or stoneworking rather than the wizardry of fairytales.
 
 The **Artisianal thaumaturgic skill uses the Agility characteristic**, reflecting the often physical nature of the training and practice of the user's craft.
 
-A  PC with at least one point in this skill gains access the following spells: Attack, Barrier, 
+A PC with at least one point in this skill gains access to the following spells: Attack, Augment, Barrier, Curse, Heal and Utility.
 
 ---
 
 #### Intellectual (Intellect)
 
-Charge thaumaturgeons are a strange phenomenon. They can unleash destruction, and they can heal; they can be bent to the will of an individual who can focus her mind and channel that focus into changing reality. All this is to say that, to a scholar, thaumaturgy is an excellent subject of study.
+Charged thaumaturgeons are a strange phenomenon. They can unleash destruction, and they can heal; they can be bent to the will of an individual who can focus her mind and channel that focus into changing reality. All this is to say that, to a scholar, thaumaturgy is an excellent subject of study. But it is not only the scholars of New Crobuzon University who take thaumaturgy to be an intellectual endeavour however, though its lecture halls and libraries are filled with students who take precisely this approach. Many of Parliament's thaumaturges, or at least those not part of the militia, take a more abstract, rational view - designing and testing engines and weapons for New Crobuzon's navy and militia. Outside of the city's more official institutions, the Scientific Quarter of Brock Marsh houses many scientist-thaumaturges and thaumaturge-scientists, experimenting with untested thaumaturgic methods and exploring theories of weird phenomena, all of whom take the use and study of thaumaturgy as a careful intellectual pursuit.
+
+The **Intellectual thaumaturgic skill uses the Intellect characteristic**, reflecting the rigourous study and formal training that this kind of individual has completed to learn their art.
+
+A PC with at least one point in this skill gains access to the following spells: Attack, Conjure, Curse, Dispel, Heal and Utility.
 
 ---
 
 #### Martial (Willpower)
 
-In the right hands, thaumaturgy can be a powerful destructive force, and an excellent means of self-defense. For those who have learnt thaumaturgy in a certain setting, this is their primary focus. 
+In the right hands, thaumaturgy can be a powerful destructive force, and an excellent means of self-defense. For those who have learnt thaumaturgy in a certain setting, this is their primary focus. Thaumaturgy is learnt for combat across the city, whether for the means of oppression in the case of the militia, liberation in the case of political rebels, or simple survival in the case of a khepri walking past a Quiller gang after dark. After all, a would-be Quiller harasser may become less than confident should that khepri begin to form sparks of crackling unlight from her fingers.
+
+The **Martial thaumaturgic skill uses the Willpower characteristic**, as a reflection of the necessity that the user should remain displined and focussed in high-pressure, combat or near-combat situations, and the fact that this will have been the focus of their thaumaturgic training.
+
+A PC with at least one point in this skill gains access to the following spells: Attack, Augment, Conjure, Curse, Heal and Utility.
+
+---
