@@ -908,7 +908,7 @@ Due to the necessary aspect of specialisation when learning thaumaturgy, **no PC
 
 Due to the training required to become an advanced user in a particular thaumaturgic craft, **no PC who does not have the Thaumaturge career can have more than *one* point in *any* thaumaturgic skill** unless agreed with the GM for story reasons (i.e. the PC goes through particular training over the course of the campaign).
 
-For casting the spells found in the *Genesys Core Rulebook*, players may disregard anything reading 'Arcane/Primal/Divine only' (for example, in both tables on p.216) and assume that these feats are possible, as long as they are not contradicted by this guide, and so long as the player has a sufficent in-game description of the action that is in-keeping with the flavour of their thaumaturgic abilities.
+For casting the spells found in the *Genesys Core Rulebook*, players may disregard anything reading 'Arcane/Primal/Divine only' (for example, in both tables on p.216) and assume that these feats are possible, as long as they are not contradicted by this guide, and so long as the player has a sufficent in-game description of the action that is in-keeping with the flavour of their thaumaturgic abilities. For inspiration, players may wish to read Scott Zumwalt's (*A Beginner's Guide to Genesys Magic*)[https://www.drivethrurpg.com/product/294931/Zynnythryxs-Guide-to-Magic-A-Beginners-Guide-to-Genesys-Magic].
 
 ---
 
