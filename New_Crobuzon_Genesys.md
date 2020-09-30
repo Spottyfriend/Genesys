@@ -794,15 +794,22 @@ One of the most uncommon minority races in the city, the New Crobuzon's Garuda a
 
 The human is a bipedal creature, resembling an upright, hairless ape. On average, humans are five and a half foot tall approximately, though both height and weight can vary significantly. In New Crobuzon, they are the majority of the population, with approximately 73% of the some three million Crobuzoners being human. As with the other races of New Crobuzon, there is no monolithic 'human culture', but many overlapping cultures and histories refracted through the city's own history. This is especially true for humans, which can be found across the whole continent of Rohagi. A different story might be told by some - perhaps a Quiller or Fat Sun supporter - that the culture of the city and the nation is the culture of humans, a culture which dominates by right. They are wrong, partly - there is nothing natural or Jabber-ordained in the domination of human over xenian - but that domination does exist, in various forms. From the xenian ghettos to the power of the industrialists, almost all human, the xenian is, in many ways, second class.
 
-**Brawn: 2
-Agility: 2
-Intellect: 2
-Cunning: 2
-Willpower: 2
-Presence: 2**
+**Brawn: 2**
+
+**Agility: 2**
+
+**Intellect: 2**
+
+**Cunning: 2**
+
+**Willpower: 2**
+
+**Presence: 2**
 
 *Starting Wound Threshold*: 10 + Brawn
+
 *Starting Strain Threshold*: 10 + Willpower
+
 *Starting Experience*: 110
 
 *Starting Skills*: A human starts with one rank in each of two different non-career skills at character creation. They obtain this rank before spending experience points, and these skills may not be increased higher than rank 2 during character
@@ -827,16 +834,23 @@ The Remade are not a 'race' as such. They are not an accidential creation of mut
 
 A Remade is a pariah who is both legally and politically oppressed. No upright citizen of the middle class loves a criminal, and the default assumption of most New Crobuzoners is that a remade is a political extremist, a violent thug, and possibly a traitor to the city. Even among the city’s less fortunate, the Remade are often viewed with suspicion. Inside the city, Remade make up some 2% of the population. Outside of the city, small bands of fReemade have escaped from captivity and servitude in New Crobuzon and live as bandits, free from this stigma. Even there though, the taboo against the Remade means that few of the fReemade add to their remakings.
 
-**Brawn: 1
-Agility: 1
-Intellect: 1
-Cunning: 1
-Willpower: 1
-Presence: 1**
+**Brawn: 1**
 
-Starting Wound Threshold: 10 + Brawn
-Starting Strain Threshold: 10 + Willpower
-Starting Experience: 230
+**Agility: 1**
+
+**Intellect: 1**
+
+**Cunning: 1**
+
+**Willpower: 1**
+
+**Presence: 1**
+
+*Starting Wound Threshold*: 10 + Brawn
+
+*Starting Strain Threshold*: 10 + Willpower
+
+*Starting Experience*: 230
 
 *Second-Class Citizen*: The Remade in New Crobuzon are sometimes feared, often mistrusted, and almost always treated as fundamentally different from other citizens of the city. Remade add a setback die to Charm, Deception and Negotiation checks, but add boost die to Coercion checks. This does not apply when interacting with those comfortable or familiar with Remade. 
 
