@@ -824,7 +824,31 @@ creation.
 
 There have been khepri in New Crobuzon for some seven-hundred years, ever since the first band of khepri crossed the Swollen Ocean from Bered Kai Nev. The majority of the city's khepri however, came to escape the Ravening. An unknown catastophe, purposefully forgotten by the ancestors of today's khepri, the Ravening drove thousands of khepri on refugee ships to the city - a hundred years ago they crawled, barely afloat, into Iron Bay. Their enormous clockwork motors were rusted and broken, their sails ragged. They were charnel ships, packed with khepri who were only just alive. This influx saw the birth of the khepri ghettos that we see today - Kinken and Creekside. Today, they make up some 8% of New Crobuzon's population.
 
-Unlike most every other race in the city, the sexual dimophism of khepri is absolute. The females are sapient, with a bipedal form. They are strikingly similar to the human woman but for their heads. The female head consists of a 2-foot-long headscarab which resembles an enormous beetle, complete with wiggling legs; fragile, useless wings beneath powerful casings; mandibles; antennae; and compound eyes. Their mouthparts cannot communicate in Ragamoll or any other spoken language, and khepri therefore are forced to communicate with other races via sign language or written notes. Among themselves, the khepri converse by scent and complex chemical gusts which other races can smell and taste, but cannot understand. Male khepri are small, insectile, essentially mindless animals - 2-foot-long scuttling things unable to do more than feed and reproduce which, for female khepri, is an unpleasant chore. Sex between females is highly ritualised in some communities, but in more liberal ones 'pleasuresex' bares more resemblance to sex among humans.
+Unlike the other races in the city, the sexual dimophism of khepri is absolute. The females are sapient, with a bipedal form. They are strikingly similar to the human woman but for their heads. The female head consists of a 2-foot-long headscarab which resembles an enormous beetle, complete with wiggling legs; fragile, useless wings beneath powerful casings; mandibles; antennae; and compound eyes. Their mouthparts cannot communicate in Ragamoll or any other spoken language, and khepri therefore are forced to communicate with other races via sign language or written notes. Among themselves, the khepri converse by scent and complex chemical gusts which other races can smell and taste, but cannot understand. Male khepri are small, insectile and essentially mindless - 2-foot-long scuttling things unable to do more than feed and reproduce which, for female khepri, is an unpleasant chore. Sex between females is common, though highly ritualised in some communities; in more liberal ones 'pleasuresex' bares more resemblance to sex among humans.
+
+**Brawn: 2**
+
+**Agility: 3**
+
+**Intellect: 2**
+
+**Cunning: 2**
+
+**Willpower: 2**
+
+**Presence: 1**
+
+*Starting Wound Threshold*: 10 + Brawn
+
+*Starting Strain Threshold*: 10 + Willpower
+
+*Starting Experience*: 95
+
+*Starting Skills*: A khepri starts with one rank in Survival, reflecting the culural history of the race in New Crobuzon.
+
+*Insectile Vision*: A khepri's sight is very different to that of a human or vodyanoi. Due to their buldging insect-like eyes, a khepri's view is more panoramic and colourful. Their sense of smell is also much greater than a human's. Khepri are therefore much less troubled by vision impairing effects, and two setback die should be removed from any Perception or Vigilence checks that would otherwise have been affected by concealment such as smoke or darkness.
+
+*Non-Verbal*: Khepri communicate both language and emotion using scented excretions. Individuals who are close to khepri may become familiar with scents communicating fear or love or annoyance, but beyond that, khepri must either use sign language or written notes. Whilst there are no strict mechanical rules here, players should be aware that, in structured encounters especially, khepri cannot shout to an ally to provide assistance, for example.
 
 ---
 
@@ -850,9 +874,17 @@ A Remade is a pariah who is both legally and politically oppressed. No upright c
 
 *Starting Strain Threshold*: 10 + Willpower
 
-*Starting Experience*: 230
+*Starting Experience*: 215
+
+*Starting Skills*: A Remade starts with one rank in Resilience or Discipline, reflecting the mental and physical strength necessary to survive a remaking.
 
 *Second-Class Citizen*: The Remade in New Crobuzon are sometimes feared, often mistrusted, and almost always treated as fundamentally different from other citizens of the city. Remade add a setback die to Charm, Deception and Negotiation checks, but add boost die to Coercion checks. This does not apply when interacting with those comfortable or familiar with Remade. 
+
+*Amalgamation*: Since the effects of a remaking can be so vastly different, players who choose to create and play as a Remade character must consider a few things. First, since many Remade have innorganic or industrial parts, a Mechanics check may be used instead of a Medicine check, depending on where, narratively, the character has been injured. For example, an injury to a coal engine fused to the back of a PC will require a Mechanics check to 'heal', whereas an injury to the fleshy arm of the same PC will require a Medicine check.
+
+Second, when a player is creating a Remade, they should consider whether their starting equipment is part of their remaking and, if not, players should make sure that the remaking is not so disabling that their Remade character cannot carry weapons or wear armour.
+
+Third, although adding to a remaking in New Crobuzon is both difficult, expsenive and taboo amongst Remade, it is possible. With the right connections - either established through a hard Knowledge (City) check or decided narratively by the GM - a Remade character can augment themselves. Players may wish to permantly meld a piece of equipment to their character (ignoring encumberance), and/or use the rules for cybernetic implants described on p.177 of the *Genesys Core Rulebook* (their flavour adapted to the setting).
 
 ---
 
@@ -861,6 +893,28 @@ A Remade is a pariah who is both legally and politically oppressed. No upright c
 Second only to humans in number, the amphibious, frog-like vodyanoi represent a full 10% of the city's population. Vodyanoi faces are similar to those of humans or cactcae but their large hands and feet are lightly webbed. Their fingers are nimble. The vodyanoi seem smaller than they truly are because of their hunched and squatting posture and their lack of neck, and they rarely seem to stand much more than 4 feet high. Their true size is apparent from their weight, however, as most tip the scales at more than 170 pounds, and the fattest among them weigh 300 pounds or more.
 
 Unlike some xenian races, vodyanoi can be found, in some number, among the middle and upper classes, with some boasting large manors partly submerged beneath water. The mass of vodyanoi though, as with the population as a whole, are workers, with a vast number working in the city's docks.
+
+**Brawn: 1**
+
+**Agility: 3**
+
+**Intellect: 2**
+
+**Cunning: 2**
+
+**Willpower: 2**
+
+**Presence: 2**
+
+*Starting Wound Threshold*: 10 + Brawn
+
+*Starting Strain Threshold*: 10 + Willpower
+
+*Starting Experience*: 100
+
+*Starting Skills*: A vodyanoi starts with one rank in Coordination.
+
+
 
 ---
 
