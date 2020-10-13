@@ -884,7 +884,7 @@ A Remade is a pariah who is both legally and politically oppressed. No upright c
 
 Second, when a player is creating a Remade, they should consider whether their starting equipment is part of their remaking and, if not, players should make sure that the remaking is not so disabling that their Remade character cannot carry weapons or wear armour.
 
-Third, although adding to a remaking in New Crobuzon is both difficult, expsenive and taboo amongst Remade, it is possible. With the right connections - either established through a hard Knowledge (City) check or decided narratively by the GM - a Remade character can augment themselves. Players may wish to permantly meld a piece of equipment to their character (ignoring encumberance), and/or use the rules for cybernetic implants described on p.177 of the *Genesys Core Rulebook* (their flavour adapted to the setting).
+Third, although adding to a remaking in New Crobuzon is both difficult, expsenive and taboo amongst Remade, it is possible. With the right connections - either established through a hard Knowledge (City) check or decided narratively by the GM - a Remade character can augment themselves. Players may wish to permantly meld a piece of equipment to their character (ignoring encumberance), and/or use the rules for cybernetic implants described on p.177 of the *Genesys Core Rulebook* (the implants' flavour adapted to the setting).
 
 ---
 
@@ -910,17 +910,44 @@ Unlike some xenian races, vodyanoi can be found, in some number, among the middl
 
 *Starting Strain Threshold*: 10 + Willpower
 
-*Starting Experience*: 100
+*Starting Experience*: 90
 
 *Starting Skills*: A vodyanoi starts with one rank in Coordination.
 
+*Water-Dweller*: Happiest in water, a vodyanoi’s good health depends on their ability to maintain the natural moisture of their skin. Taking a natural rest requires a vodyanoi to bathe themself, else they will not heal any wounds. Each day without bathing, the vodyanoi will suffer a wound. 
+
+*Amphibious*: Vodyanoi can breathe underwater without penalty and do not suffer movement penalties for travelling through water.
+
+*Watercraeft*: A vodyanoi possess the strange ability to hand-mould water to suit their needs. Watercraefted objects may last indefinitely if in contact with a vodyanoi. Out of vodyanoi hands though, even if handled carefully, an object will return to its natural form after around an hour. A vodyanoi may create a simple object (e.g. a ball or a small figurine) or change the flow of a small stream without a skill check, but must make a hard Coordination check to create an object with any complexity or firmness (e.g. a key or a shovel) or change the course of a river.
 
 
 ---
 
 ### Wyrmen
 
-Wyrmen are aerial clowns and messengers in the skies of New Crobuzon. They are a stupid but genial race, happy to serve, happy to fart, and happy to frown and laugh as the mood takes them. In new Crobuzon, they are often messengers, couriers, and spies for anyone who will pay a good sum. They nest under eaves and on rooftops near the warmth of chimneys, or in abandoned tenements and warehouses with easy access to the sky. Wyrmen speak Ragamoll badly, but they know all the choice curse words. Their children are named with seemingly random words - Bottlecap, Buggerme, and Teafortwo. Physically, wyrmen are red-skinned, four-limbed creatures with two wings and two feet. Their feet function as hands and they rarely walk anywhere. They stand about 3 feet tall at most (although they frequently slouch,) and weigh no more than 60 pounds.
+Wyrmen are aerial clowns and messengers in the skies of New Crobuzon. They are a stupid but genial race, happy to serve, happy to fart, and happy to frown and laugh as the mood takes them. In new Crobuzon, they are often messengers, couriers, and spies for anyone who will pay a good sum. They nest under eaves and on rooftops near the warmth of chimneys, or in abandoned tenements and warehouses with easy access to the sky. Wyrmen speak Ragamoll badly, but they know all the choice curse words. Their children are named with seemingly random words - Bottlecap, Buggerme, and Teafortwo. Physically, wyrmen are red-skinned, four-limbed creatures with two leathery wings and two feet. Their feet function as hands and they rarely walk anywhere. They stand about 3 feet tall at most (although they frequently slouch,) and weigh no more than 60 pounds.
+
+**Brawn: 2**
+
+**Agility: 3**
+
+**Intellect: 1**
+
+**Cunning: 3**
+
+**Willpower: 1**
+
+**Presence: 2**
+
+*Starting Wound Threshold*: 8 + Brawn
+
+*Starting Strain Threshold*: 10 + Willpower
+
+*Starting Experience*: 90
+
+*Starting Skills*: A wyrman starts with one rank in Streetwise. The ability to fly across the city brings with it a knowledge of New Crobuzon's goings-on that would not be so easily aquired by any other race.
+
+*Flight*: With their bat-like wings, a wyrman can saw across the city, catching currents on the air and looping over the city's skyrail and under its rail bridges. They can also hover a little off the ground, bobbing up and down with the effort of each flap. As such, a wyrman should ignore otherwise impassable or difficult terrain, and can move from long range to short range using a single maneuvre if they start their flight from a great height or otherwise good conditions. Players may want to consider spending a Story Point to induce such conditions, such as a sudden gust of wind, allowing their wyrman a burst of speed.
 
 ---
 
