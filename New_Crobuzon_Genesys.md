@@ -782,11 +782,65 @@ The races and species of Bas-Lag are uncountable in number. Such diversity exist
 
 Most commonly found in the settlments of the Cymek, the cactus people - cactacae - are, nevertheless, a relatively common sight in New Crobuzon, making up approximately 2% of the population. Standing between 7 and 8 foot tall, the cactacae are a vegatable race with thick, fiberous green skin (although yellow and browns are sometimes seen). Spines and small flowers protrude from the cactus individual if left unplucked, although many choose to do so. Cactacae heads sit flat on their shoulders, without necks. Their fingers are thick and fairly clumsy, although their grip is power enough to crush bone. An oily sap flows through their veins rather than blood, and their bones are strangely shaped, unlike those of any vertebate. A full-grown cactacae is not just tall but also massive, weighing as much as 500 to 700 pounds. Prefering hotter climates, many of the city's cactacae reside in the semi-autonomous cactus ghetto - the Glasshouse - although many can be found in the neighbouring district of Riverskin.
 
+**Brawn: 3**
+
+**Agility: 1**
+
+**Intellect: 2**
+
+**Cunning: 2**
+
+**Willpower: 2**
+
+**Presence: 2**
+
+*Starting Wound Threshold*: 10 + Brawn
+
+*Starting Strain Threshold*: 10 + Willpower
+
+*Starting Experience*: 90
+
+*Starting Skills*: A cactacae gains one rank in Resililence or Coercion.
+
+*Large*: A cactacae is silhouette 2.
+
+*Vegetable Toughness*: Though a cactus does possess vital organs, they are not nearly as vulnerable as a human or vodyanoi's, buried as they are beneath thick, sinewy, plant-like flesh. A cactacae therefore reduces any Critical Injury result they suffer by 20, to a minimum of 01.
+
+*Regrowth*: Not only are they tough, but cactacae are also fast-healing. A full night's sleep recovers an additional wound (two instead of one by default).
+
 ---
 
 ### Garuda
 
-One of the most uncommon minority races in the city, the New Crobuzon's Garuda are mostly confined to abject poverty in Spatters, though the university has seen one or two Garuda students over the last few decades. In the Cymek, a garuda lives out a brutal but egalitarian existance as part of a nomadic hunting tribe, organised communistically, with no state, money or private property. A Cymek garuda stands tall - a proud hunter - a swing span of some twelve feet (doubling its height), sharp eyes and sharper claws. A garuda in New Crobuzon is no different, at least physically, but their participation in the wage-slavery and poverty of city make them quite a different individal. The garuada community of Spatters is hierarchical and distrustful, though one can hardly blame them in such a dangerous part of the city.
+One of the most uncommon minority races in the city, the New Crobuzon's garuda are mostly confined to abject poverty in Spatters, though the university has seen one or two Garuda students over the last few decades, presumably from less deprived communities. In the Cymek, a garuda lives out a brutal but egalitarian existance as part of a nomadic hunting tribe, organised communistically, with no state, money or private property. A Cymek garuda stands tall - a proud hunter - a swing span of some twelve feet (doubling its height), sharp eyes and sharper claws. A garuda in New Crobuzon is no different, at least physically, but their participation in the wage-slavery and poverty of city make them quite a different individal. The garuada community of Spatters is hierarchical and distrustful, though one can hardly blame them in such a dangerous part of the city.
+
+**Brawn: 2**
+
+**Agility: 3**
+
+**Intellect: 2**
+
+**Cunning: 1**
+
+**Willpower: 2**
+
+**Presence: 2**
+
+*Starting Wound Threshold*: 10 + Brawn
+
+*Starting Strain Threshold*: 10 + Willpower
+
+*Starting Experience*: 80
+
+*Starting Skills*: A garuda gains one rank in Perception. A garuda's senses are much improved on a human's, and they are therefore often learn to use this to their advantage in the city.
+
+*Talons*: garuda possess sharp talons. When making an unarmed combat check, a garuda adds +1 to their base damage and have a Critical Rating of 3.
+
+*Flight*: With a wingspan approximately doubling their height, and feathers to lighten their imposing size, a garuda can fly high above the towers of the city. A garuda PC should therefore ignore otherwise impassable or difficult terrain when flying, and can move from long range to short range using a single maneuvre if they start their flight from a great height or otherwise good conditions. Players may want to consider spending a Story Point to induce such conditions, such as a sudden gust of wind, allowing their garuda a burst of speed.
+
+*A Hunter's Sense*: whilst those garuda living in the city may not use it for the same purpose as those indiviuals from the Cymek, all garuda are nevertheless possessed of senses that go beyond the ordinary - sight and hearing as well as reflexes. Once per session, a garuda may choose to enter a trance - known as yajhu-saak, the hunter's reverie, in the Cymek. Their breathing slows; they become utterly calm, and they may upgrade any one Vigilance or Perception check. Within a structured encouter (i.e. combat), this ability counts as a manoeuvre and lasts for the during of the player's turn. In narrative play, the trance lasts for up to four hours, with the upgraded check being made in this period.
+
+If the garuda was taught yajhu-saak formally as part of a Cymek tribe, the player may spend an additional 5xp from their starting experience to have this ability heal 3 strain upon its use.
 
 ---
 
@@ -812,8 +866,7 @@ The human is a bipedal creature, resembling an upright, hairless ape. On average
 
 *Starting Experience*: 110
 
-*Starting Skills*: A human starts with one rank in each of two different non-career skills at character creation. They obtain this rank before spending experience points, and these skills may not be increased higher than rank 2 during character
-creation.
+*Starting Skills*: A human starts with one rank in each of two different non-career skills at character creation.
 
 *Ready For Anything*: Once per session as an out-of-turn incidental, you may move one Story Point from the Game Master’s pool to the players’ pool.
 
@@ -946,6 +999,8 @@ Wyrmen are aerial clowns and messengers in the skies of New Crobuzon. They are a
 *Starting Experience*: 90
 
 *Starting Skills*: A wyrman starts with one rank in Streetwise. The ability to fly across the city brings with it a knowledge of New Crobuzon's goings-on that would not be so easily aquired by any other race.
+
+*Small*: Wyrmen are silhoutte 0.
 
 *Flight*: With their bat-like wings, a wyrman can saw across the city, catching currents on the air and looping over the city's skyrail and under its rail bridges. They can also hover a little off the ground, bobbing up and down with the effort of each flap. As such, a wyrman should ignore otherwise impassable or difficult terrain, and can move from long range to short range using a single maneuvre if they start their flight from a great height or otherwise good conditions. Players may want to consider spending a Story Point to induce such conditions, such as a sudden gust of wind, allowing their wyrman a burst of speed.
 
