@@ -1121,3 +1121,13 @@ The **Martial thaumaturgic skill uses the Willpower characteristic**, as a refle
 A PC with at least one point in this skill gains access to the following spells: Attack, Augment, Conjure, Curse, Heal and Utility.
 
 ---
+
+## Talents
+
+The New Crobuzon setting permits players to buy any talent listed in the *Genesys Core Rulebook* or indeed any other official supplementary product (these are collected by community member Drainsmith in their excellent *Talent Tome*, found [here](https://www.dropbox.com/sh/raqr7usuzwizglm/AACsYe6LVU_-f372tRG6vxtya?dl=0&lst=)).
+
+There are two points to consider when choosing a talent, however. First, does it fit the flavour of the setting and the character? If you are unsure, consult your fellow players and GM. They can even help you rename and change the flavour of the talent if necessary, although changing the mechanics or balance of the talent is not advised. (If your group comes up with any particularly good New Crobuzon versions of offical talents, message me and I will consider adding them to this guide - I can be found on the Genesys RPG Community Discord Server.) Second, does the talent refer to a skill or mechanic that is not used in the New Crobuzon setting (e.g. Computers)? If so, this talent has no effect. Talents that refer to 'magic skills' instead refer to thaumaturgic skills, again assuming they are inkeeping with the setting.
+
+---
+
+## Items and Equipment
