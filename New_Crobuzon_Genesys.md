@@ -1135,3 +1135,51 @@ Second, does the talent refer to a skill or mechanic that is not used in the New
 ---
 
 ## Items and Equipment
+
+### Weapons and Armour
+
+The New Crobuzon setting permits players to buy any **fantasy** weapons or armour listed in the *Genesys Core Rulebook* or indeed any other official supplementary product (these are collected by community member Drainsmith in their excellent *Equipment Encyclopedia*, found [here](https://www.dropbox.com/sh/raqr7usuzwizglm/AACsYe6LVU_-f372tRG6vxtya?dl=0&lst=)). 
+
+Players may also buy the following:
+
+*Fire-Throwers*
+
+Ranged - Heavy
+
+Damage - 10
+
+Critical - 2
+
+Range - Short
+
+Properties - Blast 6, Burn 4, Limited Ammo 2
+
+Cost - 
+
+---
+
+*Flintlock Pistol*
+
+Ranged - Medium
+
+Damage - 7
+
+Critical - 2
+
+Range - Medium
+
+Properties - Inaccurate 1, Vicious 2, Prepare 1
+
+Cost - 600
+
+---
+
+*Puissance Weapon*
+
+---
+
+*Reevebow*
+
+---
+
+*Stingbox*
