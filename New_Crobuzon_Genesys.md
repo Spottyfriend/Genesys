@@ -1060,7 +1060,7 @@ The New Crobuzon setting uses the following general skills: Athletics, Cool, Coo
 
 ### Combat Skills
 
-The New Crobuzon setting uses the following combat skills: Brawl, Melee and Ranged.
+The New Crobuzon setting uses the following combat skills: Brawl, Melee (Light), Melee (Heavy), Ranged (Archery) and Ranged (Riflery). The former of the ranged skills is used with any weapon firing with a bow (crossbow, longbow etc), where the latter is used when firing any weapon using resembling a gun.
 
 ---
 
@@ -1124,7 +1124,7 @@ A PC with at least one point in this skill gains access to the following spells:
 
 ## Talents
 
-The New Crobuzon setting permits players to buy any talent listed in the *Genesys Core Rulebook* or indeed any other official supplementary product (these are collected by community member Drainsmith in their excellent *Talent Tome*, found [here](https://www.dropbox.com/sh/raqr7usuzwizglm/AACsYe6LVU_-f372tRG6vxtya?dl=0&lst=)).
+The New Crobuzon setting permits players to buy any talent listed in the *Genesys Core Rulebook*, *Expanded Player's Guide* or *Realms of Terrinoth* (these are collected by community member Drainsmith in their excellent *Talent Tome*, found [here](https://www.dropbox.com/sh/raqr7usuzwizglm/AACsYe6LVU_-f372tRG6vxtya?dl=0&lst=)).
 
 There are two points to consider when choosing a talent, however.
 
@@ -1138,17 +1138,19 @@ Second, does the talent refer to a skill or mechanic that is not used in the New
 
 ### Weapons and Armour
 
-New Crobuzon is not the most welcoming city in Bas-Lag. Any adventurer, dissident, or criminal would do well to arm themselves, and even ordinary citizens may carry a dagger for self-defence. Given 
+New Crobuzon is not the most welcoming city in Bas-Lag. Any adventurer, dissident, or criminal would do well to arm themselves, and even ordinary citizens may carry a knife for self-defence. Given this, the militia cannot arrest every pistol-wearer and reevebow-weilding cactacae, though they may well wish to keep tabs on those who appear more heavily armed. No doubt a fire-thrower would attract unwanted attention.
 
-The New Crobuzon setting permits players to buy any **fantasy** weapons or armour listed in the *Genesys Core Rulebook* or indeed any other official supplementary product (these are collected by community member Drainsmith in their excellent *Equipment Encyclopedia*, found [here](https://www.dropbox.com/sh/raqr7usuzwizglm/AACsYe6LVU_-f372tRG6vxtya?dl=0&lst=)). 
+The New Crobuzon setting permits players to buy any **fantasy** weapons or armour listed in the *Genesys Core Rulebook*, although all . Players are also free to purchase *Brass Knuckles*, listed under the Modern setting. 
 
-Players may also buy the following:
+As always, make sure your weapons and armour fit the New Crobuzon setting; for example, Magic Plate armour might be thaumaturgic, a small thaumaturge artisan in Sobek Croix providing the armour with improved protective capabilities and lightening its weight.
+
+Players may also buy the following setting-specific weapons:
 
 ---
 
 *Fire-Thrower*
 
-Skill - Ranged
+Skill - Ranged (Riflery)
 
 Damage - 10
 
@@ -1164,11 +1166,31 @@ Properties - Blast 6, Burn 4, Limited Ammo 2
 
 ---
 
+*Flintlock Rifle
+
+Skill -
+
+Damage -
+
+Critical -
+
+Range -
+
+Encumberance -
+
+Cost -
+
+Rarity -
+
+Properties -
+
+---
+
 *Flintlock Pistol*
 
-Skill - Ranged
+Skill - Ranged (Riflery)
 
-Damage - 7
+Damage - 8
 
 Critical - 2
 
@@ -1184,12 +1206,64 @@ Properties - Inaccurate 1, Vicious 2, Prepare 1
 
 ---
 
-*Puissance Weapon*
-
----
-
 *Reevebow*
+
+Skill -
+
+Damage -
+
+Critical -
+
+Range -
+
+Encumberance -
+
+Cost -
+
+Rarity -
+
+Properties -
 
 ---
 
 *Stingbox*
+
+Skill -
+
+Damage -
+
+Critical -
+
+Range -
+
+Encumberance -
+
+Cost -
+
+Rarity -
+
+Properties -
+
+---
+
+*Target-Rifle*
+
+Skill -
+
+Damage -
+
+Critical -
+
+Range -
+
+Encumberance -
+
+Cost -
+
+Rarity -
+
+Properties -
+
+---
+
+*Puissance Weaponry*
