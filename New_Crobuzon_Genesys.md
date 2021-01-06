@@ -1138,6 +1138,8 @@ Second, does the talent refer to a skill or mechanic that is not used in the New
 
 ### Weapons and Armour
 
+New Crobuzon is not the most welcoming city in Bas-Lag. Any adventurer, dissident, or criminal would do well to arm themselves, and even ordinary citizens may carry a dagger for self-defence. Given 
+
 The New Crobuzon setting permits players to buy any **fantasy** weapons or armour listed in the *Genesys Core Rulebook* or indeed any other official supplementary product (these are collected by community member Drainsmith in their excellent *Equipment Encyclopedia*, found [here](https://www.dropbox.com/sh/raqr7usuzwizglm/AACsYe6LVU_-f372tRG6vxtya?dl=0&lst=)). 
 
 Players may also buy the following:
