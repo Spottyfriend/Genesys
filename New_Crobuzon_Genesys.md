@@ -1144,7 +1144,7 @@ Players may also buy the following:
 
 ---
 
-*Fire-Throwers*
+*Fire-Thrower*
 
 Skill - Ranged
 
