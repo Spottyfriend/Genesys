@@ -1142,9 +1142,11 @@ The New Crobuzon setting permits players to buy any **fantasy** weapons or armou
 
 Players may also buy the following:
 
+---
+
 *Fire-Throwers*
 
-Ranged - Heavy
+Skill - Ranged
 
 Damage - 10
 
@@ -1152,15 +1154,17 @@ Critical - 2
 
 Range - Short
 
-Properties - Blast 6, Burn 4, Limited Ammo 2
+Cost - 1100
 
-Cost - 
+Rarity - 7
+
+Properties - Blast 6, Burn 4, Limited Ammo 2
 
 ---
 
 *Flintlock Pistol*
 
-Ranged - Medium
+Skill - Ranged
 
 Damage - 7
 
@@ -1168,9 +1172,13 @@ Critical - 2
 
 Range - Medium
 
-Properties - Inaccurate 1, Vicious 2, Prepare 1
+Encumberance - 1
 
 Cost - 600
+
+Rarity - 3
+
+Properties - Inaccurate 1, Vicious 2, Prepare 1
 
 ---
 
