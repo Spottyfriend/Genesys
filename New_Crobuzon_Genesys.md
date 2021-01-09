@@ -1142,7 +1142,7 @@ New Crobuzon is not the most welcoming city in Bas-Lag. Any adventurer, dissiden
 
 Most weapons are illegal to *sell* in the city, but that does not stop New Crobuzon's criminal element from turning a profit. The black market exists throughout in every district, and even a respectable citizen is never too far from the right contact. Black market-only weapons and armour are marked 'R' for 'restricted'.
 
-![Weapons](https://i.imgur.com/GQXGyab.png)
+![Weapons](https://i.imgur.com/wzm2yjl.png)
 
 ![Armour](https://i.imgur.com/AGHsSYf.png)
 
