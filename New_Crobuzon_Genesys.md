@@ -1060,7 +1060,7 @@ The New Crobuzon setting uses the following general skills: Athletics, Cool, Coo
 
 ### Combat Skills
 
-The New Crobuzon setting uses the following combat skills: Brawl, Melee (Light), Melee (Heavy), Ranged (Archery) and Ranged (Riflery). The former of the ranged skills is used with any weapon firing with a bow (crossbow, longbow etc), where the latter is used when firing any weapon using resembling a gun.
+The New Crobuzon setting uses the following combat skills: Brawl, Melee (Light), Melee (Heavy) and Ranged.
 
 ---
 
@@ -1135,16 +1135,26 @@ Second, does the talent refer to a skill or mechanic that is not used in the New
 Setting-specific talents are below:
 
 *Lesser Puissance Weapon*
+
 **Tier**: 2
+
 **Activation**: Active
+
 **Ranked**: Yes
-If you have any ranks in a thaumaturgic skill that has access to Augment, upon purchasing this talent, you may imbue your weapon with a weird thaumaturgic property. Add a weapon quality to a weapon of your choice that it does not currently have. You may choose from: Accurate, Defensive, Deflection, Disorient, Ensnare, Guided, Knockdown, Pierce, Reinforced, Stun, or Vicious.
+
+If you have any ranks in a thaumaturgic skill that has access to Augment, upon purchasing this talent, you may imbue your weapon with a weird thaumaturgic property. Add a weapon quality to a weapon of your choice that it does not currently have. You may choose from: Accurate, Defensive, Deflection, Disorient, Ensnare, Guided, Knockdown, Reinforced, Stun.
+
+---
 
 *Greater Puissance Weapon*
+
 **Tier**: 3
+
 **Activation**: Active
+
 **Ranked**: No
-If you have any ranks in a thaumaturgic skill that has access to Augment, upon purchasing this talent, you may imbue your weapon with a weird thaumaturgic property. Add a weapon quality to a weapon of your choice that it does not currently have. You may choose from: Blast, Burn, Disorient, Ensnare, Guided, Knockdown, Pierce, Reinforced, Stun, or Vicious.
+
+If you have any ranks in a thaumaturgic skill that has access to Augment, upon purchasing this talent, you may imbue your weapon with a weird thaumaturgic property. Add a weapon quality to a weapon of your choice that it does not currently have. You may choose from: Blast, Burn, Pierce, Reinforced, or Vicious.
 
 ---
 
