@@ -1170,4 +1170,30 @@ Most weapons are illegal to *sell* in the city, but that does not stop New Crobu
 
 ![Armour](https://i.imgur.com/AGHsSYf.png)
 
+Below are some weapons that may benefit from further descrption.
+
+---
+
+*Flintlock*
+
+The flintlock is the ubiquitous weapon of New Crobuzon. Be it the rare uniformed officer with his rifle, or the rich citizen waving a pistol from his window at a would-be burgular; the crime boss' lackey, or the vodyanoi whose return journey from the docks takes him everday through dangerous Sheck streets - a flinklock is never far from reach. They are mostly inaccurate weapons, and require regular refilling of black powder, generally carried in a powder horn or case. However, should the small metal ball connect with its fleshy target, it can easily be deadly.
+
+A much rarer type than the simple pistol or rifle flintlocks is the target-rifle. Reserved only for the highly trained militia and other aggressive state actors who require a more precise method of death, the target-rifle is built for accuracy and lethality. Though the technology of the weapon is, in many ways, the same powder-based design of the ordinary flintlock, it is a difficult to aquire weaopn, even for the well-connected criminal.
+
+---
+
+*Iron Riot Shield*
+
+---
+
 *Puissance Weaponry*
+
+---
+
+*Reevebow*
+
+---
+
+*Stingbox*
+
+
