@@ -1190,10 +1190,14 @@ A much rarer type than the simple pistol or rifle flintlocks is the target-rifle
 
 ---
 
-*Reevebow*
+*Rivebow*
+
+The designers of the first rivebow had been human. The weapons had been used during the ghastly premiership of Mayor Collodd - they had been carried by the human guards of the mayor’s cactus farm. But after the reforming Sapience Bill dissolved the farm and granted cactacae something approaching citizenship, the pragmatic cactus elders had realized this would be an invaluable weapon to keep their own people in line. Since then, the bow has been improved many times, this time by cactacae engineers.
+
+The rivebow is an enormous crossbow, too large and heavy for a human effectively to operate. It fires not bolts, but chakris; flat metal disks with serrated or razored edges, or metal stars with curved arms. A toothed hole in the chakri’s centre slots neatly onto a little bud of metal that emerges from the rivebow shaft. When the trigger is pulled, the wire in the shaft snaps violently to, pulling the metal bud at massive speed, intricate gears grinding together to send it spinning at an enormous rate. At the end of the enclosed channel the whirling bolt slips sharply down and out from the chakri’s hole, and the chakri is discharged as fast as a slingshot stone, spinning like the blade of a circular saw.
 
 ---
 
 *Stingbox*
 
-
+A strange metaclockwork weapon of khepri design 
