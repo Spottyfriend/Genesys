@@ -1134,6 +1134,8 @@ Second, does the talent refer to a skill or mechanic that is not used in the New
 
 Setting-specific talents are below:
 
+---
+
 *Lesser Puissance Weapon*
 
 **Tier**: 2
