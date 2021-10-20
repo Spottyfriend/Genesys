@@ -119,8 +119,6 @@ Ludmead is also home to Ludmead Station, a well-kept, neatly-tiled station on th
 
 **Rim**: A prosperous neighbourhood, Rim is defined by its wide streets and stuccoed houses, though today there are some crumbling blocks behind the grand facades. Residents might find pleasure by rowing on the Canker, an activity that is only possible on the section of the river here - west of the strange chymical and thaumaturgic wastes deposited by the businesses of Brock Marsh.
 
-**Salacus Fields**: A place of fashion and the fashionable, poets and pamphleteers, and the latest breed of junkies. Its residents delight in the scandalous and the outré, and the district is crowded with tea-houses and bars. Clothes here are bright and artistic, and it is a fine place for romance. The artists vary from the wealthiest, with their patrons and lucrative city contracts, to the conventially successful. Many of the artists are xenians working with golem-magic (common among the vodyanoi), or khepri gland-artists. Its reputation for dissendence and radical artistry is slowly becoming just that at, with richer students and the rebellious sons of businessmen pushing many of the harder radicals into Howl Barrow. Salacus Fields is slowly gentrifying, much to the horror of its older residents.
-
 ---
 
 *Middle Class Districts*
@@ -132,6 +130,8 @@ Ludmead is also home to Ludmead Station, a well-kept, neatly-tiled station on th
 **Gallmarch and Serpolet**: Gallmarch and Serpolet are middle-class suburbs. Far from the city's centre, they are quiet and dull, and their residents walk the streets mostly unmolested.
 
 **Pelorus Fields**: A 'respectable' district, the Three Quills Party might find some of its richer supporters here.
+
+**Salacus Fields**: A place of fashion and the fashionable, poets and pamphleteers, and the latest breed of junkies. Its residents delight in the scandalous and the outré, and the district is crowded with tea-houses and bars. Clothes here are bright and artistic, and it is a fine place for romance. The artists vary from the wealthiest, with their patrons and lucrative city contracts, to the conventially successful. Many of the artists are xenians working with golem-magic (common among the vodyanoi), or khepri gland-artists. Its reputation for dissendence and radical artistry is slowly becoming just that at, with richer students and the rebellious sons of businessmen pushing many of the harder radicals into Howl Barrow. Salacus Fields is slowly gentrifying, much to the horror of its older residents.
 
 **Spit Hearth**: A relatively upmarket district, Spit Hearth is the home to three booming 'industries'.
 
