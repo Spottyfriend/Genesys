@@ -1200,4 +1200,4 @@ The rivebow is an enormous crossbow, too large and heavy for a human effectively
 
 *Stingbox*
 
-A strange metaclockwork weapon of khepri design 
+A strange metaclockwork weapon of khepri design, the 'stingbox', as humans have christened it, resembles a squared-off wooden block with a handle at one end and two short whip-like flails at the other. These are extendable however, and, by the user, are whirled at speed assisted by internal gears. They are then whipped out to catch, pierce and grip the flesh of even an armoured enemy, and at a maximum of twenty feet. A powerful electrical charge is then sent sparking through the line. If death is the aim then the stingbox can deliver, but it can also wound and incapacitate should its user desire. Though a khepri weapon, it is not altogether unimaginable to see a militiaman weilding a stingbox should such rare training be required in defence of the city.
