@@ -39,7 +39,7 @@
     + [Martial](#martial-willpower)
 - [Talents](#talents)
 - [Items and Equipment](#items-and-equipment)
-  * [Weapons and Armour](#Weapons and Armour)
+  * [Weapons and Armour](#weapons-and-armour)
   * [Gear](#Gear)
 - [Vehicles](#vehicles)
 - [Adversaries](#adversaries)
@@ -1208,4 +1208,4 @@ A strange metaclockwork weapon of khepri design, the 'stingbox', as humans have 
 
 ---
 
-###Gear
+### Gear
