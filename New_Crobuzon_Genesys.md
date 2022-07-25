@@ -41,7 +41,6 @@
 - [Items and Equipment](#items-and-equipment)
   * [Weapons and Armour](#weapons-and-armour)
   * [Gear](#Gear)
-- [Vehicles](#vehicles)
 - [Adversaries](#adversaries)
 - [Changelog](#changelog)
 
