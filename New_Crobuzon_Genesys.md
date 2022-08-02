@@ -1266,4 +1266,4 @@ Shazbah, very-tea and dreamshit, as well as quinner and tusk, represent the most
 
 ---
 
-##Adversaries
+## Adversaries
