@@ -1213,7 +1213,7 @@ A strange metaclockwork weapon of khepri design, the 'stingbox', as humans have 
 
 ### Gear
 
-![Gear](https://i.imgur.com/r2WNK93.png)
+![Gear](https://i.imgur.com/3X4Ybg1.png)
 
 ---
 
