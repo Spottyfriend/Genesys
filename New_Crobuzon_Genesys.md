@@ -1219,32 +1219,51 @@ A strange metaclockwork weapon of khepri design, the 'stingbox', as humans have 
 
 *Medicine Pouch*
 
+A medicine pouch allows characters to attempt to heal others using Medicine checks without the penalty usually incurred by doing so without medical equipment (the separate penalty for attempting to attend to your own injuries is not affected).
+
 ---
 
 *Alleviative Elixir*
+
+Using an elixir requires one maneuver for your character to apply it either to themself or to another engaged character. The elixir is consumed in the process, and the character immediately heals 5 wounds. While a character can use multiple elixirs, this provides diminishing returns. Each elixir after the first heals one wound
+fewer. A second elixir heals 4 wounds, a third heals 3, and so on. Using a sixth elixir in a day has no further effect. After one day, the lingering effects of the elixir wear off, and the character may use elixirs again with their normal effect (this means a character can consume up to five elixir a day, each day).
 
 ---
 
 *Toolkit*
 
+As well as its more general effects, a toolkit allows characters to attempt to heal any machine appendages Remade characters may have using Mechanics checks without the penalty usually incurred by doing so without 'medical' equipment (the separate penalty for attempting to attend to your own injuries is not affected).
+
 ---
 
 *Carrying Sack*
+
+Easily found in any reasonably stocked market or bazaar, while wearing a carrying sack, your character increases their encumbrance threshold by four.
 
 ---
 
 *Lock Pick Set*
 
+When making a Skulduggery check to open a lock or latch, your character adds one automatic success to the results.
+
 ---
 
 *Simple Thaumaturgic Aid*
+
+A simple thaumaturgic aid has no mechanical game effects, but any players interested in using thaumaturgy should be encouraged to considering purchasing one as a means to thematically flesh out their particular style (the weirder, more in-keeping with the world, the better) of thaumaturgy.
 
 ---
 
 *Thaumaturgic Battery*
 
----
-
-*Drugs of New Crobuzon*
+Once per encounter, a character in the room with (or a short distance from) a battery, may upgrade up to two Ability dice to Proficiency dice on a check using a Thaumaturgic skill. Depending on the battery's size and the magnitude of the task (or any other story-based factors), the GM should indicate how close the battery is to running out. Three uses might be a considered baseline before the battery is expended.
 
 ---
+
+*Shazbah, Very-Tea, Dreamshit*
+
+Shazbah, very-tea and dreamshit, as well as quinner and tusk, represent the most popular recreational drugs used in the city of New Crobuzon. All are found invariably in the opposing worlds of the rich socialites and the exploited underemployed (and the various levels in between), though only in the former is their usage seen as sophisticated, refined, part-of-the-dinner-party. In the latter, drug usage is criminal, and addicts, party-goers and bohemian experimentalists alike risk being picked up by militia while crimelords live comfortably. Of course, minor, more local black market players can also accumulate a modest wealth, or at least more effectively than with a job in the dumps of Griss Twist or elsewhere.
+
+---
+
+##Adversaries
