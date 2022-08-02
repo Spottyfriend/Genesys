@@ -1217,4 +1217,34 @@ A strange metaclockwork weapon of khepri design, the 'stingbox', as humans have 
 
 ---
 
-Medicine Pouch
+*Medicine Pouch*
+
+---
+
+*Alleviative Elixir*
+
+---
+
+*Toolkit*
+
+---
+
+*Carrying Sack*
+
+---
+
+*Lock Pick Set*
+
+---
+
+*Simple Thaumaturgic Aid*
+
+---
+
+*Thaumaturgic Battery*
+
+---
+
+*Drugs of New Crobuzon*
+
+---
