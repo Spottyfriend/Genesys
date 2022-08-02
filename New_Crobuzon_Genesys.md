@@ -1193,6 +1193,8 @@ Should the militia require the heavier touch - the putting-down of a strike, or 
 
 As in industry, chymistry and art, thaumaturgy can be used to augment and enhance weaponry, lending whatever knife, pistol or bomb certain otherwise inexplicable capacities. Whisper soft words to your gun and it will cough out globules of too-large bullet metal, sticking to and burning through its target rather than leaving the usual bullet hole; your sword spits crackling thaumaturgic unlight as it cuts through flesh like a serrated elytric saw. A thaumaturge is needed for such enhancements of course, whether the weapon's user is the augmenter, or whether she has been lucky enough to find such a one in the Scientific Quarter of Brock Marsh.
 
+Refer to the above section on Talents to see how a player character may create a pussiant weapon. Otherwise, GM's should take care when introducing a vendor capable of producing such a weapon as part of a story beat; particularly the 'greater' variety, which can be very powerful.
+
 ---
 
 *Rivebow*
@@ -1210,3 +1212,5 @@ A strange metaclockwork weapon of khepri design, the 'stingbox', as humans have 
 ---
 
 ### Gear
+
+
