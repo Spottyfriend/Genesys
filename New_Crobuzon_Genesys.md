@@ -1137,7 +1137,7 @@ Setting-specific talents are below:
 
 ---
 
-*Lesser Puissance Weapon*
+*Lesser Puissant Weapon*
 
 **Tier**: 2
 
@@ -1149,7 +1149,7 @@ If you have any ranks in a thaumaturgic skill that has access to Augment, upon p
 
 ---
 
-*Greater Puissance Weapon*
+*Greater Puissant Weapon*
 
 **Tier**: 3
 
@@ -1189,7 +1189,9 @@ Should the militia require the heavier touch - the putting-down of a strike, or 
 
 ---
 
-*Puissance Weaponry*
+*Puissant Weaponry*
+
+As in industry, chymistry and art, thaumaturgy can be used to augment and enhance weaponry, lending whatever knife, pistol or bomb certain otherwise inexplicable capacities. Whisper soft words to your gun and it will cough out globules of too-large bullet metal, sticking to and burning through its target rather than leaving the usual bullet hole; your sword spits crackling thaumaturgic unlight as it cuts through flesh like a serrated elytric saw. A thaumaturge is needed for such enhancements of course, whether the weapon's user is the augmenter, or whether she has been lucky enough to find such a one in the Scientific Quarter of Brock Marsh.
 
 ---
 
