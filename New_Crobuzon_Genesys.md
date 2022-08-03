@@ -1300,29 +1300,47 @@ Part spy, part police officer, part solider, the militiaman usually works as par
 
 *Armoured Militiaman* (Rival)
 
+When direct violence is necessary to protect the interests of the state and ts security, the unsubtle touch of the armoured militiaman is often required. Here the soldiering and riot-policing role of the militia overcomes its intelligence gathering and secret-policing elements.
+
 ---
 
 *Assault Trooper* (Rival)
+
+The assault trooper is a strange figure. Though a militiman, it looks more construct than human, bulked up by enormous, bizarre and twisted armour and invariably carrying a huge firearm and hammer. Blue-masked, with intricate smoked goggles, gasmask and spiked helmet, its face is made the vision of some insectile daemon. Its role is the dealing out of the most signifant level of brute force for the state, whether required in the arrest of a dissident terrorist, or the putting down of a riot-strike.
+
+Pipebomb
+Sledgehammer
+Blunderbuss
 
 ---
 
 *Captain-Thaumaturge* (Rival)
 
+The captain-thaumaturge is one of the miltia's most useful and deadly threats, whether in the heat of out-all battle, where they may send a bolt of unlight sizzling through an enemy of the state, or in intelligence and surveillance, detecting far away conversations using communicator thaumaturgy, or indeed any number of acts of thaumaturgic aid to the militia's functions.
+
 ---
 
 *Intelligence Officer* (Nemesis)
+
+The militia's intelligence officers are experts in blackmail, extortion and bribery. They will, with their agents hidden in plain sight, learn everything necessary for an arrest and remaking of a dissident, or for the blackmail of an innocent party accidentally privy to vital intelligence, hanging over them the truth of their sexual depravity (information learnt years ago and stored on file in case of such an occaison). Files are kept on many citizens.
 
 ---
 
 *State Official* (Nemesis)
 
+Parliament is full of politicians and civil servants, all craving power and a few possessing it. While some depend on a base layer of supporters and voters which they seek to please, most of the more powerful figures have their positions for life, or until a trusted ally at last stabs them in the back.
+
 ---
 
 *Gang Bruiser* (Minion)
 
+Whether a Three Quiller or druglord's lackey, the gang bruiser's tactics are the same - intimidation and violence based on the outnumbering of the victim.
+
 ---
 
 *Gang Leader (Rival)*
+
+With a little more tactical know-how and resourcefulness on the streets, the gang leader is sufficently feared and respected to give orders to his inferiors, and have them be followed. He, most probably however, follows orders from higher up the chain of criminal command.
 
 ---
 
@@ -1331,3 +1349,9 @@ Part spy, part police officer, part solider, the militiaman usually works as par
 ---
 
 *Industrialist* (Nemesis)
+
+---
+
+## Changelog
+
+xx/08/2022 - First draft complete.
