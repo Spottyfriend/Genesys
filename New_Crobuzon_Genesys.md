@@ -1244,7 +1244,7 @@ As well as allowing actions otherwise impossible without tools, a toolkit allows
 
 *Carrying Sack*
 
-Easily found in any reasonably stocked market or bazaar, while wearing a carrying sack, your character increases their encumbrance threshold by four.
+Easily found in any reasonably stocked market or bazaar, while wearing a carrying sack, a character increases their encumbrance threshold by four.
 
 ---
 
