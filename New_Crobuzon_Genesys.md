@@ -1346,9 +1346,13 @@ With a little more tactical know-how and resourcefulness on the streets, the gan
 
 *Crimeboss* (Nemesis)
 
+As black market empires vye for supremacy in all the many localities of the city, the crimeboss sits at the head of the empire and oversees operations. The most notable bosses weilding power not dissimilar to that of a minor cabinet minister, they command a small army in lackeys and possess reasonable stockpiles of weapons, technology and wealth. In some cases, their territory is under near complete control, the local militia, businesses and press all in cosy relations with the the boss and his associates. Should you cross a crimeboss, it can feel as if half the very city itself has turned against you.
+
 ---
 
 *Industrialist* (Nemesis)
+
+Some of the wealthiest indidivuals in the city, the success of the industrialists is nevertheless in their frugality, their massive profits not stockpiled like the lords of pastural fairytale but reinvested into an ever-expanding empire of industry at the expense of the health and wellbeing of their workers. Those that aren't themselves destroyed by competition in the city's market, that is. The industrialist's contacts are manifold, and top politicians and powerful crimelords are no doubt among them.
 
 ---
 
