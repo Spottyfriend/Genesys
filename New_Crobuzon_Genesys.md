@@ -1287,3 +1287,47 @@ On the very much lighter end, quinner is a simple downer, sometimes found laced 
 ---
 
 ## Adversaries
+
+In New Crobuzon, anyone is a potentional enemy, but the status of some groups is far more well known; namely the enforcers of the state - the militia - and the lackeys of the crimelords - the gang members and gunmen. Not forgeting the roving bands of Three Quillers, with whom any average xenian will be familiar.
+
+---
+
+*Militiaman* (Minion)
+
+Part spy, part police officer, part solider, the militiaman usually works as part of a group both in their more obvious violently repressive functions and in intelligence gathering.
+
+---
+
+*Armoured Militiaman* (Rival)
+
+---
+
+*Assault Trooper* (Rival)
+
+---
+
+*Captain-Thaumaturge* (Rival)
+
+---
+
+*Intelligence Officer* (Nemesis)
+
+---
+
+*State Official* (Nemesis)
+
+---
+
+*Gang Bruiser* (Minion)
+
+---
+
+*Gang Leader (Rival)*
+
+---
+
+*Crimeboss* (Nemesis)
+
+---
+
+*Industrialist* (Nemesis)
