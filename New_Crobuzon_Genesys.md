@@ -1289,7 +1289,9 @@ On the very much lighter end, quinner is a simple downer, sometimes found laced 
 
 ## Adversaries
 
-In New Crobuzon, anyone is a potentional enemy, but the status of some groups is far more well known; namely the enforcers of the state - the militia - and the lackeys of the crimelords - the gang members and gunmen. Not forgeting the roving bands of Three Quillers, with whom any average xenian will be familiar.
+In New Crobuzon, anyone is a potentional enemy, but the status of some groups is far more well known; namely the feared enforcers of the state - the militia - and the lackeys of the crimelords - the gang members and gunmen. Not forgeting the roving bands of Three Quillers, with whom any average xenian will be familiar.
+
+GM's should feel free to reskin any number of adversaries present in official Genesys rulebooks. Of particular use may be the Sample Adversaries section of the Expanded Player's Guide (p.86). However, below are some adveraries that PC's may encounter more often, and therefore may benefit from description (mechanical and setting-focussed).
 
 ---
 
@@ -1297,11 +1299,72 @@ In New Crobuzon, anyone is a potentional enemy, but the status of some groups is
 
 Part spy, part police officer, part solider, the militiaman usually works as part of a group both in their more obvious violently repressive functions and in intelligence gathering.
 
+*Combat/Social/General Power Level*: 4/1/3
+
+**Brawn: 3**
+
+**Agility: 3**
+
+**Intellect: 3**
+
+**Cunning: 3**
+
+**Willpower: 3**
+
+**Presence: 3**
+
+*Soak*: 4
+
+*Wound Threshold*: 5
+
+*Skills*: Coercion, Perception, Ranged, Stealth, Vigilance
+
+*Talents*: None
+
+*Abilities*: None
+
+Equipment: 
+* **Concealable Flintlock**: Ranged; Damage 5; Critical 3; Range (Medium).
+* **Extendable Bludgeon**: Melee (Light); Damage +3; Critical 4; Range (Engaged).
+* Padding under plain clothes: +1 soak
+* Restraints
+
 ---
 
 *Armoured Militiaman* (Rival)
 
 When direct violence is necessary to protect the interests of the state and ts security, the unsubtle touch of the armoured militiaman is often required. Here the soldiering and riot-policing role of the militia overcomes its intelligence gathering and secret-policing elements.
+
+*Combat/Social/General Power Level*: 5/2/0
+
+**Brawn: 4**
+
+**Agility: 3**
+
+**Intellect: 2**
+
+**Cunning: 2**
+
+**Willpower: 3**
+
+**Presence: 1**
+
+*Soak*: 5
+
+*Wound Threshold*: 12
+
+*M/R Defense*: 3/4
+
+*Skills*: Coercion 2, Leadership 2, Melee 2, Ranged 2, Vigilance 2
+
+*Talents*: None
+
+*Abilities*: None
+
+Equipment: 
+* **Flinklock Pistol**: Ranged; Damage 8; Critical 2; Range (Medium); Inaccurate 1; Vicious 2; Prepare 2.
+* **Iron riot Shield**: Melee (Light); Damage +2; Critical 5; Range (Engaged); Cumbersome 2; Defensive 2; Deflection 3; Inaccurate 2; Knockdown; Reinforced.
+* Reinforced milita armour: +1 soak, +1 defence
 
 ---
 
@@ -1309,9 +1372,39 @@ When direct violence is necessary to protect the interests of the state and ts s
 
 The assault trooper is a strange figure. Though a militiman, it looks more construct than human, bulked up by enormous, bizarre and twisted armour and invariably carrying a huge firearm and hammer. Blue-masked, with intricate smoked goggles, gasmask and spiked helmet, its face is made the vision of some insectile daemon. Its role is the dealing out of the most signifant level of brute force for the state, whether required in the arrest of a dissident terrorist, or the putting down of a riot-strike.
 
-Pipebomb
-Sledgehammer
-Blunderbuss
+*Combat/Social/General Power Level*: 7/1/1
+
+**Brawn: 4**
+
+**Agility: 3**
+
+**Intellect: 2**
+
+**Cunning: 2**
+
+**Willpower: 3**
+
+**Presence: 1**
+
+*Soak*: 7
+
+*Wound Threshold*: 19
+
+*M/R Defense*: 1/1
+
+*Skills*: Athletics 2, Discipline 1, Melee 2, Ranged 2, Resilience 2, Vigilance 2.
+
+*Talents*: 
+* **Adversary 1**: Passive; Upgrade the difficulty of all combat checks targeting this character once per rank of Adversary.
+* **Indomitable**: Active (Incidental, Out of Turn); Once per encounter, when your character would be incapacitated due to exceeding their wound or strain threshold, you may spend a Story Point to use this talent. Then, your character is not incapacitated until the end of their next turn. If your character reduces their strain or wounds to below their threshold before the end of their next turn, they are not incapacitated.
+
+*Abilities*: Silhoutte 2
+
+Equipment: 
+* **Blunderbuss**: Ranged; Damage 8; Critical 3; Blast 5; Knockdown; Limited Ammo 1; Vicious 2.
+* **Sledgehammer**: Melee (Heavy); Damage +4; Critical 4; Range (Engaged); Concussive 1; Cumbersome 3; Knockdown.
+* **Pipebomb**: Ranged; Damage 8; Critical 3; Range (Short); Blast 5; Burn 1; Limited Ammo 1.
+* Twisted armour: +3 soak, +1 defence.
 
 ---
 
@@ -1319,11 +1412,75 @@ Blunderbuss
 
 The captain-thaumaturge is one of the miltia's most useful and deadly threats, whether in the heat of out-all battle, where they may send a bolt of unlight sizzling through an enemy of the state, or in intelligence and surveillance, detecting far away conversations using communicator thaumaturgy, or indeed any number of acts of thaumaturgic aid to the militia's functions.
 
+*Combat/Social/General Power Level*: 4/1/4
+
+**Brawn: 3**
+
+**Agility: 3**
+
+**Intellect: 3**
+
+**Cunning: 3**
+
+**Willpower: 3**
+
+**Presence: 3**
+
+*Soak*: 4
+
+*Wound Threshold*: 11
+
+*M/R Defense*: 0/0
+
+*Skills*: Coercion 2, Discipline 2, Knowledge (Science) 4, Thaumaturgy (Martial) 4
+
+*Talents*:
+* **Hidden Techniques**: Passive; When this character casts a spell, the first Range effect they add doesn't increase the difficulty. In addition, attack spells cast by this character increase their base damage by four). 
+
+*Abilities*: None
+
+Equipment: 
+* **Knife**: Melee (Light); Damage +1; Critical 3.
+* Padded clothing: +1 soak.
+
 ---
 
 *Intelligence Officer* (Nemesis)
 
 The militia's intelligence officers are experts in blackmail, extortion and bribery. They will, with their agents hidden in plain sight, learn everything necessary for an arrest and remaking of a dissident, or for the blackmail of an innocent party accidentally privy to vital intelligence, hanging over them the truth of their sexual depravity (information learnt years ago and stored on file in case of such an occaison). Files are kept on many citizens.
+
+*Combat/Social/General Power Level*: 3/4/3
+
+**Brawn: 2**
+
+**Agility: 4**
+
+**Intellect: 2**
+
+**Cunning: 4**
+
+**Willpower: 2**
+
+**Presence: 2**
+
+*Soak*: 3
+
+*Wound Threshold*: 10
+
+*M/R Defense*: 0/0
+
+*Skills*: Coercion 3, Cool 2, Deception 4, Knowledge (Underworld) 1, Knowledge (City) 1, Skullduggery 4, Stealth 3.
+
+*Talents*:
+* **Clever Retort**: Active (Incidental, Out of Turn); Once per encounter, your character may use this talent to add two automatic Threat to another character’s social skill check.
+* **Improved Scathing Tirade**: Active (Action); Your character may use this talent to make an Average Coercion check. For each Success the check generates, one enemy within short range suffers 1 strain. For each Advantage, one enemy affected by Scathing Tirade suffers 1 additional strain. Enemies affected by your character’s Scathing Tirade add Setback dice to all skill checks they make for a number of rounds equal to your character’s ranks in Coercion.
+
+*Abilities*: One Step Ahead.
+
+Equipment: 
+* **Concealable Flintlock**: Ranged; Damage 5; Critical 3; Range (Medium).
+* **Knife**: Melee (Light); Damage +1; Critical 3.
+* Padded clothing: +1 soak.
 
 ---
 
@@ -1331,11 +1488,80 @@ The militia's intelligence officers are experts in blackmail, extortion and brib
 
 Parliament is full of politicians and civil servants, all craving power and a few possessing it. While some depend on a base layer of supporters and voters which they seek to please, most of the more powerful figures have their positions for life, or until a trusted ally at last stabs them in the back.
 
+*Combat/Social/General Power Level*: 1/9/2
+
+**Brawn: 2**
+
+**Agility: 2**
+
+**Intellect: 2**
+
+**Cunning: 3**
+
+**Willpower: 3**
+
+**Presence: 5**
+
+*Soak*: 2
+
+*Wound Threshold*: 14
+
+*Strain Threshold: 13
+
+*M/R Defense*: 1/0
+
+*Skills*: Cool 3, Discipline 3, Knowledge 2, Negotiation 2, Vigilance 3.
+
+*Talents*:
+* **Improved Inspiring Rhetoric**: Active (Action); Your character may use this talent to make an Average Leadership check. For each Success the check generates, one ally within short range heals one strain. For each Advantage, one ally benefiting from Inspiring Rhetoric heals one additional strain. Allies affected by your character’s Inspiring Rhetoric add a Boost die to all skill checks they make for a number of rounds equal to your character's rank in Leadership.
+* **Improved Scathing Tirade**: Active (Action); Your character may use this talent to make an Average Coercion check. For each Success the check generates, one enemy within short range suffers 1 strain. For each Advantage, one enemy affected by Scathing Tirade suffers 1 additional strain. Enemies affected by your character’s Scathing Tirade add Setback dice to all skill checks they make for a number of rounds equal to your character’s ranks in Coercion.
+
+*Abilities*: 
+* **Ominous Reputation**
+
+Equipment: 
+* **Ceremonial Dueling Sword** (Melee (Light); Damage +2; Critical 3; Range (Engaged); Defensive 1.
+* Ornate clothing (adds one Advantage to any social skill checks this character makes).
+* Signet of authority (adds one Success to any social checks this character makes when interacting with someone of a lesser social standing).
+* Important documents.
+* Full coin purse.
+
 ---
 
 *Gang Bruiser* (Minion)
 
 Whether a Three Quiller or druglord's lackey, the gang bruiser's tactics are the same - intimidation and violence based on the outnumbering of the victim.
+
+*Combat/Social/General Power Level*: 2/1/1
+
+**Brawn: 3**
+
+**Agility: 1**
+
+**Intellect: 1**
+
+**Cunning: 2**
+
+**Willpower: 1**
+
+**Presence: 2**
+
+*Soak*: 4
+
+*Wound Threshold*: 4
+
+*M/R Defense*: 0/0
+
+*Skills*: Brawl, Coercion, Melee
+
+*Talents*: None.
+
+*Abilities*: None.
+
+Equipment: 
+* **Brass Knuckles**: Brawl; Damage +1; Critical 4; Range (Engaged); Disorient 3.
+* OR **Club**: Melee; Damage +2; Critical 4; Range (Engaged).
+* Heavy Clothing: +1 soak.
 
 ---
 
@@ -1343,17 +1569,118 @@ Whether a Three Quiller or druglord's lackey, the gang bruiser's tactics are the
 
 With a little more tactical know-how and resourcefulness on the streets, the gang leader is sufficently feared and respected to give orders to his inferiors, and have them be followed. He, most probably however, follows orders from higher up the chain of criminal command.
 
+*Combat/Social/General Power Level*: 4/2/1
+
+**Brawn: 3**
+
+**Agility: 3**
+
+**Intellect: 2**
+
+**Cunning: 2**
+
+**Willpower: 2**
+
+**Presence: 3**
+
+*Soak*: 5
+
+*Wound Threshold*: 15
+
+*M/R Defense*: 0/0
+
+*Skills*: Coercion 1, Cool 1, Leadership 1, Melee 2, Streetwise 3, Vigilance 1
+
+*Talents*: 
+* **Adversary 1**: Passive; Upgrade difficulty of all combat checks against this target once.
+
+*Abilities*: None.
+
+Equipment: 
+* **Large Sharpened Knife** : Melee; Damage 5; Critical 3; Range (Engaged); Pierce 2.
+* Heavy leather clothing: +2 soak.
+
 ---
 
 *Crimeboss* (Nemesis)
 
-As black market empires vye for supremacy in all the many localities of the city, the crimeboss sits at the head of the empire and oversees operations. The most notable bosses weilding power not dissimilar to that of a minor cabinet minister, they command a small army in lackeys and possess reasonable stockpiles of weapons, technology and wealth. In some cases, their territory is under near complete control, the local militia, businesses and press all in cosy relations with the the boss and his associates. Should you cross a crimeboss, it can feel as if half the very city itself has turned against you.
+As black market empires vye for supremacy in all the many localities of the city, the crimeboss sits at the head of the empire and oversees operations. The most notable bosses weilding power not dissimilar to that of a minor cabinet minister: they command a small army in lackeys and possess reasonable stockpiles of weapons, technology and wealth. In some cases, their territory is under near complete control, the local militia, businesses and press all in cosy relations with the the boss and his associates. Should you cross a crimeboss, it can feel as if half the very city itself has turned against you.
+
+*Combat/Social/General Power Level*: 8/6/5
+
+**Brawn: 3**
+
+**Agility: 3**
+
+**Intellect: 4**
+
+**Cunning: 4**
+
+**Willpower: 5**
+
+**Presence: 3**
+
+*Soak*: 3
+
+*Wound Threshold*: 15
+
+*Strain Threshold: 25
+
+*M/R Defense*: 2/2
+
+*Skills*: Brawl 4, Coercion 5, Discipline 2, Leadership 2, Ranged 2, Streetwise 4.
+
+*Talents*: 
+* **Adverary 2**: Passive; Upgrade the difficulty of all combat checks targeting this character once per rank of Adversary.
+
+*Abilities*:
+* **Loyal Followers**: Active; Once per round when this adversary is targeted by a combat check, they may choose one ally within short range, and the attack then targets the ally instead of this adversary.
+
+Equipment: 
+* **Spiked Brass Knuckles**: Brawl; Damage +2; Critical 3; Range (Engaged); Pierce 2.
+* **Concealed Knife** Melee (Light); Damage +1; Critical 3.
+* Under clothes armour: +2 Defence.
 
 ---
 
 *Industrialist* (Nemesis)
 
 Some of the wealthiest indidivuals in the city, the success of the industrialists is nevertheless in their frugality, their massive profits not stockpiled like the lords of pastural fairytale but reinvested into an ever-expanding empire of industry at the expense of the health and wellbeing of their workers. Those that aren't themselves destroyed by competition in the city's market, that is. The industrialist's contacts are manifold, and top politicians and powerful crimelords are no doubt among them.
+
+*Combat/Social/General Power Level*: 1/7/1
+
+**Brawn: 2**
+
+**Agility: 2**
+
+**Intellect: 2**
+
+**Cunning: 3**
+
+**Willpower: 3**
+
+**Presence: 5**
+
+*Soak*: 2
+
+*Wound Threshold*: 14
+
+*Strain Threshold: 18
+
+*M/R Defense*: 0/0
+
+*Skills*: Charm 3, Coercion, Cool 2, Leadership 3, Negotiation 5, Vigilance, 1.
+
+*Talents*: 
+* **Adverary 2**: Passive; Upgrade the difficulty of all combat checks targeting this character once per rank of Adversary.
+
+*Abilities*:
+* **Know Your Foe**: Active; Once per round, after an opponent performs an action or maneuver, you may spend one Story Point to have this adversary perform an action or maneuver as an out-of-turn incidental.
+
+Equipment: 
+* **Consealed Knife** Melee (Light); Damage +1; Critical 3.
+* Ornate clothing (adds one Advantage to any social skill checks this character makes).
+* Full coin purse.
 
 ---
 
@@ -1367,6 +1694,8 @@ xx/08/2022 - First draft complete.
 
 * [Bas-Lag Wikipedia Page](https://en.wikipedia.org/wiki/Bas-Lag)
 * [Bas-Lag Wiki](https://baslag.fandom.com/wiki/Bas-Lag_Wiki)
-* [Bas-Lag Gazeteer (D&D 3.5 Edition Adaptation, Dragon Magazine)](https://drive.google.com/file/d/1YZnGwajh67k9voX4CX7RkKe8ZxEa0LpJ/view?usp=sharing)
-* [The Bas-Lag Gazeteer (Adapted and Expanded by Byrce Jones](https://forums.giantitp.com/showthread.php?496536-Setting-153pgs-Bas-Lag-Gazetteer-China-Meiville-s-New-Crobuzon-Perdido-Street&p=21068791)
-* [Blades of New Crobuzon (Blades in the Dark Adaptation](https://drive.google.com/file/d/0B_sURh-eDnchdTk3SU9rSUdnRVE/view?resourcekey=0-NNR7_hz4WBmec9kONv7j-Q)
+* [Bas-Lag Gazeteer (D&D 3.5 Edition adaptation, Dragon Magazine)](https://drive.google.com/file/d/1YZnGwajh67k9voX4CX7RkKe8ZxEa0LpJ/view?usp=sharing)
+* [The Bas-Lag Gazeteer (adapted and expanded by Byrce Jones)](https://forums.giantitp.com/showthread.php?496536-Setting-153pgs-Bas-Lag-Gazetteer-China-Meiville-s-New-Crobuzon-Perdido-Street&p=21068791)
+* [Blades of New Crobuzon (Blades in the Dark adaptation)](https://drive.google.com/file/d/0B_sURh-eDnchdTk3SU9rSUdnRVE/view?resourcekey=0-NNR7_hz4WBmec9kONv7j-Q)
+* [Perdido Street Station: The Unoriginal Soundtrack](https://open.spotify.com/playlist/51CjGz5jFIvlJbX0e4Zruw?si=79e372f0df4c4194)
+* [New Crobuzon mood playlist](https://open.spotify.com/playlist/0lzfGwzSmeuymEjOTswnAK?si=b6e391b5fc2144fd)
