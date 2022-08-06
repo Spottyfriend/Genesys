@@ -1506,7 +1506,7 @@ Parliament is full of politicians and civil servants, all craving power and a fe
 
 *Wound Threshold*: 14
 
-*Strain Threshold: 13
+*Strain Threshold*: 13
 
 *M/R Defense*: 1/0
 
@@ -1624,7 +1624,7 @@ As black market empires vye for supremacy in all the many localities of the city
 
 *Wound Threshold*: 15
 
-*Strain Threshold: 25
+*Strain Threshold*: 25
 
 *M/R Defense*: 2/2
 
@@ -1665,7 +1665,7 @@ Some of the wealthiest indidivuals in the city, the success of the industrialist
 
 *Wound Threshold*: 14
 
-*Strain Threshold: 18
+*Strain Threshold*: 18
 
 *M/R Defense*: 0/0
 
