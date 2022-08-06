@@ -1367,6 +1367,6 @@ xx/08/2022 - First draft complete.
 
 * [Bas-Lag Wikipedia Page](https://en.wikipedia.org/wiki/Bas-Lag)
 * [Bas-Lag Wiki](https://baslag.fandom.com/wiki/Bas-Lag_Wiki)
-* [The Bas-Lag Gazeteer](https://forums.giantitp.com/showthread.php?496536-Setting-153pgs-Bas-Lag-Gazetteer-China-Meiville-s-New-Crobuzon-Perdido-Street&p=21068791)
-* [Bas-Lag Gazeteer (Dragon Magazine)](https://drive.google.com/file/d/1YZnGwajh67k9voX4CX7RkKe8ZxEa0LpJ/view?usp=sharing)
-* [Blades of New Crobuzon](https://drive.google.com/file/d/0B_sURh-eDnchdTk3SU9rSUdnRVE/view?resourcekey=0-NNR7_hz4WBmec9kONv7j-Q)
+* [Bas-Lag Gazeteer (D&D 3.5 Edition Adaptation, Dragon Magazine)](https://drive.google.com/file/d/1YZnGwajh67k9voX4CX7RkKe8ZxEa0LpJ/view?usp=sharing)
+* [The Bas-Lag Gazeteer (Adapted and Expanded by Byrce Jones](https://forums.giantitp.com/showthread.php?496536-Setting-153pgs-Bas-Lag-Gazetteer-China-Meiville-s-New-Crobuzon-Perdido-Street&p=21068791)
+* [Blades of New Crobuzon (Blades in the Dark Adaptation](https://drive.google.com/file/d/0B_sURh-eDnchdTk3SU9rSUdnRVE/view?resourcekey=0-NNR7_hz4WBmec9kONv7j-Q)
