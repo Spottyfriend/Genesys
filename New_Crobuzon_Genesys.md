@@ -1517,7 +1517,7 @@ Parliament is full of politicians and civil servants, all craving power and a fe
 * **Improved Scathing Tirade**: Active (Action); Your character may use this talent to make an Average Coercion check. For each Success the check generates, one enemy within short range suffers 1 strain. For each Advantage, one enemy affected by Scathing Tirade suffers 1 additional strain. Enemies affected by your character’s Scathing Tirade add Setback dice to all skill checks they make for a number of rounds equal to your character’s ranks in Coercion.
 
 *Abilities*: 
-* **Ominous Reputation**
+* **Ominous Reputation**: When an opponent targets this adversary with a check, the opponent suffers 2 strain.
 
 Equipment: 
 * **Ceremonial Dueling Sword** (Melee (Light); Damage +2; Critical 3; Range (Engaged); Defensive 1.
