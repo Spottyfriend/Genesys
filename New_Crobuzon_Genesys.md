@@ -152,11 +152,11 @@ While every rich district flaunts its wealth in its own special way, poor distri
 
 **Badside**: Hovels and slum houses crowd Badside - rotting brick-mulch sinks down into the earth. There was once an attempt to replicate the Kelltree docks in Badside, but all that remains now is three massive stinking troughs of malarial slime, their surfaces broken with half-sunk wrecks and twisted girders.
 
-**Bonetown**: Named after the Ribs that arch over it so prominently, Bonetown is a shabby place where little good lives. A syncretic mesh of industrialism and cross-bred architecture, urban scrubland, shantytowns, and abandoned docklands line the river shore littered with thick-stemmed weeds. Unbenownst to most, the crimelord Mr Motley keeps his base of operations in Bonetown. The district is joined to Brock Marsh by Danechi's Bridge over the Canker.
+**Bonetown**: Named after the Ribs that arch over it so prominently, Bonetown is a shabby place where little good lives. A syncretic mesh of industrialism and cross-bred architecture, urban scrubland, shantytowns, and abandoned docklands line the river shore littered with thick-stemmed weeds. Unbeknownst to most, the crimelord Mr Motley keeps his base of operations in Bonetown. The district is joined to Brock Marsh by Danechi's Bridge over the Canker.
 
 **Dog Fenn**: A district of markets selling stolen goods, tired sex workers and (its only truly distinguishing feature) the last operating station on its branch of the rail line. The doors to Dog Fenn Station are rusted open and ticket takers rarely show: the station has been abandoned to poverty, but the trains remain inexplicably reliable. 
 
-Dog Fenn is a hotbed of rebellions and illegal pamphleteering. Many believe *Runagate Rampant*, a dissident newspaper, may be printed here. Pamphleteers press papers into the hands of every passerby in many sections of Dog Fenn, and it is a frequent location of cival unrest of the shouting and rock-throwing kind. Rich visit at their peril; poor folk are rarely molested.
+Dog Fenn is a hotbed of rebellions and illegal pamphleteering. Many believe *Runagate Rampant*, a dissident newspaper, may be printed here. Pamphleteers press papers into the hands of every passerby in many sections of Dog Fenn, and it is a frequent location of civil unrest of the shouting and rock-throwing kind. Rich visit at their peril.
 
 By the time the rivers have flowed through New Crobuzon, their confluence - the Gross Tar - is thick with rubbish, sewage and refuse of all kinds. As a result, a few Dog Fenn river-fishers use nets, weirs and evens dredges to eke a living from this flotsam.
 
