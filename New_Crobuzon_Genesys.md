@@ -1364,3 +1364,7 @@ xx/08/2022 - First draft complete.
 ---
 
 ## Other Resources
+
+*[Bas-Lag Wiki](https://baslag.fandom.com/wiki/Bas-Lag_Wiki)
+
+*
