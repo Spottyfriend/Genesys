@@ -43,6 +43,7 @@
   * [Gear](#Gear)
 - [Adversaries](#adversaries)
 - [Changelog](#changelog)
+- [Other Resources](#other-resources)
 
 <!-- tocstop -->
 
@@ -1359,3 +1360,7 @@ Some of the wealthiest indidivuals in the city, the success of the industrialist
 ## Changelog
 
 xx/08/2022 - First draft complete.
+
+---
+
+## Other Resources
