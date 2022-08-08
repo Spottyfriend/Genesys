@@ -1052,13 +1052,13 @@ The Thaumaturge counts the following skills as career skills: Coordination, Disc
 
 ## Skills
 
-The New Crobuzon setting uses a set of all-setting skills, with the exception of its thaumaturgic skills, which diverge from the three magic skills provided in the *Core Rulebook*, and its knowledge skills. With the exception of these latter two, players can refer the *Core Rulebook* on how and when to make skill checks using these skills. It should be noted that the absence of a Computers skill (or similar), which may seem a reasonable inclusion due to the prevalance of constructs in the city, has been left out. This is due to the nature of the city's constructs, which are generally mechanical, and all construct-related checks should use the Mechanics skill, though some constructs are highly complex, and the difficulty rating should reflect this if a PC is attempting to alter or repair one.
+The New Crobuzon setting uses a set of all-setting skills that come from the *Genesys Core Rulebook*, with the exception of its thaumaturgic skills and its knowledge skills. With the exception of these latter two, players can refer the *Core Rulebook* on how and when to make skill checks using these skills. It should be noted that the absence of a Computers skill (or similar), which may seem a reasonable inclusion due to the prevalance of constructs in the city, has been left out. This is due to the nature of the city's constructs, which are generally mechanical, and all construct-related checks should use the Mechanics skill, though some constructs are highly complex, and the difficulty rating should reflect this if a PC is attempting to alter or repair one.
 
 ---
 
 ### General Skills
 
-The New Crobuzon setting uses the following general skills: Athletics, Cool, Coordination, Discipline, Driving, Mechanics, Medicine, Operating, Percpetion, Resilience, Skullduggery, Stealth, Streetwise, Survival and Vigiliance.
+The New Crobuzon setting uses the following general skills: Athletics, Cool, Coordination, Discipline, Driving, Mechanics, Medicine, Operating, Perception, Resilience, Riding, Skullduggery, Stealth, Streetwise, Survival and Vigiliance.
 
 ---
 
@@ -1086,7 +1086,7 @@ The City and World knowledge skills refer to knowledge of place, one often gaine
 
 While anyone can learn a simple hex or two, real thaumaturgy requires training. What kind of training the thaumaturge receives - in what way they learns and practise their craft - makes all the difference when it comes to the nature of their abilities. A militia-desserter, once a captain-thaumaturge, able to shoot bolts of glowing unlight from his fingers to strike down enemies of the state, will possess an alltogether different skillset to a chromathaumurge tradesperson, crafting and selling beautiful, glowing baubles at Aspic Bazaar. This is not to say that the latter could not move their hands in such a way to blind a man for life, or that the former could not create a strange shifting, crackling trinket which might sell just as well in Aspic Bazaar, but that the skills of the two thaumaturges are bascially different. One has learnt in the workshop, the other in the barracks. The following skills represent that difference, whilst also representing the basic, shared ability of thaumaturges to attack, to augment objects to and to protect themselves using their craft, though in a million varied ways.
 
-When investing points into any thaumaturgic skill, a player should have in mind what specific discipline of thaumaturgy their character is narratively proficient in. Did they take a class in introductory biothaumaturgy before their expulsion from New Crobuzon University? Or did they learn a little somaturgy from a golemist street performer? Whilst this will not make specific mechanical gameplay differences, since the thaumaturgic abilities available to PCs are defined by what skills they have invested in, both GMs and PCs should have an understanding of the flavour of these abilities. For example, a biothaumaturge scholar with one point invested in the Thaumaturgy (Intellectual) skill will attack a combatant in a very different way to an amateur scientist and meteoromance with one point in the same skill. Though the two will roll the same dice to make an attack, the flavour of such an attack might be very different - the former, perhaps, plunging his hands through the skin of the enemy in an attempt to rearrange their organs, the latter displacing the air around an adversary's mouth and nose to prevent them from breathing. For a description of the various disciplines of thaumaturgy, see the [thaumaturgy](thaumaturgy) section within the setting chapter of this guide.
+When investing points into any thaumaturgic skill, a player should have in mind what specific discipline of thaumaturgy their character is narratively proficient in. Did they take a class in introductory biothaumaturgy before their expulsion from New Crobuzon University? Or did they learn a little somaturgy from a golemist street performer? Whilst this will not make specific mechanical gameplay differences, since the thaumaturgic abilities available to PCs are defined by what skills they have invested in, both GMs and players should have an understanding of the flavour of these abilities. For example, a biothaumaturge scholar with one point invested in the Thaumaturgy (Intellectual) skill will attack a combatant in a very different way to an amateur scientist and meteoromance with one point in the same skill. Though the two will roll the same dice to make an attack, the flavour of such an attack might be very different - the former, perhaps, plunging his hands through the skin of the enemy in an attempt to rearrange their organs, the latter displacing the air around an adversary's mouth and nose to prevent them from breathing. For a description of the various disciplines of thaumaturgy, see the [thaumaturgy](thaumaturgy) section within the setting chapter of this guide.
 
 Due to the necessary aspect of specialisation when learning thaumaturgy, **no PC can have skill points in more than *one* thaumaturgic skill** unless agreed with the GM for story reasons (i.e. the PC goes through particular training over the course of the campaign).
 
@@ -1108,7 +1108,7 @@ A PC with at least one point in this skill gains access to the following spells:
 
 #### Intellectual (Intellect)
 
-Charged thaumaturgeons are a strange phenomenon. They can unleash destruction, and they can heal; they can be bent to the will of an individual who can focus her mind and channel that focus into changing reality. All this is to say that, to a scholar, thaumaturgy is an excellent subject of study. But it is not only the scholars of New Crobuzon University who take thaumaturgy to be an intellectual endeavour however, though its lecture halls and libraries are filled with students who take precisely this approach. Many of Parliament's thaumaturges, or at least those not part of the militia, take a more abstract, rational view - designing and testing engines and weapons for New Crobuzon's navy and militia. Outside of the city's more official institutions, the Scientific Quarter of Brock Marsh houses many scientist-thaumaturges and thaumaturge-scientists, experimenting with untested thaumaturgic methods and exploring theories of weird phenomena, all of whom take the use and study of thaumaturgy as a careful intellectual pursuit.
+Charged thaumaturgons are a strange phenomenon. They can unleash destruction, and they can heal; they can be bent to the will of an individual who can focus her mind and channel that focus into changing reality. All this is to say that, to a scholar, thaumaturgy is an excellent subject of study. But it is not only the scholars of New Crobuzon University who take thaumaturgy to be an intellectual endeavour however, though its lecture halls and libraries are filled with students who take precisely this approach. Many of Parliament's thaumaturges, or at least those not part of the militia, take a more abstract, rational view - designing and testing engines and weapons for New Crobuzon's navy and militia. Outside of the city's more official institutions, the Scientific Quarter of Brock Marsh houses many scientist-thaumaturges and thaumaturge-scientists, experimenting with untested thaumaturgic methods and exploring theories of weird phenomena, all of whom take the use and study of thaumaturgy as a careful intellectual pursuit.
 
 The **Intellectual thaumaturgic skill uses the Intellect characteristic**, reflecting the rigourous study and formal training that this kind of individual has completed to learn their art.
 
@@ -1182,7 +1182,7 @@ Below are some weapons that may benefit from further descrption.
 
 The flintlock is the ubiquitous weapon of New Crobuzon. Be it the rare uniformed officer with his rifle, or the rich citizen waving a pistol from his window at a would-be burgular; the crime boss' lackey, or the vodyanoi whose return journey from the docks takes him everday through dangerous Sheck streets - a flinklock is never far from reach. They are mostly inaccurate weapons, and require regular refilling of black powder, generally carried in a powder horn or case. However, should the small metal ball connect with its fleshy target, it can easily be deadly.
 
-A much rarer type than the simple pistol or rifle flintlocks is the target-rifle. Reserved only for the highly trained militia and other aggressive state actors who require a more precise method of death, the target-rifle is built for accuracy and lethality. Though the technology of the weapon is, in many ways, the same powder-based design of the ordinary flintlock, it is a difficult to aquire weaopn, even for the well-connected criminal.
+A much rarer type than the simple pistol or rifle flintlocks is the target-rifle. Reserved only for the highly trained militia and other aggressive state actors who require a more precise method of death, the target-rifle is built for accuracy and lethality. Though the technology of the weapon is, in many ways, the same powder-based design of the ordinary flintlock, it is a difficult to aquire weapon, even for the well-connected criminal.
 
 ---
 
@@ -1196,7 +1196,7 @@ Should the militia require the heavier touch - the putting-down of a strike, or 
 
 As in industry, chymistry and art, thaumaturgy can be used to augment and enhance weaponry, lending whatever knife, pistol or bomb certain otherwise inexplicable capacities. Whisper soft words to your gun and it will cough out globules of too-large bullet metal, sticking to and burning through its target rather than leaving the usual bullet hole; your sword spits crackling thaumaturgic unlight as it cuts through flesh like a serrated elytric saw. A thaumaturge is needed for such enhancements of course, whether the weapon's user is the augmenter, or whether she has been lucky enough to find such a one in the Scientific Quarter of Brock Marsh.
 
-Refer to the above section on Talents to see how a player character may create a pussiant weapon. Otherwise, GM's should take care when introducing a vendor capable of producing such a weapon as part of a story beat; particularly the 'greater' variety, which can be very powerful.
+Refer to the above section on [Talents](https://github.com/Spottyfriend/Genesys/blob/master/New_Crobuzon_Genesys.md#talents) to see how a player character may create a pussiant weapon. Otherwise, GM's should take care when introducing a vendor capable of producing such a weapon as part of a story beat; particularly the 'greater' variety, which can be very powerful.
 
 ---
 
@@ -1293,7 +1293,7 @@ On the very much lighter end, quinner is a simple downer, sometimes found laced 
 
 In New Crobuzon, anyone is a potentional enemy, but the status of some groups is far more well known; namely the feared enforcers of the state - the militia - and the lackeys of the crimelords - the gang members and gunmen. Not forgeting the roving bands of Three Quillers, with whom any average xenian will be familiar.
 
-GM's should feel free to reskin any number of adversaries present in official Genesys rulebooks. Of particular use may be the Sample Adversaries section of the Expanded Player's Guide (p.86). However, below are some adveraries that PC's may encounter more often, and therefore may benefit from description (mechanical and setting-focussed).
+GM's should feel free to reskin any number of adversaries present in official *Genesys* rulebooks. Of particular use may be the Sample Adversaries section of the *Expanded Player's Guide* (p.86). However, below are some adveraries that PC's may encounter more often, and therefore may benefit from description (mechanical and setting-focussed).
 
 ---
 
@@ -1335,7 +1335,7 @@ Equipment:
 
 *Armoured Militiaman* (Rival)
 
-When direct violence is necessary to protect the interests of the state and ts security, the unsubtle touch of the armoured militiaman is often required. Here the soldiering and riot-policing role of the militia overcomes its intelligence gathering and secret-policing elements.
+When direct violence is necessary to protect the interests of the state and its security, the unsubtle touch of the armoured militiaman is often required. Here the soldiering and riot-policing role of the militia overcomes its intelligence gathering and secret-policing elements.
 
 *Combat/Social/General Power Level*: 5/2/0
 
@@ -1365,7 +1365,7 @@ When direct violence is necessary to protect the interests of the state and ts s
 
 Equipment: 
 * **Flinklock Pistol**: Ranged; Damage 8; Critical 2; Range (Medium); Inaccurate 1; Vicious 2; Prepare 2.
-* **Iron riot Shield**: Melee (Light); Damage +2; Critical 5; Range (Engaged); Cumbersome 2; Defensive 2; Deflection 3; Inaccurate 2; Knockdown; Reinforced.
+* **Iron Riot Shield**: Melee (Light); Damage +2; Critical 5; Range (Engaged); Cumbersome 2; Defensive 2; Deflection 3; Inaccurate 2; Knockdown; Reinforced.
 * Reinforced milita armour: +1 soak, +1 defence
 
 ---
@@ -1400,7 +1400,8 @@ The assault trooper is a strange figure. Though a militiman, it looks more const
 * **Adversary 1**: Passive; Upgrade the difficulty of all combat checks targeting this character once per rank of Adversary.
 * **Indomitable**: Active (Incidental, Out of Turn); Once per encounter, when your character would be incapacitated due to exceeding their wound or strain threshold, you may spend a Story Point to use this talent. Then, your character is not incapacitated until the end of their next turn. If your character reduces their strain or wounds to below their threshold before the end of their next turn, they are not incapacitated.
 
-*Abilities*: Silhoutte 2
+*Abilities*: 
+* **Silhoutte 2**
 
 Equipment: 
 * **Blunderbuss**: Ranged; Damage 8; Critical 3; Blast 5; Knockdown; Limited Ammo 1; Vicious 2.
@@ -1437,7 +1438,7 @@ The captain-thaumaturge is one of the miltia's most useful and deadly threats, w
 *Skills*: Coercion 2, Discipline 2, Knowledge (Science) 4, Thaumaturgy (Martial) 4
 
 *Talents*:
-* **Hidden Techniques**: Passive; When this character casts a spell, the first Range effect they add doesn't increase the difficulty. In addition, attack spells cast by this character increase their base damage by four). 
+* **Hidden Techniques**: Passive; When this character casts a spell, the first Range effect they add doesn't increase the difficulty. In addition, attack spells cast by this character increase their base damage by four. 
 
 *Abilities*: None
 
@@ -1477,7 +1478,8 @@ The militia's intelligence officers are experts in blackmail, extortion and brib
 * **Clever Retort**: Active (Incidental, Out of Turn); Once per encounter, your character may use this talent to add two automatic Threat to another character’s social skill check.
 * **Improved Scathing Tirade**: Active (Action); Your character may use this talent to make an Average Coercion check. For each Success the check generates, one enemy within short range suffers 1 strain. For each Advantage, one enemy affected by Scathing Tirade suffers 1 additional strain. Enemies affected by your character’s Scathing Tirade add Setback dice to all skill checks they make for a number of rounds equal to your character’s ranks in Coercion.
 
-*Abilities*: One Step Ahead.
+*Abilities*: 
+* **One Step Ahead**: Once per round, after an opponent performs an action or maneuver, you may spend one Story Point to have this adversary perform an action or maneuver as an out-of-turn incidental.
 
 Equipment: 
 * **Concealable Flintlock**: Ranged; Damage 5; Critical 3; Range (Medium).
@@ -1606,7 +1608,7 @@ Equipment:
 
 *Crimeboss* (Nemesis)
 
-As black market empires vye for supremacy in all the many localities of the city, the crimeboss sits at the head of the empire and oversees operations. The most notable bosses weilding power not dissimilar to that of a minor cabinet minister: they command a small army in lackeys and possess reasonable stockpiles of weapons, technology and wealth. In some cases, their territory is under near complete control, the local militia, businesses and press all in cosy relations with the the boss and his associates. Should you cross a crimeboss, it can feel as if half the very city itself has turned against you.
+As black market empires vye for supremacy in all the many localities of the city, the crimeboss sits at the head of the empire and oversees operations. The most notable bosses weild power not dissimilar to that of a minor cabinet minister: they command a small army in lackeys and possess reasonable stockpiles of weapons, technology and wealth. In some cases, their territory is under near complete control, the local militia, businesses and press all in cosy relations with the the boss and his associates. Should you cross a crimeboss, it can feel as if half the very city itself has turned against you.
 
 *Combat/Social/General Power Level*: 8/6/5
 
@@ -1636,7 +1638,7 @@ As black market empires vye for supremacy in all the many localities of the city
 * **Adverary 2**: Passive; Upgrade the difficulty of all combat checks targeting this character once per rank of Adversary.
 
 *Abilities*:
-* **Loyal Followers**: Active; Once per round when this adversary is targeted by a combat check, they may choose one ally within short range, and the attack then targets the ally instead of this adversary.
+* **Loyal Followers**: Once per round when this adversary is targeted by a combat check, they may choose one ally within short range, and the attack then targets the ally instead of this adversary.
 
 Equipment: 
 * **Spiked Brass Knuckles**: Brawl; Damage +2; Critical 3; Range (Engaged); Pierce 2.
@@ -1677,7 +1679,7 @@ Some of the wealthiest indidivuals in the city, the success of the industrialist
 * **Adverary 2**: Passive; Upgrade the difficulty of all combat checks targeting this character once per rank of Adversary.
 
 *Abilities*:
-* **Know Your Foe**: Active; Once per round, after an opponent performs an action or maneuver, you may spend one Story Point to have this adversary perform an action or maneuver as an out-of-turn incidental.
+* **Know Your Foe**: If this adversary knows an opponent's (pick one facet) Motivation, when this adversary inflicts strain on the opponent, the opponent suffers 3 additional strain.
 
 Equipment: 
 * **Consealed Knife** Melee (Light); Damage +1; Critical 3.
