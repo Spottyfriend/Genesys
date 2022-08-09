@@ -636,19 +636,19 @@ The practiser of subvocalurgy is what is known as a whispersmith, or susurrator.
 
 The world of Bas-Lag is immense, and no one individual has, or perhaps can have, a complete understanding of its vast geographies. The city of New Crobuzon sits close to the east coast of the continent of Rohagi, but is by no means its capital, nor does it reflect the culture of the continent's peoples, which are unimaginably diverse. The Ragamoll-speaking humans of New Crobuzon can hardly be compared to the grindylow of the Cold Claw Sea - indeed, whether the latter's model of consciousness can even be considered related to the former's is still an open question. Trade does nevertheless take place between the nations and cities of Rohagi. Ships have even been sent to, and received from, the east across the Meagre Sea - the continent of Bered Kai Nev and the Crobuzoner colony of Nova Esperium.
 
-Whilst this guide is intended for adventures in and around the city of New Crobuzon, players and GMs will certainly benefit from knowledge of the broader world. New Crobuzon is a hub of so many culutres, and a stop for so many merchant ships and travellers, a vistor from as far away as Khadoh, or the Witchocracy, or even High Cromlech, whilst rare, may nevertheless be found. More intrepid GMs may even wish to take their players further afield than the city - to gain some hidden knowledge from the last anophelii settlement - south of Gnurr Kett, or hunt the great floating city of Armada. Such players should take care.
+Whilst this guide is intended for adventures in and around the city of New Crobuzon, players and GMs will certainly benefit from knowledge of the broader world. New Crobuzon is a hub of so many cultures, and a stop for so many merchant ships and travellers, a visitor from as far away as Khadoh, or the Witchocracy, or even High Cromlech, whilst rare, may nevertheless be found. More intrepid GMs may even wish to take their players further afield than the city - to gain some hidden knowledge from the last anophelii settlement - south of Gnurr Kett, or hunt the great floating city of Armada. Such players should take care.
 
 ---
 
-*Amarda*
+*Armada*
 
-The huge floating city-state of Armada has sailed the Swollen Ocean for between one- and three-thousand years. A city of pirates and press-ganged citizens of a hundred different cultures and races, Amarda's population today numbers some hundred-thousand, all residing on the vast number of ships stolen and lashed together that make up the city. Though it only spans a mile wide, Amarda's streets are as countless as those in New Crobuzon, owing its layers upon layers of decks. Armada thrives on piracy and, through this method, has added great wealth to itself over the centuries. Despite this however, the city has remained a close-to-total secret, since any ship intercepted by Armadan forces is assimilated into the city, and its crew and passengers are press-ganged into citizenship for life: lucky for those criminals and Remade shipped to Nova Esperium as slave-labour - treated with dignity on the floating city; less lucky for the rich colonalist businessman.
+The huge floating city-state of Armada has sailed the Swollen Ocean for between one- and three-thousand years. A city of pirates and press-ganged citizens of a hundred different cultures and races, Armada's population today numbers some hundred-thousand, all residing on the vast number of ships stolen and lashed together that make up the city. Though it only spans a mile wide, Armada's streets are as countless as those in New Crobuzon, owing its layers upon layers of decks. Armada thrives on piracy and, through this method, has added great wealth to itself over the centuries. Despite this however, the city has remained a close-to-total secret, since any ship intercepted by Armadan forces is assimilated into the city, and its crew and passengers are press-ganged into citizenship for life: lucky for those criminals and Remade shipped to Nova Esperium as slave-labour - treated with dignity on the floating city; less lucky for the rich colonialist businessman.
 
 ---
 
 *The Anophelii Island, Gnurr Kett and Kohnid*
 
-On a tiny island some two-hundred miles south of the island nation of Gnurr Kett, there remains the last surviving society of anophelii. Some two-thousand years ago, the mosquito-people maintained a vast empire that spanned huge swaths of Rohagi, Shoteka and many of their surrounding islands, and though the Malarial Queendom is all but forgotten amongst the anophelii themselves, the authorities of the once-subjugated nations remember all too well. Over the many hundreds of years since, a long-standing agreement has formed between the sailors of Dreer Samher and the Gnurr Kett authorities in their capital city of Kohnid. The Samheri cactacae, their sap-based circulatory systems shielding them from the she-anophelii's blood-hunger, come to the island with livestock and a few trade goods, and take their cut as middlemen. Kohnid buys from them whatever the anophelii give, but, what they seeks primarily, is the intelligence of the he-anopheli philosophers. Kohnid is playing a game, keeping the brilliant anophelii males as pet thinkers; giving them nothing that might make them powerful, or let them escape - Kohnid cannot not risk unleashing a single she-anophelus on the world again - but just enough to think with. The Kettai must not allow anophelii access to any information outside of its control, but the centuries-long maintenance of the obscure High Kettai as the island’s only written language ensures that. This way, anophelii science and philosophy are in the hands of the Kohnid elite, who are almost alone in being able to read the old language. Kohnid's university libraries are filled with the fruits of anophelii intellectual labour, all creditted to Kettai scholars.
+On a tiny island some two-hundred miles south of the island nation of Gnurr Kett, there remains the last surviving society of anophelii. Some two-thousand years ago, the mosquito-people maintained a vast empire that spanned huge swaths of Rohagi, Shoteka and many of their surrounding islands, and though the Malarial Queendom is all but forgotten amongst the anophelii themselves, the authorities of the once-subjugated nations remember all too well. Over the many hundreds of years since, a long-standing agreement has formed between the sailors of Dreer Samher and the Gnurr Kett authorities in their capital city of Kohnid. The Samheri cactacae, their sap-based circulatory systems shielding them from the she-anophelii's blood-hunger, come to the island with livestock and a few trade goods, and take their cut as middlemen. Kohnid buys from them whatever the anophelii give, but, what they seek primarily, is the intelligence of the he-anophelii philosophers. Kohnid is playing a game, keeping the brilliant anophelii males as pet thinkers; giving them nothing that might make them powerful, or let them escape (Kohnid cannot risk unleashing a single she-anophelus on the world again) but just enough to think with. The Gnurr Kett authorities must not allow anophelii access to any information outside of its control, but the centuries-long maintenance of the obscure High Kettai as the island’s only written language ensures that. This way, anophelii science and philosophy are in the hands of the Kohnid elite, who are almost alone in being able to read the old language. Kohnid's university libraries are filled with the fruits of anophelii intellectual labour, all credited to Kettai scholars.
 
 ---
 
@@ -660,7 +660,7 @@ It has been some six-and-a-half centuries since the New Crobuzon explorer Seemly
 
 *Cacotopic Stain*
 
-The Cacotopic Stain is perhaps unlike anywhere else on the continent of Rohagi. Weird, horrific energies known as the Torque create a shifting, distorting landscape; any life that finds its home there is similarly distorted and warped; and no living being can enter and leave precisely the same. The Torque-wounded suffer monstrous effects - tenticles sprouting from the eyes, or holes appearing in the body, one after another, without blood or pain, until nothing remains. The Torquic rift appeared some five-hundred years ago, and it shows no sign of disipating. Travellers should avoid at all costs.
+The Cacotopic Stain is perhaps unlike anywhere else on the continent of Rohagi. Weird, horrific energies known as the Torque create a shifting, distorting landscape, and any life that finds its home there is similarly distorted and warped. No living being can enter and leave precisely the same. The Torque-wounded suffer monstrous effects - tentacles sprouting from the eyes, or holes appearing in the body, one after another, without blood or pain, until nothing remains. The Torquic rift appeared some five-hundred years ago, and it shows no sign of dissipating. Travellers should avoid at all costs.
 
 ---
 
@@ -672,19 +672,19 @@ Set in the vast plains to the south-east, Cobsea is New Crobuzon's smaller neigh
 
 *The Cymek, Dreer Samher and Shankell*
 
-The Cymek, Rohagi's vast southern peninsula, is a harsh place, known for its dry, punishing heat. There is, nevertheless, civilisation to be found. Nomadic tribes of egilitarian garuda move about the skies, seeking food and water; the cactacae of the great northern city of Shankell fill the seats of its gladiatorial fleshpits and hookwire cages; and, in the south, the fablers of the proud pirate-merchant city Dreer Samher make the gathered crowds drunk on their hypnogogic voices, telling and retelling the stories of old wars and lost loves. But the Cymek is most famous amongst scholars and theologists for its huge libary, which is carried on the backs of a nomadic garuda clan. The Cymek Library is considered one of the largest and most comprehensive in Rohagi.
+The Cymek, Rohagi's vast southern peninsula, is a harsh place, known for its dry, punishing heat. There is, nevertheless, civilisation to be found. Nomadic tribes of egalitarian garuda move about the skies, seeking food and water; the cactacae of the great northern city of Shankell fill the seats of its gladiatorial fleshpits and hookwire cages; and, in the south, the fablers of the proud pirate-merchant city Dreer Samher make the gathered crowds drunk on their hypnogogic voices, telling and retelling the stories of old wars and lost loves. But the Cymek is most famous amongst scholars and theologists for its huge library, which is carried on the backs of a nomadic garuda clan. The Cymek Library is considered one of the largest and most comprehensive in Rohagi.
 
 ---
 
 *High Cromlech*
 
-To the citizens of New Crobuzon, the city of High Cromlech is virtually mythical; as more senior state officials well know, however, the city of the abdead is as real as New Crobuzon itself. A near-impossible journey away, the few successful travellers will find a city in an all-encompassing quiet. The mindless zombies that make up the majority of the workforce in the city are near-silent, and the blood-addict vampir are creatures of few words. The thanati proper, the aristocracy, are abdead liches with beautiful clothes and skin like preserved leather; their mouths are sewn shut. The noise in the city comes from a small number of living humans - the quick. A minority of low status, the quick are mostly farm-bred and kept in cages until they are strong enough to be processed into zombies, or raised by the aristocracy until they come of age, then to be slain and welcomed into dead society. Then there is Liveside, the quick ghetto, where the living carry out the more intricate labour that zombies cannot perform and the taboo professions that the thaniti distain. On a rare occaison, a higher-class quick - a liveman or livewife - will earn enough to have themselves put down and join the ranks of the abdead aristocracy. Liveman becomes deadman.
+To the citizens of New Crobuzon, the city of High Cromlech is virtually mythical; as more senior state officials well know, however, the city of the abdead is as real as New Crobuzon itself. A near-impossible journey away, the few successful travellers will find a city in an all-encompassing quiet. The mindless zombies that make up the majority of the workforce in the city are near-silent, and the blood-addict vampir are creatures of few words. The thanati proper, the aristocracy, are abdead liches with beautiful clothes and skin like preserved leather; their mouths are sewn shut. The noise in the city comes from a small number of living humans - the quick. A minority of low status, the quick are mostly farm-bred and kept in cages until they are strong enough to be processed into zombies, or raised by the aristocracy until they come of age, then to be slain and welcomed into dead society. Then there is Liveside, the quick ghetto, where the living carry out the more intricate labour that zombies cannot perform and the taboo professions that the thanati disdain. On a rare occasion, a higher-class quick - a liveman or livewife - will earn enough to have themselves put down and join the ranks of the abdead aristocracy. Liveman becomes deadman.
 
 ---
 
 *Maru'ahm*
 
-The city of Maru'ahm is known, if it is known at all by Crobuzoners, for one thing - gambling. Gambling in Maru'ahm is not simply a popular means of entertainment; it is the basis of society. Legislation is not made, in the senate chamber or court room, but won at the card table; life and death, servitude and freedom, are all decided in games of grandbridge, black sevens, and quincehand.
+The city of Maru'ahm is known, if it is known at all by Crobuzoners, for one thing - gambling. Gambling in Maru'ahm is not simply a popular means of entertainment; it is the basis of society. Legislation is not made, in the senate chamber or courtroom, but won at the card table; life and death, servitude and freedom, are all decided in games of grandbridge, black sevens, and quincehand.
 
 ---
 
@@ -692,29 +692,29 @@ The city of Maru'ahm is known, if it is known at all by Crobuzoners, for one thi
 
 With the exclusion of Cobsea, Myrshock is New Crobuzon's closest city neighbour. An ugly port, the architecture of Myrshock appears thrown together. Where it is designed, its aesthetic is unsure - churches with cement facades mimicking antique curlicues, banks using slate in uncommon colours, achieving only vulgarity. Like New Crobuzon, Myrshock is home to diverse races. Humans live beside cactacae, and garuda dapple the air as well as the streets; there are vodyanoi in canal ghettos.
 
-Sitting on the north costal edge of the Meagre Sea, visitors from the Cymek will often cross through the port town of Myrshock on their way to New Crobuzon. If the railway, that had once been planned to cross the swamps and link the two cities along with Cobsea, had been sucessful, there might well have been far more visitors from the south in New Crobuzon today, but, as it was, the project was cancelled before it had even began. You may nevertheless see a floating factory from Myrshock stopping in Kelltree docks, or, if your security clearance allows, walk past the Myrshock embassy that resides, alongside most other embassies in the city, on one of the upper floors of Perdido Street Station's Mandragorae Wing.
+Sitting on the north coastal edge of the Meagre Sea, visitors from the Cymek will often cross through the port town of Myrshock on their way to New Crobuzon. If the railway, that had once been planned to cross the swamps and link the two cities along with Cobsea, had been successful, there might well have been far more visitors from the south in New Crobuzon today, but, as it was, the project was cancelled before it had even begun. You may nevertheless see a floating factory from Myrshock stopping in Kelltree docks, or, if your security clearance allows, walk past the Myrshock embassy that resides, alongside most other embassies in the city, on one of the upper floors of Perdido Street Station's Mandragorae Wing.
 
 ---
 
 *Nova Esperium*
 
-Half way across the world, the offical depiction of Nova Esperium is that of a small, bright, glittering city - impressive towers and grain silos, vast beautiful forests surrounding it, filled with unique animals. In truth, on an unmapped continent to the east, New Crobuzon's colony is a little blister of civilization; the lives of its residents are hard and often short. Eager for new citizens, Nova Esperium will ask no questions and even pay skilled labourers to take the dangerous journey across the Meagre Sea. The majority of the colony's workforce, however, have little choice in the matter; they are prisoners, indentured laborers, and Remade. The land's indigenous peoples fair even worse. Colonists rarely return, but ships from Nova Esperium do dock in Iron Bay at least annually.
+Halfway across the world, the official depiction of Nova Esperium is that of a small, bright, glittering city - impressive towers and grain silos, vast beautiful forests surrounding it, filled with unique animals. In truth, on an unmapped continent to the east, New Crobuzon's colony is a little blister of civilization; the lives of its residents are hard and often short. Eager for new citizens, Nova Esperium will ask no questions and even pay skilled labourers to take the dangerous journey across the Meagre Sea. The majority of the colony's workforce, however, has little choice in the matter; they are prisoners, indentured labourers, and Remade. The land's indigenous peoples fair even worse. Colonists rarely return, but ships from Nova Esperium do dock in Iron Bay at least annually.
 
 ---
 
 *Rudewood*
 
-A vast forest just to the south of New Crobuzon, for many, Rudewood is part of city; the wood even has its own derelict train station, now surrended to green life. Adventurous Crobuzoners or bored youths can follow the overgrown tracks for a day of foraging or hunting or fire-lighting. Not that Rudewood is particularly safe for the city-dweller; the forest teams with life - strange predators slip between the great trees after dark, huge bears-like things made up of birds and flies move through the undergrowth.
+A vast forest just to the south of New Crobuzon, for many, Rudewood is part of the city; the wood even has its own derelict train station, now surrendered to green life. Adventurous Crobuzoners or bored youths can follow the overgrown tracks for a day of foraging or hunting or fire-lighting. Not that Rudewood is particularly safe for the city-dweller; the forest teams with life - strange predators slip between the great trees after dark, huge bears-like things made up of birds and flies move through the undergrowth.
 
 ---
 
 *Salkrikaltor*
 
-While its borders are somewhat nebulous, The Cray Commonwealth of Salkrikaltor (or simply - Salkrikaltor) most commonly refers to those waters enclosed by the islands of Gnomon Tor, Bartoll and the Fins, some hundreds of miles east of Iron Bay. Its capital, Salkrikaltor City, is a submerged city. Some towers and rooftops break the surface of the waves; they are rendered in concrete, in iron, rock and glass, and in sweeps of hardy cold-water coral. One can see columns spiraled with walkways, linked by spine-thin bridges; intricate conical spires tens of feet feet high; newer-looking, ovoid mansions carved from stone and ribbed with iron, suspended above the water on struts; and floating platforms topped with terraces of square brick houses - like those of New Crobuzon - perched preposterously in the sea.
+While its borders are somewhat nebulous, The Cray Commonwealth of Salkrikaltor (or simply - Salkrikaltor) most commonly refers to those waters enclosed by the islands of Gnomon Tor, Bartoll and the Fins, some hundreds of miles east of Iron Bay. Its capital, Salkrikaltor City, is a submerged city. Some towers and rooftops break the surface of the waves; they are rendered in concrete, in iron, rock and glass, and in sweeps of hardy cold-water coral. One can see columns spiralled with walkways, linked by spine-thin bridges; intricate conical spires tens of feet high; newer-looking, ovoid mansions carved from stone and ribbed with iron, suspended above the water on struts; and floating platforms topped with terraces of square brick houses - like those of New Crobuzon - perched preposterously in the sea.
 
-The true city, however, lies beneath the waves. A bustling metropolis, Salkrikaltor City is just as much a city as New Crobuzon, from its outer suburbs of low buildings in porous stone and coral, to the monumental architecture at its centre - cathedrals and factories, government buildings and central banks. Many of the buildings, in in traditional Salkrikaltor style, have large windows and doorways, so that small fish can enter and exit unhindered.
+The true city, however, lies beneath the waves. A bustling metropolis, Salkrikaltor City is just as much a city as New Crobuzon, from its outer suburbs of low buildings in porous stone and coral, to the monumental architecture at its centre - cathedrals and factories, government buildings and central banks. Many of the buildings, in traditional Salkrikaltor style, have large windows and doorways, so that small fish can enter and exit unhindered.
 
-With the exception of the small human minority that live above-water, the majority of Salkrikaltor's populous are the cray. Above the torso, they appear similar to humans but for a small ruff of gills on the neck, below it however, they are armoured, and in possession of scuttling, segmented legs as well as a tail. Just as the human resembles the ape, the cray resembles the lobster. The cray of the commonwealth keep good relations with New Crobuzon, and trade occurs regularly.
+With the exception of the small human minority that lives above water, the majority of Salkrikaltor's populous are cray. Above the torso, cray appear similar to humans but for a small ruff of gills on the neck, below it however, they are armoured, and in possession of scuttling, segmented legs as well as a tail. Just as the human resembles the ape, the cray resembles the lobster. The cray of the commonwealth keep good relations with New Crobuzon, and trade occurs regularly.
 
 ---
 
@@ -726,7 +726,7 @@ What little is known about the southern continent of Shoteka arrives at New Crob
 
 *Suroch*
 
-Since the end of the Pirate Wars (or the 'Slow War' or the 'False War'), the once-proud city of Surroch has been in ruins. In 1545, New Crobuzon dropped a colourbomb on Suroch. It was said that this, at long last, was what ended the wars. In truth, there had been no war for over a year, not since New Crobuzon has unleashed the Torque. The final explosive did indeed level much of the city's centre, but it was not an attack, rather, the colourbomb had been an attempt to hide the nightmare created by the bombardment a year's prior. The effect of New Crobuzon's Torque bombs is apparent to anyone who dare enter the city, though no one has done for a hundred years. The landscape shifts; trees, once cockroaches, buckle and snap from the force of Torquic winds only to re-form; molten houses contort, their residents wandering the city in ravenous herds.
+Since the end of the Pirate Wars (or the 'Slow War' or the 'False War'), the once-proud city of Surroch has been in ruins. In 1545, New Crobuzon dropped a colourbomb on Suroch. It was said that this, at long last, was what ended the wars. In truth, there had been no war for over a year, not since New Crobuzon has unleashed the Torque. The final explosive did indeed level much of the city's centre, but it was not an attack, rather, the colourbomb had been an attempt to hide the nightmare created by the bombardment of a year's prior. The effect of New Crobuzon's Torque bombs is apparent to anyone who dare enter the city, though no one has done for a hundred years. The landscape shifts; trees, once cockroaches, buckle and snap from the force of Torquic winds only to re-form; molten houses contort, their residents wandering the city in ravenous herds.
 
 ---
 
@@ -752,27 +752,27 @@ The land of Bas-Lag, its oceans and deserts, forests and cityscapes, is, it seem
 
 The origins of the Ghosthead Empire are confused and inconsistent. The imperial texts that survive are translations of translations, and the weird artefacts of that all-powerful empire that are scattered across Bas-Lag, resist study. The empire is remembered though (and still feared) in varying degrees by all the sapient races, but it is mostly its defeat - the Contumancy and the Sloughing Off after it - that is recalled, if only as myth. Its origins are forgotten, almost totally. The most well-researched scholarly texts, however, found in the Cymek Library or at New Crobuzon University, might say something resembling the following.
 
-Thousands of years ago, on the eastern rim of the universe, there was a world where each morning came with a wall of fire, so hot that it would ignite the air, burn the mountains, and blind anyone who raised their gaze, even from the bottom of the deepest ocean. As the day went, the fire moved across the sky from east to west, and the wall became a disc, a sun, slowly receeding. By noon, the world became cold and, by dusk, the cold was unimaginable. The world became enveloped in layers of ice and frost; the very gases, the very aether piled up in bergs and walls, chilled more solid than stone. By night, the sun was a distant star, but when day broke, the fire returned again. This was the Ghosthead homeworld. When the Ghosthead arrived on Bas-Lag, so temperate by comparison, having travelled through the dark sea of stars in the belly of a great metal fish, this is what they escaped.
+Thousands of years ago, on the eastern rim of the universe, there was a world where each morning came with a wall of fire, so hot that it would ignite the air, burn the mountains, and blind anyone who raised their gaze, even from the bottom of the deepest ocean. As the day went, the fire moved across the sky from east to west, and the wall became a disc, a sun, slowly receding. By noon, the world became cold and, by dusk, the cold was unimaginable. The world became enveloped in layers of ice and frost; the very gases, the very aether piled up in bergs and walls, chilled more solid than stone. By night, the sun was a distant star, but when day broke, the fire returned again. This was the Ghosthead homeworld. When the Ghosthead arrived on Bas-Lag, so temperate by comparison, having travelled through the dark sea of stars in the belly of a great metal fish, this is what they escaped.
 
 ---
 
 *The Fractured Land and The Scar*
 
-More than three-thousand years ago, the Ghosthead came to Bas-Lag. They arrived with such force and violence, that the world split open; reality itself was torn. An impossible journey from Iron Bay, the Scar still exists. More than two-thousand miles across, and with hundreds of miles between its two sides, there is a fissure in the ocean, jagged and weird. In between, is the emptiness - the Scar itself. Energies pour from it; possible realities swirl together and break apart; potentiality and possiblity well up about the lesion; the ocean waters are thick with seams of what might be. In the days of the empire, the Ghosthead's dominance relied on their ability to *mine* that possiblity, tapping the wound that they had created. With this industry, they created circuits and engines and weaponry, shaping reality to their preferred possiblity. With this industry, they ruled Bas-Lag for some five-hundred years.
+More than three-thousand years ago, the Ghosthead came to Bas-Lag. They arrived with such force and violence, that the world split open; reality itself was torn. An impossible journey from Iron Bay, the Scar still exists. More than two-thousand miles across, and with hundreds of miles between its two sides, there is a fissure in the ocean, jagged and weird. In between, is the emptiness - the Scar itself. Energies pour from it; possible realities swirl together and break apart; potentiality and possibility well up about the lesion; the ocean waters are thick with seams of what might be. In the days of the empire, the Ghosthead's dominance relied on their ability to *mine* that possibility, tapping the wound that they had created. With this industry, they created circuits and engines and weaponry, shaping reality to their preferred possibility. With this industry, they ruled Bas-Lag for some five-hundred years.
 
-The Fractured Land Hypothesis, posited by any scientist in New Crobuzon, will be met, by most of their peers, with a derisive snort or patronising smile. The notion of a mythical, nightmarish land, untold thousands of miles away, filled with monsters, where the rules of reality break down, and all caused by some unknown, untheorised force - this, to many academics, is psuedo-science. But when the Ghosthead arrived and broke the world, this is precisely what was thrown up - the Fractured Land, the Broken Country, with its inhabitants of terrible things, a dreadful ecology. Lightfungus. Dreadcurs. Butterflies with unholy appetites. If it does exist, who would dare search for it?
+The Fractured Land Hypothesis, posited by any scientist in New Crobuzon, will be met, by most of their peers, with a derisive snort or patronising smile. The notion of a mythical, nightmarish land, untold thousands of miles away, filled with monsters, where the rules of reality break down, and all caused by some unknown, untheorised force - this, to many academics, is pseudo-science. But when the Ghosthead arrived and broke the world, this is precisely what was thrown up - the Fractured Land, the Broken Country, with its inhabitants of terrible things, a dreadful ecology. Lightfungus. Dreadcurs. Butterflies with unholy appetites. If it does exist, who would dare search for it?
 
 ---
 
 *Hell*
 
-Once shrouded in mystery, only contactable in strange languages and via the sacrifice of live animals, the plane of Hell now maintains an embassy in New Crobuzon, and the state's relations with the Hellkin are friendly. The karcists of New Crobuzon have, today, automated the process of extraplanar innvocation using engines and circuits to create victimless sacrifices and dispense with the need for dæmon linguistics. Not that the process is easy of course - the pressure fronts of the æther, moving powerstorms through the abyss and null-space and into the borderlands, can cause distruptions - but, with the variables accounted for, communication is possible. Communicated with in this fashion, the dæmons of Hell take the shape of ordinary humans, though their normal voices precede a terrible, tormented echo of the same. Some karcists take the view that this echo is, due to some distortion, spoken first, and the *real* echo is therefore the smooth, calm voice that the dæmon presents to its listeners. Whether this implies that the Hellkin are, as they might have you believe, the damned souls of the living, it is unclear.
+Once shrouded in mystery, only contactable in strange languages and via the sacrifice of live animals, the plane of Hell now maintains an embassy in New Crobuzon, and the state's relations with the Hellkin are friendly. The karcists of New Crobuzon have, today, automated the process of extraplanar invocation using engines and circuits to create victimless sacrifices and dispense with the need for dæmon linguistics. Not that the process is easy of course - the pressure fronts of the æther, moving powerstorms through the abyss and null-space and into the borderlands, can cause disruptions - but, with the variables accounted for, communication is possible. Communicated with in this fashion, the dæmons of Hell take the shape of ordinary humans, though their normal voices precede a terrible, tormented echo of the same. Some karcists take the view that this echo is, due to some distortion, spoken first, and the *real* echo is therefore the smooth, calm voice that the dæmon presents to its listeners. Whether this implies that the Hellkin are, as they might have you believe, the damned souls of the living, it is unclear.
 
 ---
 
 *The Worldweb*
 
-One of the more alien creatures of Bas-Lag, the Weaver, is, ostensibly, a great spider. Its bulbous, hanging abdomen is some seven feet long and five wide; its jet black head is the size of a grown human's chest; its constellation of huge, deep red eyes do not blink. Like a spider, it has eight legs, although it often walks on its hindmost four. Of the front two sets, which are somewhat shorter, one set is tipped with long, sharp talons of dark chitin. From the other, its very frontmost set, extent two slender, child-like hands, without nails and pitch black. A Weaver is intelligent, or so it seems. It's model of conciousness, however, is completely alien. It cannot be bought or bargained with. It speaks in an unending rhythm of dream-poetics. A Weaver's only want is to perfect the beauty of the worldweb, which seems, to any typical sapient mind, utterly abitary. The snapping of scissors, the severing of human ears, the moving of chess pieces, the kidnapping of apparently random citizens - these things may appeal to the Weaver's sense of beauty, or they may not. The worldweb is also the Weaver's means of movement. Slipping between this and that, here and there, the Weaver steps lightly over the worldweb, scuttling across metareal filaments connecting every moment to every other. To any normal mind, to witness the worldweb could only cause an overwhelming existential terror.
+One of the more alien creatures of Bas-Lag, the Weaver, is, ostensibly, a great spider. Its bulbous, hanging abdomen is some seven feet long and five wide; its jet black head is the size of a grown human's chest; its constellation of huge, deep red eyes do not blink. Like a spider, it has eight legs, although it often walks on its hindmost four. Of the front two sets, which are somewhat shorter, one set is tipped with long, sharp talons of dark chitin. From the other, its very frontmost set, extent two slender, child-like hands, without nails and pitch black. A Weaver is intelligent, or so it seems. Its model of consciousness, however, is completely alien. It cannot be bought or bargained with. It speaks in an unending rhythm of dream-poetics. A Weaver's only want is to perfect the beauty of the worldweb, which seems, to any typical sapient mind, utterly arbitrary. The snapping of scissors, the severing of human ears, the moving of chess pieces, the kidnapping of apparently random citizens - these things may appeal to the Weaver's sense of beauty, or they may not. The worldweb is also the Weaver's means of movement. Slipping between this and that, here and there, the Weaver steps lightly over the worldweb, scuttling across metareal filaments connecting every moment to every other. To any normal mind, to witness the worldweb could only cause an overwhelming existential terror.
 
 ---
 
@@ -784,7 +784,7 @@ The races and species of Bas-Lag are uncountable in number. Such diversity exist
 
 ### Cactacae
 
-Most commonly found in the settlments of the Cymek, the cactus people - cactacae - are, nevertheless, a relatively common sight in New Crobuzon, making up approximately 2% of the population. Standing between 7 and 8 foot tall, the cactacae are a vegatable race with thick, fiberous green skin (although yellow and browns are sometimes seen). Spines and small flowers protrude from the cactus individual if left unplucked, although many choose to do so. Cactacae heads sit flat on their shoulders, without necks. Their fingers are thick and fairly clumsy, although their grip is power enough to crush bone. An oily sap flows through their veins rather than blood, and their bones are strangely shaped, unlike those of any vertebate. A full-grown cactacae is not just tall but also massive, weighing as much as 500 to 700 pounds. Prefering hotter climates, many of the city's cactacae reside in the semi-autonomous cactus ghetto - the Glasshouse - although many can be found in the neighbouring district of Riverskin.
+Most commonly found in the settlements of the Cymek, the cactus people - cactacae - are, nevertheless, a relatively common sight in New Crobuzon, making up approximately 2% of the population. Standing between 7 and 8 foot tall, the cactacae are a vegetable race with thick, fibrous green skin (although yellow and browns are sometimes seen). Spines and small flowers protrude from the cactus individual if left unplucked, although many choose to do so. Cactacae heads sit flat on their shoulders, without necks. Their fingers are thick and fairly clumsy, although their grip is powerful enough to crush bone. An oily sap flows through their veins rather than blood, and their bones are strangely shaped, unlike those of any vertebrate. A full-grown cactacae is not just tall but also massive, weighing as much as 500 to 700 pounds. Preferring hotter climates, many of the city's cactacae reside in the semi-autonomous cactus ghetto - the Glasshouse - although many can be found in the neighbouring district of Riverskin.
 
 **Brawn: 3**
 
@@ -804,7 +804,7 @@ Most commonly found in the settlments of the Cymek, the cactus people - cactacae
 
 *Starting Experience*: 90
 
-*Starting Skills*: A cactacae gains one rank in Resililence or Coercion.
+*Starting Skills*: A cactacae gains one rank in Resilience or Coercion.
 
 *Large*: A cactacae is silhouette 2.
 
@@ -816,7 +816,7 @@ Most commonly found in the settlments of the Cymek, the cactus people - cactacae
 
 ### Garuda
 
-One of the most uncommon minority races in the city, the New Crobuzon's garuda are mostly confined to abject poverty in Spatters, though the university has seen one or two Garuda students over the last few decades, presumably from less deprived communities. In the Cymek, a garuda lives out a brutal but egalitarian existance as part of a nomadic hunting tribe, organised communistically, with no state, money or private property. A Cymek garuda stands tall - a proud hunter - a swing span of some twelve feet (doubling its height), sharp eyes and sharper claws. A garuda in New Crobuzon is no different, at least physically, but their participation in the wage-slavery and poverty of city make them quite a different individal. The garuada community of Spatters is hierarchical and distrustful, though one can hardly blame them in such a dangerous part of the city.
+One of the most uncommon minority races in the city, the New Crobuzon's garuda are mostly confined to abject poverty in Spatters, though the university has seen one or two Garuda students over the last few decades, presumably from less deprived communities. In the Cymek, a garuda lives out a brutal but egalitarian existence as part of a nomadic hunting tribe, organised communistically, with no state, money or private property. A Cymek garuda stands tall - a proud hunter - a swing span of some twelve feet (doubling its height), sharp eyes and sharper claws. A garuda in New Crobuzon is no different, at least physically, but their participation in the wage-slavery and poverty of the city makes them quite a different individual. The garuda community of Spatters is hierarchical and distrustful, though one can hardly blame them in such a dangerous part of the city.
 
 **Brawn: 2**
 
@@ -840,9 +840,9 @@ One of the most uncommon minority races in the city, the New Crobuzon's garuda a
 
 *Talons*: garuda possess sharp talons. When making an unarmed combat check, a garuda adds +1 to their base damage and have a Critical Rating of 3.
 
-*Flight*: With a wingspan approximately doubling their height, and feathers to lighten their imposing size, a garuda can fly high above the towers of the city. A garuda should therefore ignore otherwise impassable or difficult terrain when flying, and can move from long range to short range using a single maneuvre if they start their flight from a great height or otherwise good conditions. Players may want to consider spending a Story Point to induce such conditions, such as a sudden gust of wind, allowing their garuda a burst of speed.
+*Flight*: With a wingspan approximately doubling their height, and feathers to lighten their imposing size, a garuda can fly high above the towers of the city. A garuda should therefore ignore otherwise impassable or difficult terrain when flying, and can move from long range to short range using a single manoeuvre if they start their flight from a great height or otherwise good conditions. Players may want to consider spending a Story Point to induce such conditions, such as a sudden gust of wind, allowing their garuda a burst of speed.
 
-*A Hunter's Sense*: whilst those garuda living in the city may not use it for the same purpose as those indiviuals from the Cymek, all garuda are nevertheless possessed of senses that go beyond the ordinary - sight and hearing as well as reflexes. Once per session, a garuda may choose to enter a trance - known as yajhu-saak, the hunter's reverie, in the Cymek. Their breathing slows; they become utterly calm, and they may upgrade any one Vigilance or Perception check. Within a structured encouter (i.e. combat), this ability counts as a manoeuvre and lasts for the during of the player's turn. In narrative play, the trance lasts for up to four hours, with the upgraded check being made in this period.
+*A Hunter's Sense*: whilst those garuda living in the city may not use it for the same purpose as those individuals from the Cymek, all garuda are nevertheless possessed of senses that go beyond the ordinary - sight and hearing as well as reflexes. Once per session, a garuda may choose to enter a trance - known as yajhu-saak, the hunter's reverie, in the Cymek. Their breathing slows; they become utterly calm, and they may upgrade any one Vigilance or Perception check. Within a structured encounter (i.e. combat), this ability counts as a manoeuvre and lasts for the during of the player's turn. In narrative play, the trance lasts for up to four hours, with the upgraded check being made in this period.
 
 If the garuda was taught yajhu-saak formally as part of a Cymek tribe, the player may spend an additional 5xp from their starting experience to have this ability heal 3 strain upon its use.
 
@@ -850,7 +850,7 @@ If the garuda was taught yajhu-saak formally as part of a Cymek tribe, the playe
 
 ### Humans
 
-The human is a bipedal creature, resembling an upright, hairless ape. On average, humans are five and a half foot tall approximately, though both height and weight can vary significantly. In New Crobuzon, they are the majority of the population, with approximately 73% of the some three million Crobuzoners being human. As with the other races of New Crobuzon, there is no monolithic 'human culture', but many overlapping cultures and histories refracted through the city's own history. This is especially true for humans, which can be found across the whole continent of Rohagi. A different story might be told by some - perhaps a Quiller or Fat Sun supporter - that the culture of the city and the nation is the culture of humans, a culture which dominates by right. They are wrong, partly - there is nothing natural or Jabber-ordained in the domination of human over xenian - but that domination does exist, in various forms. From the xenian ghettos to the power of the industrialists, almost all human, the xenian is, in many ways, second class.
+The human is a bipedal creature, resembling an upright, hairless ape. On average, humans are five and a half foot tall approximately, though both height and weight can vary significantly. In New Crobuzon, they are the majority of the population, with approximately 73% of the some three million Crobuzoners being human. As with the other races of New Crobuzon, there is no monolithic 'human culture', but many overlapping cultures and histories refracted through the city's own history. This is especially true for humans, which can be found across the whole continent of Rohagi. A different story might be told by some - perhaps a Quiller or Fat Sun supporter - that the culture of the city and the nation is the culture of humans, a culture which dominates by right. They are wrong, partly - there is nothing natural or Jabber-ordained in the domination of human over xenian - but that domination does exist, in various forms. From the xenian ghettos to the power of the industrialists (almost all human), the xenian is, in many ways, second class.
 
 **Brawn: 2**
 
@@ -879,9 +879,9 @@ The human is a bipedal creature, resembling an upright, hairless ape. On average
 
 ### Khepri
 
-There have been khepri in New Crobuzon for some seven-hundred years, ever since the first band of khepri crossed the Swollen Ocean from Bered Kai Nev. The majority of the city's khepri however, came to escape the Ravening. An unknown catastophe, purposefully forgotten by the ancestors of today's khepri, the Ravening drove thousands of khepri on refugee ships to the city - a hundred years ago they crawled, barely afloat, into Iron Bay. Their enormous clockwork motors were rusted and broken, their sails ragged. They were charnel ships, packed with khepri who were only just alive. This influx saw the birth of the khepri ghettos that we see today - Kinken and Creekside. Today, they make up some 8% of New Crobuzon's population.
+There have been khepri in New Crobuzon for some seven-hundred years, ever since the first band of khepri crossed the Swollen Ocean from Bered Kai Nev. The majority of the city's khepri however, came to escape the Ravening. An unknown catastrophe, purposefully forgotten by the ancestors of today's khepri, the Ravening drove thousands of khepri on refugee ships to the city - a hundred years ago they crawled, barely afloat, into Iron Bay. Their enormous clockwork motors were rusted and broken, their sails ragged. They were charnel ships, packed with khepri who were only just alive. This influx saw the birth of the khepri ghettos that we see today - Kinken and Creekside. Today, they make up some 8% of New Crobuzon's population.
 
-Unlike the other races in the city, the sexual dimophism of khepri is absolute. The females are sapient, with a bipedal form. They are strikingly similar to the human woman but for their heads. The female head consists of a 2-foot-long headscarab which resembles an enormous beetle, complete with wiggling legs; fragile, useless wings beneath powerful casings; mandibles; antennae; and compound eyes. Their mouthparts cannot communicate in Ragamoll or any other spoken language, and khepri therefore are forced to communicate with other races via sign language or written notes. Among themselves, the khepri converse by scent and complex chemical gusts which other races can smell and taste, but cannot understand. Male khepri are small, insectile and essentially mindless - 2-foot-long scuttling things unable to do more than feed and reproduce which, for female khepri, is an unpleasant chore. Sex between females is common, though highly ritualised in some communities; in more liberal ones 'pleasuresex' bares more resemblance to sex among humans.
+Unlike the other races in the city, the sexual dimorphism of khepri is absolute. The females are sapient, with a bipedal form. They are strikingly similar to the human woman but for their heads. The female head consists of a 2-foot-long headscarab which resembles an enormous beetle, complete with wiggling legs; fragile, useless wings beneath powerful casings; mandibles; antennae; and compound eyes. Their mouthparts cannot communicate in Ragamoll or any other spoken language, and khepri therefore are forced to communicate with other races via sign language or written notes. Among themselves, the khepri converse by scent and complex chemical gusts which other races can smell and taste, but cannot understand. Male khepri are small, insectile and essentially mindless - 2-foot-long scuttling things unable to do more than feed and reproduce which, for female khepri, is an unpleasant chore. Sex between females is common, though highly ritualised in some communities; in more liberal ones 'pleasuresex' bares more resemblance to sex among humans.
 
 **Brawn: 2**
 
@@ -901,9 +901,9 @@ Unlike the other races in the city, the sexual dimophism of khepri is absolute. 
 
 *Starting Experience*: 95
 
-*Starting Skills*: A khepri starts with one rank in Survival, reflecting the culural history of the race in New Crobuzon.
+*Starting Skills*: A khepri starts with one rank in Survival, reflecting the cultural history of the race in New Crobuzon.
 
-*Insectile Vision*: A khepri's sight is very different to that of a human or vodyanoi. Due to their buldging insect-like eyes, a khepri's view is more panoramic and colourful. Their sense of smell is also much greater than a human's. Khepri are therefore much less troubled by vision impairing effects, and two setback die should be removed from any Perception or Vigilence checks that would otherwise have been affected by concealment such as smoke or darkness.
+*Insectile Vision*: A khepri's sight is very different to that of a human or vodyanoi. Due to their bulging insect-like eyes, a khepri's view is more panoramic and colourful. Their sense of smell is also much greater than a human's. Khepri are therefore much less troubled by vision impairing effects, and two setback die should be removed from any Perception or Vigilance checks that would otherwise have been affected by concealments such as smoke or darkness.
 
 *Non-Verbal*: Khepri communicate both language and emotion using scented excretions. Individuals who are close to khepri may become familiar with scents communicating fear or love or annoyance, but beyond that, khepri must either use sign language or written notes. Whilst there are no strict mechanical rules here, players should be aware that, in structured encounters especially, khepri cannot shout to an ally to provide assistance, for example.
 
@@ -911,7 +911,7 @@ Unlike the other races in the city, the sexual dimophism of khepri is absolute. 
 
 ### Remade
 
-The Remade are not a 'race' as such. They are not an accidential creation of mutation and evolutionary law, but an intentional creation of New Crobuzon's state machine. A convicted criminal is 'remade' by expert biothaumaturges in the city's punishment factories. Their form is twisted, parts added and ripped away, until the remaking meets the court's instruction. Either the remaking seeks to make poetic commentary on the crime - thieves melded with the items they stole; political dissidents with mouths disappeared - or the court will order a remaking for the purpose of hard labour - criminals fused with coal furnaces and their arms replaced with tools. The victims of this process must often relearn basic activities like walking, speaking, and other simple physical acts in their new bodies.
+The Remade are not a 'race' as such. They are not an accidental creation of mutation and evolutionary law, but an intentional creation of New Crobuzon's state machine. A convicted criminal is 'remade' by expert biothaumaturges in the city's punishment factories. Their form is twisted, parts added and ripped away, until the remaking meets the court's instruction. Either the remaking seeks to make poetic commentary on the crime - thieves melded with the items they stole; political dissidents with mouths disappeared - or the court will order a remaking for the purpose of hard labour - criminals fused with coal furnaces and their arms replaced with tools. The victims of this process must often relearn basic activities like walking, speaking, and other simple physical acts in their new bodies.
 
 A Remade is a pariah who is both legally and politically oppressed. No upright citizen of the middle class loves a criminal, and the default assumption of most New Crobuzoners is that a Remade is a political extremist, a violent thug, and possibly a traitor to the city. Even among the city’s less fortunate, the Remade are often viewed with suspicion. Inside the city, Remade make up some 2% of the population. Outside of the city, small bands of fReemade have escaped from captivity and servitude in New Crobuzon and live as bandits, free from this stigma. Even there though, the taboo against the Remade means that few of the fReemade add to their remakings.
 
@@ -937,17 +937,17 @@ A Remade is a pariah who is both legally and politically oppressed. No upright c
 
 *Second-Class Citizen*: The Remade in New Crobuzon are sometimes feared, often mistrusted, and almost always treated as fundamentally different from other citizens of the city. Remade add a setback die to Charm, Deception and Negotiation checks, but add boost die to Coercion checks. This does not apply when interacting with those comfortable or familiar with Remade. 
 
-*Amalgamation*: Since the effects of a remaking can be so vastly different, players who choose to create and play as a Remade character must consider a few things. First, since many Remade have innorganic or industrial parts, a Mechanics check may be used instead of a Medicine check, depending on where, narratively, the character has been injured. For example, an injury to a coal engine fused to the back of a PC will require a Mechanics check to 'heal', whereas an injury to the fleshy arm of the same PC will require a Medicine check.
+*Amalgamation*: Since the effects of a remaking can be so vastly different, players who choose to create and play as a Remade character must consider a few things. First, since many Remade have inorganic or industrial parts, a Mechanics check may be used instead of a Medicine check, depending on where, narratively, the character has been injured. For example, an injury to a coal engine fused to the back of a PC will require a Mechanics check to 'heal', whereas an injury to the fleshy arm of the same PC will require a Medicine check.
 
 Second, when a player is creating a Remade, they should consider whether their starting equipment is part of their remaking and, if not, players should make sure that the remaking is not so disabling that their Remade character cannot carry weapons or wear armour.
 
-Third, although adding to a remaking in New Crobuzon is both difficult, expensive and taboo amongst Remade, it is possible. With the right connections - either established through a hard Knowledge (City) check or decided narratively by the GM - a Remade character can augment themselves. Players may wish to permantly meld a piece of equipment to their character (ignoring encumberance), and/or use the rules for cybernetic implants described on p.177 of the *Genesys Core Rulebook* (the implants' flavour adapted to the setting).
+Third, although adding to a remaking in New Crobuzon is both difficult, expensive and taboo amongst Remade, it is possible. With the right connections - either established through a hard Knowledge (City) check or decided narratively by the GM - a Remade character can augment themselves. Players may wish to permanently meld a piece of equipment to their character (ignoring encumbrance), and/or use the rules for cybernetic implants described on p.177 of the *Genesys Core Rulebook* (the implants' flavour adapted to the setting).
 
 ---
 
 ### Vodyanoi
 
-Second only to humans in number, the amphibious, frog-like vodyanoi represent a full 10% of the city's population. Vodyanoi faces are similar to those of humans or cactcae but their large hands and feet are lightly webbed. Their fingers are nimble. The vodyanoi seem smaller than they truly are because of their hunched and squatting posture and their lack of neck, and they rarely seem to stand much more than 4 feet high. Their true size is apparent from their weight, however, as most tip the scales at more than 170 pounds, and the fattest among them weigh 300 pounds or more.
+Second only to humans in number, the amphibious vodyanoi represent a full 10% of the city's population. Vodyanoi faces are similar to those of humans or cactaceae but their large hands and feet are lightly webbed. Their fingers are nimble. The vodyanoi seem smaller than they truly are because of their hunched and squatting posture and their lack of neck, and they rarely seem to stand much more than 4 feet high. Their true size is apparent from their weight, however, as most tip the scales at more than 170 pounds, and the fattest among them weigh 300 pounds or more.
 
 Unlike some xenian races, vodyanoi can be found, in some number, among the middle and upper classes, with some boasting large manors partly submerged beneath water. The mass of vodyanoi though, as with the population as a whole, are workers, with a vast number working in the city's docks.
 
@@ -971,7 +971,7 @@ Unlike some xenian races, vodyanoi can be found, in some number, among the middl
 
 *Starting Skills*: A vodyanoi starts with one rank in Coordination.
 
-*Water-Dweller*: Happiest in water, a vodyanoi’s good health depends on their ability to maintain the natural moisture of their skin. Taking a natural rest requires a vodyanoi to bathe themself, else they will not heal any wounds. Each day without bathing, the vodyanoi will suffer a wound. 
+*Water-Dweller*: Happiest in water, a vodyanoi’s good health depends on their ability to maintain the natural moisture of their skin. Taking a natural rest requires a vodyanoi to bathe themself, or else they will not heal any wounds. Each day without bathing, the vodyanoi will suffer a wound. 
 
 *Amphibious*: Vodyanoi can breathe underwater without penalty and do not suffer movement penalties for travelling through water.
 
@@ -1002,23 +1002,23 @@ Wyrmen are aerial clowns and messengers in the skies of New Crobuzon. They are a
 
 *Starting Experience*: 90
 
-*Starting Skills*: A wyrman starts with one rank in Streetwise. The ability to fly across the city brings with it a knowledge of New Crobuzon's goings-on that would not be so easily aquired by any other race.
+*Starting Skills*: A wyrman starts with one rank in Streetwise. The ability to fly across the city brings with it a knowledge of New Crobuzon's goings-on that would not be so easily acquired by any other race.
 
-*Small*: Wyrmen are silhoutte 0.
+*Small*: Wyrmen are silhouette 0.
 
-*Flight*: With their bat-like wings, a wyrman can saw across the city, catching currents on the air and looping over the city's skyrail and under its rail bridges. They can also hover a little off the ground, bobbing up and down with the effort of each flap. As such, a wyrman should ignore otherwise impassable or difficult terrain, and can move from long range to short range using a single maneuvre if they start their flight from a great height or otherwise good conditions. Players may want to consider spending a Story Point to induce such conditions, such as a sudden gust of wind, allowing their wyrman a burst of speed.
+*Flight*: With their bat-like wings, a wyrman can soar across the city, catching currents on the air and looping over the city's skyrail and under its rail bridges. They can also hover a little off the ground, bobbing up and down with the effort of each flap. As such, a wyrman should ignore otherwise impassable or difficult terrain, and can move from long range to short range using a single manoeuvre if they start their flight from a great height or otherwise good conditions. Players may want to consider spending a Story Point to induce such conditions, such as a sudden gust of wind, allowing their wyrman a burst of speed.
 
 ---
 
 ## Careers
 
-When creating a character in the setting of New Crobuzon, players may use any of the role-based careers listed in the *Genesys Core Rulebook* (pp.40-42), whilst, of course, making them appropriate for the world. They are: **Entertainer**, **Explorer**, **Healer**, **Leader**, **Scoundrel**, **Socialte**, **Soldier** and **Tradesperson**. The following section gives details the careers found in that rulebook - Leader and Soldier - that I felt benefitted from renaming and re-describing. These are now **Renegade** and **Survivor**. Then follows two original careers - **Thinker** and **Thaumaturge**. Where appropriate, I have put the coresponding name of the career given by the *Genesys Core Rulebook* in brackets.
+When creating a character in the setting of New Crobuzon, players may use any of the role-based careers listed in the *Genesys Core Rulebook* (pp.40-42), whilst, of course, making them appropriate for the world. They are: **Entertainer**, **Explorer**, **Healer**, **Leader**, **Scoundrel**, **Socialite**, **Soldier** and **Tradesperson**. The following section gives details of the careers found in that rulebook - Leader and Soldier - that I felt benefitted from renaming and re-describing. These are now **Renegade** and **Survivor**. Then follows two original careers - **Thinker** and **Thaumaturge**. Where appropriate, I have put the corresponding name of the career given by the *Genesys Core Rulebook* in brackets.
 
 ---
 
 ### Renegade (Leader)
 
-Wherever there is authority, there are dissidents. This is true from the schoolmaster's office, to the factory, to the city-state, and it is most certainly true in New Crobuzon. With unseen militiamen on every corner, lackeys of the industrialist in every workplace, and reactionary gangs of Quillers roving xenian districts after dark, resistence is a means of survival for many. There are organised radicals of course, those groupings around that illegal newsheet *Runagate Rampate* - its readers, its writers, its distributors, its agitators. There are also more loose sets of affiliations - friends and comrades organising their workplaces, passing on whispers of strikes and calls for demonstrations. To be a renegade in New Crobuzon, an individual must be wary, but there must also be charismatic, confident, disciplined - how else to *organise*? They must be tough-talking at times, and ready to draw a knife if the situation requires.  
+Wherever there is authority, there are dissidents. This is true from the schoolmaster's office, to the factory, to the city-state, and it is most certainly true in New Crobuzon. With unseen militiamen on every corner, lackeys of the industrialist in every workplace, and reactionary gangs of Quillers roving xenian districts after dark, resistance is a means of survival for many. There are organised radicals of course, those groupings around that illegal news-sheet *Runagate Rampate* - its readers, its writers, its distributors, its agitators. There are also more loose sets of affiliations - friends and comrades organising their workplaces, passing on whispers of strikes and calls for demonstrations. To be a renegade in New Crobuzon, an individual must be wary, but there must also be charismatic, confident, disciplined - how else to *organise*? They must be tough-talking at times, and ready to draw a knife if the situation requires.  
 
 The Renegade counts the following skills as career skills: Charm, Coercion, Cool, Discipline, Leadership, Melee, Negotiation, and Perception. Before spending experience during character creation, a Renegade may choose four of their career skills and gain one rank in each of them.
 
@@ -1036,13 +1036,13 @@ The Survivor counts the following skills as career skills: Athletics, Brawl, Coe
 
 The majority of the citizens of New Crobuzon earn their keep by the selling of their labour power, either to a wealthy industrialist, or advancing it for the cause of their own small business, but not all these individuals sell their ability to perform *physical* labour. New Crobuzon needs lifters, builders, and shifters of all kinds to maintain itself, but it also needs thinkers. New Crubozon University is surely the largest single organisation of thinkers and scholars in the city - its high-paid professors as well as its overworked research assistants - but this kind of individual can be found across New Crobuzon. Parliament maintains a large research and development department where the latest thaumaturgic and scientific advancements are made to serve the interests of the state, and Brock Marsh  - the city's Scientific Quarter - houses all manner of physicists, biophilosophers and teratologists, chymists, necrochymists and mathematicians, all plying their trade from warehouses and shopfronts (alongside as many of their thaumaturge cousins). This is not to mention, of course, all the less exciting professions of the 'intellectual' worker - the city's secretaries, clerks and scriveners.
 
-The Thinker counts the following skills as career skills: Charm, Deception, Knoweldge (Lore), Knowledge (Science), Knowledge (World), Knowledge (Xenology), Negotiation and Perception. Before spending experience during character creation, a Thinker may choose four of their career skills and gain one rank in each of them.
+The Thinker counts the following skills as career skills: Charm, Deception, Knowledge (Lore), Knowledge (Science), Knowledge (World), Knowledge (Xenology), Negotiation and Perception. Before spending experience during character creation, a Thinker may choose four of their career skills and gain one rank in each of them.
 
 ---
 
 ### Thaumaturge
 
-The practicioners of that combination of science and fairytale magic we call 'thaumaturgy' are the city's thaumaturges. Beyond the simple hexes of the first-year university student or the amateur street-performer, a thaumaturge is a trained professional in their craft. Thaumaturges can be found all across New Crobuzon, and indeed Bas-Lag (though their magics become less and less recognisable the further afield one goes). Probably the most well-known gathering of thaumaturges in New Croubzon though is in the city's Scientific Quarter - Brock Marsh. There, badgers, familiars by tradition, waddle between warehouses and shopfronts, ferrying chymical-thaumaturgic compounds from scientist to thaumaturge and back. When a thaumaturgic errand needs doing, a citizen will more often than not make for Brock Marsh, and they will, more often than not, find what they need. Despite its relatively day-to-day usage and the prevalance of its practicioners, thaumaturgy is a powerful tool. The state therefore has keen interest in it, and you will find many thaumaturges in labs and workshops in the warren of Parliament, as well as in the militia, who employ thaumaturgic abilities for offensive as well as surveillance purposes.
+The practitioners of that combination of science and fairytale magic we call 'thaumaturgy' are the city's thaumaturges. Beyond the simple hexes of the first-year university student or the amateur street-performer, a thaumaturge is a trained professional in their craft. Thaumaturges can be found all across New Crobuzon, and indeed Bas-Lag (though their magics become less and less recognisable the further afield one goes). Probably the most well-known gathering of thaumaturges in New Croubzon though is in the city's Scientific Quarter - Brock Marsh. There, badgers, familiars by tradition, waddle between warehouses and shopfronts, ferrying chymical-thaumaturgic compounds from scientist to thaumaturge and back. When a thaumaturgic errand needs doing, a citizen will more often than not make for Brock Marsh, and they will, more often than not, find what they need. Despite its relatively day-to-day usage and the prevalence of its practitioners, thaumaturgy is a powerful tool. The state therefore has a keen interest in it, and you will find many thaumaturges in labs and workshops in the warren of Parliament, as well as in the militia, who employ thaumaturgic abilities for offensive as well as surveillance purposes.
 
 There are a huge variety of thaumaturges, but most are specialised, generally as part of their occupation. They are biothaumaturges, karcists, golemists etc. Whilst some will possess knowledge of other styles and traditions, and of theories of thaumaturgy more generally, very few will master multiple disciplines. For a description of the various disciplines of thaumaturgy, and for more insight into the other possible professions a thaumaturge may occupy, see the [thaumaturgy](https://github.com/Spottyfriend/Genesys/blob/master/New_Crobuzon_Genesys.md#thaumaturgy) section within the setting chapter of this guide.
 
@@ -1052,13 +1052,13 @@ The Thaumaturge counts the following skills as career skills: Coordination, Disc
 
 ## Skills
 
-The New Crobuzon setting uses a set of all-setting skills that come from the *Genesys Core Rulebook*, with the exception of its thaumaturgic skills and its knowledge skills. With the exception of these latter two, players can refer the *Core Rulebook* on how and when to make skill checks using these skills. It should be noted that the absence of a Computers skill (or similar), which may seem a reasonable inclusion due to the prevalance of constructs in the city, has been left out. This is due to the nature of the city's constructs, which are generally mechanical, and all construct-related checks should use the Mechanics skill, though some constructs are highly complex, and the difficulty rating should reflect this if a PC is attempting to alter or repair one.
+The New Crobuzon setting uses a set of all-setting skills that come from the *Genesys Core Rulebook*, with the exception of its thaumaturgic skills and its knowledge skills. With the exception of these latter two, players can refer to the *Core Rulebook* on how and when to make skill checks using these skills. It should be noted that the absence of a Computers skill (or similar), which may seem a reasonable inclusion due to the prevalence of constructs in the city, has been left out. This is due to the nature of the city's constructs, which are generally mechanical, and all construct-related checks should use the Mechanics skill, though some constructs are highly complex, and the difficulty rating should reflect this if a PC is attempting to alter or repair one.
 
 ---
 
 ### General Skills
 
-The New Crobuzon setting uses the following general skills: Athletics, Cool, Coordination, Discipline, Driving, Mechanics, Medicine, Operating, Perception, Resilience, Riding, Skullduggery, Stealth, Streetwise, Survival and Vigiliance.
+The New Crobuzon setting uses the following general skills: Athletics, Cool, Coordination, Discipline, Driving, Mechanics, Medicine, Operating, Perception, Resilience, Riding, Skullduggery, Stealth, Streetwise, Survival and Vigilance.
 
 ---
 
@@ -1078,13 +1078,13 @@ The New Crobuzon setting uses the following social skills: Charm, Coercion, Dece
 
 The New Crobuzon setting uses the following knowledge skills: City, World, Lore, Underworld, Science, Xenology.
 
-The City and World knowledge skills refer to knowledge of place, one often gained by travel and experience. The Lore skill indicates knowledge of places and times where a PC has not, or cannot, travel - mythical lands, times long past, empires long dead. Underworld is the knowledge of the city's criminal element. Science is the theoretical knowledge of the city's sciences and, at the GMs discretion, thaumaturgy. The Xenology knowledge skill represents the PCs understanding of non-human species' and races' biology, culture and history.
+The City and World knowledge skills refer to knowledge of place, one often gained by travel and experience. The Lore skill indicates knowledge of places and times where a PC has not, or cannot, travel - mythical lands, times long past, empires long dead. Underworld is the knowledge of the city's criminal element. Science is the theoretical knowledge of the city's sciences and, at the GM's discretion, thaumaturgy, in particular its more theoretical side. The Xenology knowledge skill represents the PC's understanding of non-human species' and races' biology, culture and history.
 
 ---
 
 ### Thaumaturgic Skills
 
-While anyone can learn a simple hex or two, real thaumaturgy requires training. What kind of training the thaumaturge receives - in what way they learns and practise their craft - makes all the difference when it comes to the nature of their abilities. A militia-desserter, once a captain-thaumaturge, able to shoot bolts of glowing unlight from his fingers to strike down enemies of the state, will possess an alltogether different skillset to a chromathaumurge tradesperson, crafting and selling beautiful, glowing baubles at Aspic Bazaar. This is not to say that the latter could not move their hands in such a way to blind a man for life, or that the former could not create a strange shifting, crackling trinket which might sell just as well in Aspic Bazaar, but that the skills of the two thaumaturges are bascially different. One has learnt in the workshop, the other in the barracks. The following skills represent that difference, whilst also representing the basic, shared ability of thaumaturges to attack, to augment objects to and to protect themselves using their craft, though in a million varied ways.
+While anyone can learn a simple hex or two, real thaumaturgy requires training. What kind of training the thaumaturge receives - in what way they learn and practise their craft - makes all the difference when it comes to the nature of their abilities. A militia-deserter, once a captain-thaumaturge, able to shoot bolts of glowing unlight from his fingers to strike down enemies of the state, will possess an altogether different skillset to a chromathaumaturge tradesperson, crafting and selling beautiful, glowing baubles at Aspic Bazaar. This is not to say that the latter could not move their hands in such a way to blind a man for life, or that the former could not create a strange shifting, crackling trinket which might sell just as well in Aspic Bazaar, but rather to emphasise that the skills of the two thaumaturges are basically different. One has learnt in the workshop, the other in the barracks. The following skills represent that difference, whilst also representing the basic, shared ability of thaumaturges to attack, to augment objects and to protect themselves using their craft, though in a million varied ways.
 
 When investing points into any thaumaturgic skill, a player should have in mind what specific discipline of thaumaturgy their character is narratively proficient in. Did they take a class in introductory biothaumaturgy before their expulsion from New Crobuzon University? Or did they learn a little somaturgy from a golemist street performer? Whilst this will not make specific mechanical gameplay differences, since the thaumaturgic abilities available to PCs are defined by what skills they have invested in, both GMs and players should have an understanding of the flavour of these abilities. For example, a biothaumaturge scholar with one point invested in the Thaumaturgy (Intellectual) skill will attack a combatant in a very different way to an amateur scientist and meteoromance with one point in the same skill. Though the two will roll the same dice to make an attack, the flavour of such an attack might be very different - the former, perhaps, plunging his hands through the skin of the enemy in an attempt to rearrange their organs, the latter displacing the air around an adversary's mouth and nose to prevent them from breathing. For a description of the various disciplines of thaumaturgy, see the [thaumaturgy](thaumaturgy) section within the setting chapter of this guide.
 
@@ -1092,15 +1092,15 @@ Due to the necessary aspect of specialisation when learning thaumaturgy, **no PC
 
 Due to the training required to become an advanced user in a particular thaumaturgic craft, **no PC who does not have the Thaumaturge career can have more than *one* point in *any* thaumaturgic skill** unless agreed with the GM for story reasons (i.e. the PC goes through particular training over the course of the campaign).
 
-For casting the spells found in the *Genesys Core Rulebook*, players may disregard anything reading 'Arcane/Primal/Divine only' (for example, in both tables on p.216) and assume that these feats are possible, as long as they are not contradicted by this guide, and so long as the player has a sufficent in-game description of the action that is in-keeping with the flavour of their thaumaturgic abilities. For inspiration, players may wish to read Scott Zumwalt's [*A Beginner's Guide to Genesys Magic*](https://www.drivethrurpg.com/product/294931/Zynnythryxs-Guide-to-Magic-A-Beginners-Guide-to-Genesys-Magic).
+For casting the spells found in the *Genesys Core Rulebook*, players may disregard anything reading 'Arcane/Primal/Divine only' (for example, in both tables on p.216) and assume that these feats are possible, as long as they are not contradicted by this guide, and so long as the player has a sufficient in-game description of the action that is in keeping with the flavour of their thaumaturgic abilities. For inspiration, players may wish to read Scott Zumwalt's [*A Beginner's Guide to Genesys Magic*](https://www.drivethrurpg.com/product/294931/Zynnythryxs-Guide-to-Magic-A-Beginners-Guide-to-Genesys-Magic).
 
 ---
 
 #### Artisanal (Agility)
 
-For many, thaumaturgy is not an theoretical science, or a weapon, but a craft. The geoempath's ability to sense subterranean formations as part of a mining operation, and the geothaumaturge's ability to turn rock to slurry in order to carry out that operation, is no abstract pursuit, but a part of their work. So too with many of the petit-bourgeois artisans of Brock Marsh, selling their thaumaturgic services to the public. Often, the use of thaumaturgy in this manner is a careful blend of coordination of both the body and mind, and training will involve practice rather than study. Such thaumaturgy might be better compared to blacksmithing or stoneworking rather than the wizardry of fairytales.
+For many, thaumaturgy is not a theoretical science, or a weapon, but a craft. The geoempath's ability to sense subterranean formations as part of a mining operation, and the geothaumaturge's ability to turn rock to slurry in order to carry out that operation, is no abstract pursuit, but a part of their work. So too with many of the petit-bourgeois artisans of Brock Marsh, selling their thaumaturgic services to the public. Often, the use of thaumaturgy in this manner is a careful blend of coordination of both the body and mind, and training will involve practice rather than study. Such thaumaturgy might be better compared to blacksmithing or stoneworking rather than the wizardry of fairytales.
 
-The **Artisianal thaumaturgic skill uses the Agility characteristic**, reflecting the often physical nature of the training and practice of the user's craft.
+The **Artisanal thaumaturgic skill uses the Agility characteristic**, reflecting the often physical nature of the training and practice of the user's craft.
 
 A PC with at least one point in this skill gains access to the following spells: Attack, Augment, Barrier, Curse, Heal and Utility.
 
@@ -1110,7 +1110,7 @@ A PC with at least one point in this skill gains access to the following spells:
 
 Charged thaumaturgons are a strange phenomenon. They can unleash destruction, and they can heal; they can be bent to the will of an individual who can focus her mind and channel that focus into changing reality. All this is to say that, to a scholar, thaumaturgy is an excellent subject of study. But it is not only the scholars of New Crobuzon University who take thaumaturgy to be an intellectual endeavour however, though its lecture halls and libraries are filled with students who take precisely this approach. Many of Parliament's thaumaturges, or at least those not part of the militia, take a more abstract, rational view - designing and testing engines and weapons for New Crobuzon's navy and militia. Outside of the city's more official institutions, the Scientific Quarter of Brock Marsh houses many scientist-thaumaturges and thaumaturge-scientists, experimenting with untested thaumaturgic methods and exploring theories of weird phenomena, all of whom take the use and study of thaumaturgy as a careful intellectual pursuit.
 
-The **Intellectual thaumaturgic skill uses the Intellect characteristic**, reflecting the rigourous study and formal training that this kind of individual has completed to learn their art.
+The **Intellectual thaumaturgic skill uses the Intellect characteristic**, reflecting the rigorous study and formal training that this kind of individual has completed to learn their art.
 
 A PC with at least one point in this skill gains access to the following spells: Attack, Conjure, Curse, Dispel, Heal and Utility.
 
@@ -1118,9 +1118,9 @@ A PC with at least one point in this skill gains access to the following spells:
 
 #### Martial (Willpower)
 
-In the right hands, thaumaturgy can be a powerful destructive force, and an excellent means of self-defense. For those who have learnt thaumaturgy in a certain setting, this is their primary focus. Thaumaturgy is learnt for combat across the city, whether for the means of oppression in the case of the militia, liberation in the case of political rebels, or simple survival in the case of a khepri walking past a Quiller gang after dark. After all, a would-be Quiller harasser may become less than confident should that khepri begin to form sparks of crackling unlight from her fingers.
+In the right hands, thaumaturgy can be a powerful destructive force, and an excellent means of self-defence. For those who have learnt thaumaturgy in a certain setting, this is their primary focus. Thaumaturgy is learnt for combat across the city, whether for the means of oppression in the case of the militia, liberation in the case of political rebels, or simple survival in the case of a khepri walking past a Quiller gang after dark. After all, a would-be Quiller harasser may become less than confident should that khepri begin to form sparks of crackling unlight from her fingers.
 
-The **Martial thaumaturgic skill uses the Willpower characteristic**, as a reflection of the necessity that the user should remain displined and focussed in high-pressure, combat or near-combat situations, and the fact that this will have been the focus of their thaumaturgic training.
+The **Martial thaumaturgic skill uses the Willpower characteristic**, as a reflection of the necessity that the user should remain disciplined and focussed in high-pressure, combat or near-combat situations, and the fact that this will have been the focus of their thaumaturgic training.
 
 A PC with at least one point in this skill gains access to the following spells: Attack, Augment, Conjure, Curse, Heal and Utility.
 
@@ -1132,7 +1132,7 @@ The New Crobuzon setting permits players to buy any talent listed in the *Genesy
 
 There are two points to consider when choosing a talent, however.
 
-First, does it fit the flavour of the setting and the character? If you are unsure, consult your fellow players and GM. They can even help you rename and change the flavour of the talent if necessary, although changing the mechanics or balance of the talent is not advised. (If your group comes up with any particularly good New Crobuzon versions of offical talents, message me and I will consider adding them to this guide - I can be found on the [Genesys RPG Community Discord Server](https://discord.gg/Y9xM67uttc).)
+First, does it fit the flavour of the setting and the character? If you are unsure, consult your fellow players and GM. They can even help you rename and change the flavour of the talent if necessary, although changing the mechanics or balance of the talent is not advised. (If your group comes up with any particularly good New Crobuzon versions of official talents, message me and I will consider adding them to this guide - I can be found on the [Genesys RPG Community Discord Server](https://discord.gg/Y9xM67uttc).)
 
 Second, does the talent refer to a skill or mechanic that is not used in the New Crobuzon setting (e.g. Computers)? If so, this talent has no effect. Talents that refer to 'magic skills' instead refer to thaumaturgic skills, again assuming they are in keeping with the setting.
 
@@ -1168,21 +1168,21 @@ If you have any ranks in a thaumaturgic skill that has access to Augment, upon p
 
 ### Weapons and Armour
 
-New Crobuzon is not the most welcoming city in Bas-Lag. Any adventurer, dissident, or criminal would do well to arm themselves, and even ordinary citizens may carry a knife for self-defence. Given this, the militia cannot arrest every pistol-wearer and reevebow-weilding cactacae, though they may well wish to keep tabs on those who appear more heavily armed. No doubt a fire-thrower would attract unwanted attention.
+New Crobuzon is not the most welcoming city in Bas-Lag. Any adventurer, dissident, or criminal would do well to arm themselves, and even ordinary citizens may carry a knife for self-defence. Given this, the militia cannot arrest every pistol-wearer and rivebow-wielding cactacae, though they may well wish to keep tabs on those who appear more heavily armed. No doubt a fire-thrower would attract unwanted attention.
 
-Most weapons are illegal to *sell* in the city, but that does not stop New Crobuzon's criminal element from turning a profit. The black market exists throughout in every district, and even a respectable citizen is never too far from the right contact. Black market-only weapons and armour are marked 'R' for 'restricted'.
+Most weapons are illegal to *sell* in the city, but that does not stop New Crobuzon's criminal element from turning a profit. The black market exists throughout every district, and even a respectable citizen is never too far from the right contact. Black market-only weapons and armour are marked 'R' for 'restricted'.
 
 ![Weapons and Armour](https://i.imgur.com/rSP8uSa.png)
 
-Below are some weapons that may benefit from further descrption.
+Below are some weapons that may benefit from further description.
 
 ---
 
 *Flintlock*
 
-The flintlock is the ubiquitous weapon of New Crobuzon. Be it the rare uniformed officer with his rifle, or the rich citizen waving a pistol from his window at a would-be burgular; the crime boss' lackey, or the vodyanoi whose return journey from the docks takes him everday through dangerous Sheck streets - a flinklock is never far from reach. They are mostly inaccurate weapons, and require regular refilling of black powder, generally carried in a powder horn or case. However, should the small metal ball connect with its fleshy target, it can easily be deadly.
+The flintlock is the ubiquitous weapon of New Crobuzon. Be it the rare uniformed officer with his rifle, or the rich citizen waving a pistol from his window at a would-be burglar; the crime boss' lackey, or the vodyanoi whose return journey from the docks takes him everyday through dangerous Sheck streets - a flintlock is never far from reach. They are mostly inaccurate weapons, and require regular refilling of black powder, generally carried in a powder horn or case. However, should the small metal ball connect with its fleshy target, it can easily be deadly.
 
-A much rarer type than the simple pistol or rifle flintlocks is the target-rifle. Reserved only for the highly trained militia and other aggressive state actors who require a more precise method of death, the target-rifle is built for accuracy and lethality. Though the technology of the weapon is, in many ways, the same powder-based design of the ordinary flintlock, it is a difficult to aquire weapon, even for the well-connected criminal.
+A much rarer type than the simple pistol or rifle flintlocks is the target-rifle. Reserved only for the highly trained militia and other aggressive state actors who require a more precise method of death, the target-rifle is built for accuracy and lethality. Though the technology of the weapon is, in many ways, the same powder-based design of the ordinary flintlock, it is a difficult to acquire weapon, even for the well-connected criminal.
 
 ---
 
@@ -1196,7 +1196,7 @@ Should the militia require the heavier touch - the putting-down of a strike, or 
 
 As in industry, chymistry and art, thaumaturgy can be used to augment and enhance weaponry, lending whatever knife, pistol or bomb certain otherwise inexplicable capacities. Whisper soft words to your gun and it will cough out globules of too-large bullet metal, sticking to and burning through its target rather than leaving the usual bullet hole; your sword spits crackling thaumaturgic unlight as it cuts through flesh like a serrated elytric saw. A thaumaturge is needed for such enhancements of course, whether the weapon's user is the augmenter, or whether she has been lucky enough to find such a one in the Scientific Quarter of Brock Marsh.
 
-Refer to the above section on [Talents](https://github.com/Spottyfriend/Genesys/blob/master/New_Crobuzon_Genesys.md#talents) to see how a player character may create a pussiant weapon. Otherwise, GM's should take care when introducing a vendor capable of producing such a weapon as part of a story beat; particularly the 'greater' variety, which can be very powerful.
+Refer to the above section on [Talents](https://github.com/Spottyfriend/Genesys/blob/master/New_Crobuzon_Genesys.md#talents) to see how a player character may create a puissant weapon. Otherwise, GMs should take care when introducing a vendor capable of producing such a weapon as part of a story beat; particularly the 'greater' variety, which can be very powerful.
 
 ---
 
@@ -1210,7 +1210,7 @@ The rivebow is an enormous crossbow, too large and heavy for a human effectively
 
 *Stingbox*
 
-A strange metaclockwork weapon of khepri design, the 'stingbox', as humans have christened it, resembles a squared-off wooden block the size of a small bag, with a handle at one end and two short whip-like flails at the other. These are extendable however, and, by the user, are whirled at speed assisted by internal gears. They are then whipped out to catch, pierce and grip the flesh of even an armoured enemy, and at a maximum of twenty feet. A powerful electrical charge is then sent sparking through the line. If death is the aim then the stingbox can deliver, but it can also wound and incapacitate should its user desire. Though a khepri weapon, it is not altogether unimaginable to see a militiaman weilding a stingbox should such rare training be required in defence of the city.
+A strange metaclockwork weapon of khepri design, the 'stingbox', as humans have christened it, resembles a squared-off wooden block the size of a small bag, with a handle at one end and two short whip-like flails at the other. These are extendable however, and, by the user, are whirled at speed assisted by internal gears. They are then whipped out to catch, pierce and grip the flesh of even an armoured enemy, and at a maximum of twenty feet. A powerful electrical charge is then sent sparking through the line. If death is the aim then the stingbox can deliver, but it can also wound and incapacitate should its user desire. Though a khepri weapon, it is not altogether unimaginable to see a militiaman wielding a stingbox should such rare training be required in defence of the city.
 
 ---
 
@@ -1218,11 +1218,13 @@ A strange metaclockwork weapon of khepri design, the 'stingbox', as humans have 
 
 ![Gear](https://i.imgur.com/3X4Ybg1.png)
 
+Players and GMs are encouraged to consult official *Genesys* rulebooks for any other gear they may find useful in the setting. This section provides some description of the more important or particular items players may find themselves using.
+
 ---
 
 *Medicine Pouch*
 
-Wherever one looks, in its industry, streets, drinking establishments, New Crobuzon is a dangerous city, and as such its citizens require medical attention far more than certainly they would like. Those who cannot afford a family doctor must turn to simplier methods and items provided by small businesses scattered throughout most of the city. One such item is the simple medicine pouch containing the basics: perhaps a needle and threat for stitching, simple bandages, a small amount of ointment.
+Wherever one looks, in its industry, streets, drinking establishments, New Crobuzon is a dangerous city, and as such its citizens require medical attention far more than certainly they would like. Those who cannot afford a family doctor must turn to simpler methods and items provided by small businesses scattered throughout most of the city. One such item is the simple medicine pouch containing the basics: perhaps a needle and thread for stitching, simple bandages, a small amount of ointment.
 
 A medicine pouch allows characters to attempt to heal others using Medicine checks without the penalty usually incurred by doing so without medical equipment (the separate penalty for attempting to attend to your own injuries is not affected).
 
@@ -1230,18 +1232,18 @@ A medicine pouch allows characters to attempt to heal others using Medicine chec
 
 *Alleviative Elixir*
 
-Various elixirs with supposedly alleviative properties are sold by small chymists and thaumaturges in the city, particulary, of course, in the Scientific Quarter. Some treat specific ailments, but others act more as simple pain relief and minor assistant to the body's own systems of repair. The worst have body-altering side-effects, but more likely is the elixir that is made lightly addictive by its creator, better for customers to return to *his* shop.
+Various elixirs with supposedly alleviative properties are sold by small chymists and thaumaturges in the city, particularly, of course, in the Scientific Quarter. Some treat specific ailments, but others act more as simple pain relief and minor assistance to the body's own systems of repair. The worst have body-altering side-effects, but more likely is the elixir that is made lightly addictive by its creator, better for customers to return to *his* shop.
 
-Using an elixir requires one maneuver for your character to apply it either to themself or to another engaged character. The elixir is consumed in the process, and the character immediately heals 5 wounds. While a character can use multiple elixirs, this provides diminishing returns. Each elixir after the first heals one wound
-fewer. A second elixir heals 4 wounds, a third heals 3, and so on. Using a sixth elixir in a day has no further effect. After one day, the lingering effects of the elixir wear off, and the character may use elixirs again with their normal effect (this means a character can consume up to five elixir a day, each day).
+Using an elixir requires one manoeuvre for your character to apply it either to themself or to another engaged character. The elixir is consumed in the process, and the character immediately heals 5 wounds. While a character can use multiple elixirs, this provides diminishing returns. Each elixir after the first heals one wound
+fewer. A second elixir heals 4 wounds, a third heals 3, and so on. Using a sixth elixir in a day has no further effect. After one day, the lingering effects of the elixir wear off, and the character may use elixirs again with their normal effect (this means a character can consume up to five elixirs a day, each day).
 
 ---
 
 *Toolkit*
 
-To tinker with a construct, a metaclockwork battery, a blasting furnance or a train engine, the tinkerer will require a set of tools. What tools will of course be specific to the task at hand, but a general kit might contain the usual spanners, screwdrivers, hammers, nuts, bolts, nails and perhaps the finer tools asscoiated with the repair or modification of a difference engine, or the analytical engine of a construct.
+To tinker with a construct, a metaclockwork battery, a blasting furnace or a train engine, the tinkerer will require a set of tools. What tools will of course be specific to the task at hand, but a general kit might contain the usual spanners, screwdrivers, hammers, nuts, bolts, nails and perhaps the finer tools associated with the repair or modification of a difference engine, or the analytical engine of a construct.
 
-As well as allowing actions otherwise impossible without tools, a toolkit allows characters to attempt to heal any machine appendages Remade characters may have using Mechanics checks without the penalty usually incurred by doing so without 'medical' equipment (the separate penalty for attempting to attend to your own injuries is not affected).
+As well as allowing actions otherwise impossible without tools, a toolkit allows characters to attempt to heal wounds suffered by a Remade on their machine-appendages (if applicable) using a Mechanics check without the penalty usually incurred by doing so without 'medical' equipment (the separate penalty for attempting to attend to your own injuries is not affected).
 
 ---
 
@@ -1253,7 +1255,7 @@ Easily found in any reasonably stocked market or bazaar, while wearing a carryin
 
 *Lock Pick Set*
 
-With the appropriate criminal contacts, the aspiring thief can aquire a good set of lock picks. Since almost all locks in the city are quite simple, the lock pick can be quite the powerful instrument if one is careful about when and where one decides to break and enter. More secure locks, like those of Parliament, are often far more complex however, or else thaumaturgically sealed. 
+With the appropriate criminal contacts, the aspiring thief can acquire a good set of lock picks. Since almost all locks in the city are quite simple, the lock pick can be quite a powerful instrument if one is careful about when and where one decides to break and enter. More secure locks, like those of Parliament, are often far more complex however, or else thaumaturgically sealed. 
 
 When making a Skulduggery check to open a lock or latch, your character adds one automatic success to the results.
 
@@ -1261,7 +1263,7 @@ When making a Skulduggery check to open a lock or latch, your character adds one
 
 *Simple Thaumaturgic Aid*
 
-Depending on the kind of thaumaturgic ability employed, the practitioner may find themselves in the need of a simple aid to their hex. This might be any otherwise innocuous item: a small notebook for thaumaturgic calcuations; a weighty granite marble with some small markings; a leather boot turned inside out. In any case, some thaumaturgy requires such an item.
+Depending on the kind of thaumaturgic ability employed, the practitioner may find themselves in the need of a simple aid to their hex. This might be any otherwise innocuous item: a small notebook for thaumaturgic calculations; a weighty granite marble with some small markings; a leather boot turned inside out. In any case, some thaumaturgy requires such an item.
 
 A simple thaumaturgic aid has no mechanical game effects, but any players interested in using thaumaturgy should be encouraged to considering purchasing one as a means to thematically flesh out their particular style (the weirder, more in-keeping with the world, the better) of thaumaturgy.
 
@@ -1269,7 +1271,7 @@ A simple thaumaturgic aid has no mechanical game effects, but any players intere
 
 *Thaumaturgic Battery*
 
-Larger or semi-industrial thaumaturgic operations require batteries. These can be of chymico-thaumaturgic or metaclockwork designs, but in whatever case their basic fucntion is the same. The battery holds a certain puissance either generated by the thaumaturge and channelled into the battery, or else generated by complex internal metaclockwork operations initated by the turning of a winch or pulling of a lever. The thaumaturge then iniatates a hex or similar, and the pussiance in the battery assists their cathexic effort; otherwise, a battery may be connected by wire to a thaumaturgic operation not enacted by the thaumaturge herself but by some machinery. A battery might power a difficult piece of communicator thaumaturgy, or else animate a whole flock of golems where only a few would be possible without it.
+Larger or semi-industrial thaumaturgic operations require batteries. These can be of chymico-thaumaturgic or metaclockwork designs, but in whatever case, their basic function is the same. The battery holds a certain puissance either generated by the thaumaturge and channelled into the battery, or else generated by complex internal metaclockwork operations initated by the turning of a winch or pulling of a lever. The thaumaturge then initiates a hex or similar, and the puissance in the battery assists their cathexic effort; otherwise, a battery may be connected by wire to a thaumaturgic operation not enacted by the thaumaturge herself but by some machinery. A battery might power a difficult piece of communicator thaumaturgy, or else animate a whole flock of golems where only a few would be possible without it.
 
 Once per encounter, a character in the room with (or a short distance from) a battery, may upgrade up to two Ability dice to Proficiency dice on a check using a Thaumaturgic skill. Depending on the battery's size and the magnitude of the task (or any other story-based factors), the GM should indicate how close the battery is to running out. Three uses might be a considered baseline before the battery is expended.
 
@@ -1281,9 +1283,9 @@ Shazbah, very-tea and dreamshit, as well as quinner and tusk, represent the most
 
 Shazbah is perhaps the most often found drug in the city, though it is far from the least dangerous. It can be snorted or smoked, and gives the user a wide-eyed, twitching awareness which can heighten and intensify pleasure or excitement, but also fear and anxiety. It smells strangely acidic, and gives the user a similar odour.
 
-Drunk in small does, very-tea is a light hallucinogenic that stimulates the visual and olfactory cortexes, and as such provides the user with a pleasing intensification and augmentation of sight and smell, leading to minor hallucination. In larger does, the user appears blackout drunk. Often combined with shazbah for a more adrenaline-fueled experience. 
+Drunk in small doses, very-tea is a light hallucinogenic that stimulates the visual and olfactory cortexes, and as such provides the user with a pleasing intensification and augmentation of sight and smell, leading to minor hallucination. In larger doses, the user appears blackout drunk. Often combined with shazbah for a more adrenaline-fueled experience. 
 
-Dreamshit is a stranger substance. Coming in the form of brown, extremely sticky pellets, and smelling of very burnt sugar, when consumed, dreamshit gives the user an overwhelming mental experience. The feeling is like that of having intensely vivid, rapidly shifting dreams, but the user is unable to break from this all-encompassing 'sleep' for the duration of the drugs effects, which for a small dose can last around half an hour of sweating semi-consciousness. The 'dreams', however, are not of one's own perspective, and the effect is of briefly but deeply entering the lives of others, only to be spat out into another life, and another, and so on. The artists and drug-mystics amongst dreamshit's devotees like to claim that the drug allows the user to directly commune with other minds, but this seems unlikely. Afterward, the drug gives the user the most extruciating hangover, but this fades in around an hour, perhaps partially explaining the drug's popularity despite its very high price.
+Dreamshit is a stranger substance. Coming in the form of brown, extremely sticky pellets, and smelling of very burnt sugar, when consumed, dreamshit gives the user an overwhelming mental experience. The feeling is like that of having intensely vivid, rapidly shifting dreams, but the user is unable to break from this all-encompassing 'sleep' for the duration of the drug's effects, which for a small dose can last around half an hour of sweating semi-consciousness. The 'dreams', however, are not from one's own perspective, and the effect is of briefly but deeply entering the lives of others, only to be spat out into another life, and another, and so on. The artists and drug-mystics amongst dreamshit's devotees like to claim that the drug allows the user to directly commune with other minds, but this seems unlikely. Afterwards, the drug gives the user the most excruciating hangover, but this fades in around an hour, perhaps partially explaining the drug's popularity despite its very high price.
 
 On the very much lighter end, quinner is a simple downer, sometimes found laced in sweet foods and used in relaxed social settings amongst friends.
 
@@ -1291,9 +1293,9 @@ On the very much lighter end, quinner is a simple downer, sometimes found laced 
 
 ## Adversaries
 
-In New Crobuzon, anyone is a potentional enemy, but the status of some groups is far more well known; namely the feared enforcers of the state - the militia - and the lackeys of the crimelords - the gang members and gunmen. Not forgeting the roving bands of Three Quillers, with whom any average xenian will be familiar.
+In New Crobuzon, anyone is a potential enemy, but the status of some groups is far more well known; namely the feared enforcers of the state - the militia - and the lackeys of the crimelords - the gang members and gunmen. Not forgetting the roving bands of Three Quillers, with whom any average xenian will be familiar.
 
-GM's should feel free to reskin any number of adversaries present in official *Genesys* rulebooks. Of particular use may be the Sample Adversaries section of the *Expanded Player's Guide* (p.86). However, below are some adveraries that PC's may encounter more often, and therefore may benefit from description (mechanical and setting-focussed).
+GMs should feel free to reskin any number of adversaries present in official *Genesys* rulebooks. Of particular use may be the Sample Adversaries section of the *Expanded Player's Guide* (p.86). However, below are some adversaries  that PCs may encounter more often, and therefore may benefit from description (mechanical and setting-focussed).
 
 ---
 
@@ -1364,7 +1366,7 @@ When direct violence is necessary to protect the interests of the state and its 
 *Abilities*: None
 
 Equipment: 
-* **Flinklock Pistol**: Ranged; Damage 8; Critical 2; Range (Medium); Inaccurate 1; Vicious 2; Prepare 2.
+* **Flintlock Pistol**: Ranged; Damage 8; Critical 2; Range (Medium); Inaccurate 1; Vicious 2; Prepare 2.
 * **Iron Riot Shield**: Melee (Light); Damage +2; Critical 5; Range (Engaged); Cumbersome 2; Defensive 2; Deflection 3; Inaccurate 2; Knockdown; Reinforced.
 * Reinforced milita armour: +1 soak, +1 defence
 
@@ -1372,7 +1374,7 @@ Equipment:
 
 *Assault Trooper* (Rival)
 
-The assault trooper is a strange figure. Though a militiman, it looks more construct than human, bulked up by enormous, bizarre and twisted armour and invariably carrying a huge firearm and hammer. Blue-masked, with intricate smoked goggles, gasmask and spiked helmet, its face is made the vision of some insectile dæmon. Its role is the dealing out of the most signifant level of brute force for the state, whether required in the arrest of a dissident terrorist, or the putting down of a riot-strike.
+The assault trooper is a strange figure. Though a militaman, it looks more construct than human, bulked up by enormous, bizarre and twisted armour and invariably carrying a huge firearm and hammer. Blue-masked, with intricate smoked goggles, gasmask and spiked helmet, its face is made the vision of some insectile dæmon. Its role is the dealing out of the most significant level of brute force for the state, whether required in the arrest of a dissident terrorist, or the putting down of a riot-strike.
 
 *Combat/Social/General Power Level*: 7/1/1
 
@@ -1401,7 +1403,7 @@ The assault trooper is a strange figure. Though a militiman, it looks more const
 * **Indomitable**: Active (Incidental, Out of Turn); Once per encounter, when your character would be incapacitated due to exceeding their wound or strain threshold, you may spend a Story Point to use this talent. Then, your character is not incapacitated until the end of their next turn. If your character reduces their strain or wounds to below their threshold before the end of their next turn, they are not incapacitated.
 
 *Abilities*: 
-* **Silhoutte 2**
+* **Silhouette 2**
 
 Equipment: 
 * **Blunderbuss**: Ranged; Damage 8; Critical 3; Blast 5; Knockdown; Limited Ammo 1; Vicious 2.
@@ -1413,7 +1415,7 @@ Equipment:
 
 *Captain-Thaumaturge* (Rival)
 
-The captain-thaumaturge is one of the miltia's most useful and deadly threats, whether in the heat of out-all battle, where they may send a bolt of unlight sizzling through an enemy of the state, or in intelligence and surveillance, detecting far away conversations using communicator thaumaturgy, or indeed any number of acts of thaumaturgic aid to the militia's functions.
+The captain-thaumaturge is one of the militia's most useful and deadly threats, whether in the heat of out-all battle, where they may send a bolt of unlight sizzling through an enemy of the state, or in intelligence and surveillance, detecting far away conversations using communicator thaumaturgy, or indeed any number of acts of thaumaturgic aid to the militia's functions.
 
 *Combat/Social/General Power Level*: 4/1/4
 
@@ -1450,7 +1452,7 @@ Equipment:
 
 *Intelligence Officer* (Nemesis)
 
-The militia's intelligence officers are experts in blackmail, extortion and bribery. They will, with their agents hidden in plain sight, learn everything necessary for an arrest and remaking of a dissident, or for the blackmail of an innocent party accidentally privy to vital intelligence, hanging over them the truth of their sexual depravity (information learnt years ago and stored on file in case of such an occaison). Files are kept on many citizens.
+The militia's intelligence officers are experts in blackmail, extortion and bribery. They will, with their agents hidden in plain sight, learn everything necessary for an arrest and remaking of a dissident, or for the blackmail of an innocent party accidentally privy to vital intelligence, hanging over them the truth of their sexual depravity (information learnt years ago and stored on file in case of such an occasion). Files are kept on many citizens.
 
 *Combat/Social/General Power Level*: 3/4/3
 
@@ -1479,7 +1481,7 @@ The militia's intelligence officers are experts in blackmail, extortion and brib
 * **Improved Scathing Tirade**: Active (Action); Your character may use this talent to make an Average Coercion check. For each Success the check generates, one enemy within short range suffers 1 strain. For each Advantage, one enemy affected by Scathing Tirade suffers 1 additional strain. Enemies affected by your character’s Scathing Tirade add Setback dice to all skill checks they make for a number of rounds equal to your character’s ranks in Coercion.
 
 *Abilities*: 
-* **One Step Ahead**: Once per round, after an opponent performs an action or maneuver, you may spend one Story Point to have this adversary perform an action or maneuver as an out-of-turn incidental.
+* **One Step Ahead**: Once per round, after an opponent performs an action or manoeuvre, you may spend one Story Point to have this adversary perform an action or manoeuvre as an out-of-turn incidental.
 
 Equipment: 
 * **Concealable Flintlock**: Ranged; Damage 5; Critical 3; Range (Medium).
@@ -1571,7 +1573,7 @@ Equipment:
 
 *Gang Leader (Rival)*
 
-With a little more tactical know-how and resourcefulness on the streets, the gang leader is sufficently feared and respected to give orders to his inferiors, and have them be followed. He, most probably however, follows orders from higher up the chain of criminal command.
+With a little more tactical know-how and resourcefulness on the streets, the gang leader is sufficiently feared and respected to give orders to his inferiors, and have them be followed. He, most probably however, follows orders from higher up the chain of criminal command.
 
 *Combat/Social/General Power Level*: 4/2/1
 
@@ -1596,19 +1598,19 @@ With a little more tactical know-how and resourcefulness on the streets, the gan
 *Skills*: Coercion 1, Cool 1, Leadership 1, Melee 2, Streetwise 3, Vigilance 1
 
 *Talents*: 
-* **Adversary 1**: Passive; Upgrade difficulty of all combat checks against this target once.
+* **Adversary 1**: Passive; Upgrade the difficulty of all combat checks against this target once.
 
 *Abilities*: None.
 
 Equipment: 
-* **Large Sharpened Knife** : Melee; Damage 5; Critical 3; Range (Engaged); Pierce 2.
+* **Large Sharpened Knife**: Melee; Damage 5; Critical 3; Range (Engaged); Pierce 2.
 * Heavy leather clothing: +2 soak.
 
 ---
 
-*Crimeboss* (Nemesis)
+*Crime Boss* (Nemesis)
 
-As black market empires vye for supremacy in all the many localities of the city, the crimeboss sits at the head of the empire and oversees operations. The most notable bosses weild power not dissimilar to that of a minor cabinet minister: they command a small army in lackeys and possess reasonable stockpiles of weapons, technology and wealth. In some cases, their territory is under near complete control, the local militia, businesses and press all in cosy relations with the the boss and his associates. Should you cross a crimeboss, it can feel as if half the very city itself has turned against you.
+As black market empires vie for supremacy in all the many localities of the city, the crime boss sits at the head of the empire and oversees operations. The most notable bosses wield power not dissimilar to that of a minor cabinet minister: they command a small army of lackeys and possess reasonable stockpiles of weapons, technology and wealth. In some cases, their territory is under near complete control, the local militia, businesses and press all in cosy relations with the boss and his associates. Should you cross a crime boss, it can feel as if half the very city itself has turned against you.
 
 *Combat/Social/General Power Level*: 8/6/5
 
@@ -1635,7 +1637,7 @@ As black market empires vye for supremacy in all the many localities of the city
 *Skills*: Brawl 4, Coercion 5, Discipline 2, Leadership 2, Ranged 2, Streetwise 4.
 
 *Talents*: 
-* **Adverary 2**: Passive; Upgrade the difficulty of all combat checks targeting this character once per rank of Adversary.
+* **Adversary 2**: Passive; Upgrade the difficulty of all combat checks targeting this character once per rank of Adversary.
 
 *Abilities*:
 * **Loyal Followers**: Once per round when this adversary is targeted by a combat check, they may choose one ally within short range, and the attack then targets the ally instead of this adversary.
@@ -1643,13 +1645,13 @@ As black market empires vye for supremacy in all the many localities of the city
 Equipment: 
 * **Spiked Brass Knuckles**: Brawl; Damage +2; Critical 3; Range (Engaged); Pierce 2.
 * **Concealed Knife** Melee (Light); Damage +1; Critical 3.
-* Under clothes armour: +2 Defence.
+* Under-clothes armour: +2 Defence.
 
 ---
 
 *Industrialist* (Nemesis)
 
-Some of the wealthiest indidivuals in the city, the success of the industrialists is nevertheless in their frugality, their massive profits not stockpiled like the lords of pastural fairytale but reinvested into an ever-expanding empire of industry at the expense of the health and wellbeing of their workers. Those that aren't themselves destroyed by competition in the city's market, that is. The industrialist's contacts are manifold, and top politicians and powerful crimelords are no doubt among them.
+Some of the wealthiest individuals in the city, the success of the industrialists is nevertheless in their frugality, their massive profits not stockpiled like the lords of pastoral fairytale but reinvested into an ever-expanding empire of industry at the expense of the health and wellbeing of their workers. Those that aren't themselves destroyed by competition in the city's market, that is. The industrialist's contacts are manifold, and top politicians and powerful crimelords are no doubt among them.
 
 *Combat/Social/General Power Level*: 1/7/1
 
@@ -1676,13 +1678,13 @@ Some of the wealthiest indidivuals in the city, the success of the industrialist
 *Skills*: Charm 3, Coercion, Cool 2, Leadership 3, Negotiation 5, Vigilance, 1.
 
 *Talents*: 
-* **Adverary 2**: Passive; Upgrade the difficulty of all combat checks targeting this character once per rank of Adversary.
+* **Adversary 2**: Passive; Upgrade the difficulty of all combat checks targeting this character once per rank of Adversary.
 
 *Abilities*:
 * **Know Your Foe**: If this adversary knows an opponent's (pick one facet) Motivation, when this adversary inflicts strain on the opponent, the opponent suffers 3 additional strain.
 
 Equipment: 
-* **Consealed Knife** Melee (Light); Damage +1; Critical 3.
+* **Concealed Knife** Melee (Light); Damage +1; Critical 3.
 * Ornate clothing (adds one Advantage to any social skill checks this character makes).
 * Full coin purse.
 
