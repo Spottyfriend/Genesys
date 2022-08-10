@@ -1684,7 +1684,7 @@ As black market empires vie for supremacy in all the many localities of the city
 
 Equipment: 
 * **Spiked Brass Knuckles**: Brawl; Damage +2; Critical 3; Range (Engaged); Pierce 2.
-* **Concealed Knife** Melee (Light); Damage +1; Critical 3.
+* **Concealed Knife**: Melee (Light); Damage +1; Critical 3.
 * Under-clothes armour: +2 Defence.
 
 ---
@@ -1724,7 +1724,7 @@ Some of the wealthiest individuals in the city, the success of the industrialist
 * **Know Your Foe**: If this adversary knows an opponent's (pick one facet) Motivation, when this adversary inflicts strain on the opponent, the opponent suffers 3 additional strain.
 
 Equipment: 
-* **Concealed Knife** Melee (Light); Damage +1; Critical 3.
+* **Concealed Knife**: Melee (Light); Damage +1; Critical 3.
 * Ornate clothing (adds one Advantage to any social skill checks this character makes).
 * Full coin purse.
 
