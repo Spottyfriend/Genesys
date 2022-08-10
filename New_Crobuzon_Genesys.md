@@ -88,6 +88,7 @@ New Crobuzon now suffers the diseases of a proud industrial metropolis. Thick po
 Welcome to New Crobuzon, the greatest city-state in the world.
 
 ![Landscape of New Crobuzon](https://i.imgur.com/VUPCLya.jpg)
+*By [Alex Drummond](https://alexdrummo.artstation.com/)*
 
 ---
 
