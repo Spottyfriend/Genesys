@@ -87,6 +87,8 @@ New Crobuzon now suffers the diseases of a proud industrial metropolis. Thick po
 
 Welcome to New Crobuzon, the greatest city-state in the world.
 
+![Landscape of New Crobuzon](https://i.imgur.com/VUPCLya.jpg)
+
 ---
 
 #### Geography
@@ -812,6 +814,8 @@ Most commonly found in the settlements of the Cymek, the cactus people - cactaca
 
 *Regrowth*: Not only are they tough, but cactacae are also fast-healing. A full night's sleep recovers an additional wound (two instead of one by default).
 
+![Cactacae](https://i.imgur.com/ijKTN4X.png)
+
 ---
 
 ### Garuda
@@ -846,6 +850,8 @@ One of the most uncommon minority races in the city, the New Crobuzon's garuda a
 
 If the garuda was taught yajhu-saak formally as part of a Cymek tribe, the player may spend an additional 5xp from their starting experience to have this ability heal 3 strain upon its use.
 
+![Garuda](https://i.imgur.com/TC5I6NQ.png)
+
 ---
 
 ### Humans
@@ -874,6 +880,7 @@ The human is a bipedal creature, resembling an upright, hairless ape. On average
 
 *Ready For Anything*: Once per session as an out-of-turn incidental, you may move one Story Point from the Game Master’s pool to the players’ pool.
 
+![A human](https://i.imgur.com/rGpIbYm.png)
 
 ---
 
@@ -906,6 +913,8 @@ Unlike the other races in the city, the sexual dimorphism of khepri is absolute.
 *Insectile Vision*: A khepri's sight is very different to that of a human or vodyanoi. Due to their bulging insect-like eyes, a khepri's view is more panoramic and colourful. Their sense of smell is also much greater than a human's. Khepri are therefore much less troubled by vision impairing effects, and two setback die should be removed from any Perception or Vigilance checks that would otherwise have been affected by concealments such as smoke or darkness.
 
 *Non-Verbal*: Khepri communicate both language and emotion using scented excretions. Individuals who are close to khepri may become familiar with scents communicating fear or love or annoyance, but beyond that, khepri must either use sign language or written notes. Whilst there are no strict mechanical rules here, players should be aware that, in structured encounters especially, khepri cannot shout to an ally to provide assistance, for example.
+
+![Khepri](https://i.imgur.com/cneVIvz.png)
 
 ---
 
@@ -943,6 +952,8 @@ Second, when a player is creating a Remade, they should consider whether their s
 
 Third, although adding to a remaking in New Crobuzon is both difficult, expensive and taboo amongst Remade, it is possible. With the right connections - either established through a hard Knowledge (City) check or decided narratively by the GM - a Remade character can augment themselves. Players may wish to permanently meld a piece of equipment to their character (ignoring encumbrance), and/or use the rules for cybernetic implants described on p.177 of the *Genesys Core Rulebook* (the implants' flavour adapted to the setting).
 
+![Remade](https://i.imgur.com/xsPUdRQ.png)
+
 ---
 
 ### Vodyanoi
@@ -977,6 +988,7 @@ Unlike some xenian races, vodyanoi can be found, in some number, among the middl
 
 *Watercraeft*: A vodyanoi possesses the strange ability to hand-mould water to suit their needs. Watercraefted objects may last indefinitely if in contact with a vodyanoi. Out of vodyanoi hands though, even if handled carefully, an object will return to its natural form after around an hour. A vodyanoi may create a simple object (e.g. a ball or a small figurine) or change the flow of a small stream without a skill check, but must make a hard Coordination check to create an object with any complexity or firmness (e.g. a key or a shovel) or change the course of a river.
 
+![Vodyanoi](https://i.imgur.com/Du0SBuU.png)
 
 ---
 
@@ -1007,6 +1019,8 @@ Wyrmen are aerial clowns and messengers in the skies of New Crobuzon. They are a
 *Small*: Wyrmen are silhouette 0.
 
 *Flight*: With their bat-like wings, a wyrman can soar across the city, catching currents on the air and looping over the city's skyrail and under its rail bridges. They can also hover a little off the ground, bobbing up and down with the effort of each flap. As such, a wyrman should ignore otherwise impassable or difficult terrain, and can move from long range to short range using a single manoeuvre if they start their flight from a great height or otherwise good conditions. Players may want to consider spending a Story Point to induce such conditions, such as a sudden gust of wind, allowing their wyrman a burst of speed.
+
+![Wyrmen](https://i.imgur.com/ifOROXy.png)
 
 ---
 
