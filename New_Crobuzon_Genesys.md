@@ -493,7 +493,7 @@ All constructs, however, interpret instructions, and indeed the world more broad
 
 Readers should note that, whilst it is also a powerful piece of technology, a *difference* engine is no analytical engine. The former is essentially a machine to perform complex calculations; the latter is a computing machine - it can respond to the world - it can 'think'.
 
-![Construct](https://i.imgur.com/DhXoJxA.jpg)
+![Construct](https://i.imgur.com/jmqSv4d.jpg)
 By UNKNOWN
 
 ---
