@@ -186,6 +186,9 @@ Forty years ago, the Sink Line was to be extended. The planners and money-men bu
 
 Poverty is not only downside for the inhabitants of Spatters, however: on occasion, gangs of masked gunmen will appear at night to terrorize and murder. Spatters is also the home of Savage Petter, a feared ganglord fond of impaling his foes and letting them rot in the sun: his name conjures fear well beyond the district's borders.
 
+![Bonetown](https://i.imgur.com/SaLtz3u.jpg)
+By [*Fredrik Dahl*](https://fredrikart.com/)
+
 ---
 
 *Special Districts and Xenian Ghettos*
@@ -635,6 +638,7 @@ The practiser of subvocalurgy is what is known as a whispersmith, or susurrator.
 ### The World: Bas-Lag
 
 ![Map of Rohagi Continent](https://i.imgur.com/ymH5Zi4.jpg)
+By [*Adam Whitehead*](https://atlasoficeandfireblog.wordpress.com/category/china-mieville/)
 
 The world of Bas-Lag is immense, and no one individual has, or perhaps can have, a complete understanding of its vast geographies. The city of New Crobuzon sits close to the east coast of the continent of Rohagi, but is by no means its capital, nor does it reflect the culture of the continent's peoples, which are unimaginably diverse. The Ragamoll-speaking humans of New Crobuzon can hardly be compared to the grindylow of the Cold Claw Sea - indeed, whether the latter's model of consciousness can even be considered related to the former's is still an open question. Trade does nevertheless take place between the nations and cities of Rohagi. Ships have even been sent to, and received from, the east across the Meagre Sea - the continent of Bered Kai Nev and the Crobuzoner colony of Nova Esperium.
 
@@ -741,6 +745,9 @@ Tesh, City of the Crawling Liquid, is, in some ways, New Crobuzon's twin. A larg
 *The Gengris*
 
 Lodged like an impurity in the southern jag of the Cold Claw Sea is an extraordinary, dangerous place, something between an island, a half-sunk city, and a myth, an amphibious badland about which the civilized world knows next to nothing, except that it exists and that it is dangerous. That place is The Gengris. It is said to be the home of the grindylow - aquatic demons or monsters or degenerate crossbred men and women, depending on which story one believes. The grindylow, or The Gengris (the distinction between race and place is unclear), control the south of the Cold Claw Sea with unbreakable power and a cruel, capricious isolationism. Their waters are lethal and uncharted. Only the most senior officials of New Crobuzon are aware of the precise nature of The Gengris, although they do engage in limited trade. Like Tesh and the Witchocracy, Gengris culture appears totally alien; unlike the former, however, the rules of the grindylow cannot be learnt. Transgressions are often deadly.
+
+![Armada](https://i.imgur.com/3MqgOTc.jpg)
+By [Benjamin Sjöberg](https://bensjoberg.artstation.com/)
 
 ---
 
