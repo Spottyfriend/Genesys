@@ -96,7 +96,7 @@ A brief note for readers: although the section below gives a summary of most of 
 
 ![Map of the City from Perdido Street Station](https://i.imgur.com/EQWNk8M.png)
 
-By [*Lee Moyer*](https://www.leemoyer.com/maps/h75CB5F6D#h75cb5f6d).)
+By [*Lee Moyer*](https://www.leemoyer.com/maps/h75CB5F6D#h75cb5f6d)
 
 ---
 
