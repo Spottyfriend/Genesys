@@ -95,6 +95,7 @@ Welcome to New Crobuzon, the greatest city-state in the world.
 A brief note for readers: although the section below gives a summary of most of the districts and boroughs of New Crobuzon, some (Dryside, Pincod, Sunter, and others) are absent. This is because, simply, the books do not give descriptions of every district. GMs are therefore free to insert their own ideas as to what these locations might be like - their peoples, landmarks, industries - and indeed to expand on the following summaries in any way they wish. 
 
 ![Map of the City from Perdido Street Station](https://i.imgur.com/EQWNk8M.png)
+
 By [*Lee Moyer*](https://www.leemoyer.com/maps/h75CB5F6D#h75cb5f6d).)
 
 ---
