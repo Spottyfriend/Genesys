@@ -55,8 +55,6 @@
 
 **China Miéville** (Author; writer of the Bas-Lag books.)
 
-**Lee Moyer** (Creator of the [New Croubzon city map](https://www.leemoyer.com/maps/h75CB5F6D#h75cb5f6d).)
-
 ## Introduction
 
 Welcome, reader, to the definitive guide to playing Fantasy Flight's *Genesys* RPG system within the world of Bas-Lag, with a focus on that world's greatest city-state: New Crobuzon.
@@ -97,6 +95,7 @@ Welcome to New Crobuzon, the greatest city-state in the world.
 A brief note for readers: although the section below gives a summary of most of the districts and boroughs of New Crobuzon, some (Dryside, Pincod, Sunter, and others) are absent. This is because, simply, the books do not give descriptions of every district. GMs are therefore free to insert their own ideas as to what these locations might be like - their peoples, landmarks, industries - and indeed to expand on the following summaries in any way they wish. 
 
 ![Map of the City from Perdido Street Station](https://i.imgur.com/EQWNk8M.png)
+By [*Lee Moyer*](https://www.leemoyer.com/maps/h75CB5F6D#h75cb5f6d).)
 
 ---
 
@@ -816,6 +815,7 @@ Most commonly found in the settlements of the Cymek, the cactus people - cactaca
 *Regrowth*: Not only are they tough, but cactacae are also fast-healing. A full night's sleep recovers an additional wound (two instead of one by default).
 
 ![Cactacae](https://i.imgur.com/ijKTN4X.png)
+By [*Andrew Hou*](https://njoo.artstation.com/)
 
 ---
 
@@ -852,6 +852,7 @@ One of the most uncommon minority races in the city, the New Crobuzon's garuda a
 If the garuda was taught yajhu-saak formally as part of a Cymek tribe, the player may spend an additional 5xp from their starting experience to have this ability heal 3 strain upon its use.
 
 ![Garuda](https://i.imgur.com/TC5I6NQ.png)
+By [*Andrew Hou*](https://njoo.artstation.com/)
 
 ---
 
@@ -882,6 +883,7 @@ The human is a bipedal creature, resembling an upright, hairless ape. On average
 *Ready For Anything*: Once per session as an out-of-turn incidental, you may move one Story Point from the Game Master’s pool to the players’ pool.
 
 ![A human](https://i.imgur.com/rGpIbYm.png)
+By [*Omercan Cirit*](https://sleepingrobot.artstation.com/)
 
 ---
 
@@ -916,6 +918,7 @@ Unlike the other races in the city, the sexual dimorphism of khepri is absolute.
 *Non-Verbal*: Khepri communicate both language and emotion using scented excretions. Individuals who are close to khepri may become familiar with scents communicating fear or love or annoyance, but beyond that, khepri must either use sign language or written notes. Whilst there are no strict mechanical rules here, players should be aware that, in structured encounters especially, khepri cannot shout to an ally to provide assistance, for example.
 
 ![Khepri](https://i.imgur.com/cneVIvz.png)
+By [*Andrew Hou*](https://njoo.artstation.com/)
 
 ---
 
@@ -954,6 +957,7 @@ Second, when a player is creating a Remade, they should consider whether their s
 Third, although adding to a remaking in New Crobuzon is both difficult, expensive and taboo amongst Remade, it is possible. With the right connections - either established through a hard Knowledge (City) check or decided narratively by the GM - a Remade character can augment themselves. Players may wish to permanently meld a piece of equipment to their character (ignoring encumbrance), and/or use the rules for cybernetic implants described on p.177 of the *Genesys Core Rulebook* (the implants' flavour adapted to the setting).
 
 ![Remade](https://i.imgur.com/xsPUdRQ.png)
+By [*Andrew Hou*](https://njoo.artstation.com/)
 
 ---
 
@@ -990,6 +994,7 @@ Unlike some xenian races, vodyanoi can be found, in some number, among the middl
 *Watercraeft*: A vodyanoi possesses the strange ability to hand-mould water to suit their needs. Watercraefted objects may last indefinitely if in contact with a vodyanoi. Out of vodyanoi hands though, even if handled carefully, an object will return to its natural form after around an hour. A vodyanoi may create a simple object (e.g. a ball or a small figurine) or change the flow of a small stream without a skill check, but must make a hard Coordination check to create an object with any complexity or firmness (e.g. a key or a shovel) or change the course of a river.
 
 ![Vodyanoi](https://i.imgur.com/Du0SBuU.png)
+By [*Andrew Hou*](https://njoo.artstation.com/)
 
 ---
 
@@ -1022,6 +1027,7 @@ Wyrmen are aerial clowns and messengers in the skies of New Crobuzon. They are a
 *Flight*: With their bat-like wings, a wyrman can soar across the city, catching currents on the air and looping over the city's skyrail and under its rail bridges. They can also hover a little off the ground, bobbing up and down with the effort of each flap. As such, a wyrman should ignore otherwise impassable or difficult terrain, and can move from long range to short range using a single manoeuvre if they start their flight from a great height or otherwise good conditions. Players may want to consider spending a Story Point to induce such conditions, such as a sudden gust of wind, allowing their wyrman a burst of speed.
 
 ![Wyrmen](https://i.imgur.com/ifOROXy.png)
+By [*Andrew Hou*](https://njoo.artstation.com/)
 
 ---
 
