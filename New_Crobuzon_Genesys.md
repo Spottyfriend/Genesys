@@ -1227,11 +1227,15 @@ The designers of the first rivebow had been human. The weapons had been used dur
 
 The rivebow is an enormous crossbow, too large and heavy for a human effectively to operate. It fires not bolts, but chakris; flat metal disks with serrated or razored edges, or metal stars with curved arms. A toothed hole in the chakri’s centre slots neatly onto a little bud of metal that emerges from the rivebow shaft. When the trigger is pulled, the wire in the shaft snaps violently to, pulling the metal bud at massive speed, intricate gears grinding together to send it spinning at an enormous rate. At the end of the enclosed channel the whirling bolt slips sharply down and out from the chakri’s hole, and the chakri is discharged as fast as a slingshot stone, spinning like the blade of a circular saw.
 
+![Rivebow](https://i.imgur.com/Ysqvsm5.png)
+
 ---
 
 *Stingbox*
 
 A strange metaclockwork weapon of khepri design, the 'stingbox', as humans have christened it, resembles a squared-off wooden block the size of a small bag, with a handle at one end and two short whip-like flails at the other. These are extendable however, and, by the user, are whirled at speed assisted by internal gears. They are then whipped out to catch, pierce and grip the flesh of even an armoured enemy, and at a maximum of twenty feet. A powerful electrical charge is then sent sparking through the line. If death is the aim then the stingbox can deliver, but it can also wound and incapacitate should its user desire. Though a khepri weapon, it is not altogether unimaginable to see a militiaman wielding a stingbox should such rare training be required in defence of the city.
+
+![Stingbox](https://i.imgur.com/rAyqosW.png)
 
 ---
 
