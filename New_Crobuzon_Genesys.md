@@ -1731,7 +1731,7 @@ Equipment:
 
 ## Changelog
 
-xx/08/2022 - First draft complete.
+10/08/2022 - First draft complete.
 
 ---
 
