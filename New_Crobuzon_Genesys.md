@@ -493,6 +493,9 @@ All constructs, however, interpret instructions, and indeed the world more broad
 
 Readers should note that, whilst it is also a powerful piece of technology, a *difference* engine is no analytical engine. The former is essentially a machine to perform complex calculations; the latter is a computing machine - it can respond to the world - it can 'think'.
 
+![Construct](https://i.imgur.com/DhXoJxA.jpg)
+By UNKNOWN
+
 ---
 
 *Dirigibles and the Skyrail*
@@ -745,6 +748,8 @@ Tesh, City of the Crawling Liquid, is, in some ways, New Crobuzon's twin. A larg
 *The Gengris*
 
 Lodged like an impurity in the southern jag of the Cold Claw Sea is an extraordinary, dangerous place, something between an island, a half-sunk city, and a myth, an amphibious badland about which the civilized world knows next to nothing, except that it exists and that it is dangerous. That place is The Gengris. It is said to be the home of the grindylow - aquatic demons or monsters or degenerate crossbred men and women, depending on which story one believes. The grindylow, or The Gengris (the distinction between race and place is unclear), control the south of the Cold Claw Sea with unbreakable power and a cruel, capricious isolationism. Their waters are lethal and uncharted. Only the most senior officials of New Crobuzon are aware of the precise nature of The Gengris, although they do engage in limited trade. Like Tesh and the Witchocracy, Gengris culture appears totally alien; unlike the former, however, the rules of the grindylow cannot be learnt. Transgressions are often deadly.
+
+---
 
 ![Armada](https://i.imgur.com/3MqgOTc.jpg)
 By [Benjamin Sjöberg](https://bensjoberg.artstation.com/)
