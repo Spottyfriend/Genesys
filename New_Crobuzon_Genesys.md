@@ -220,6 +220,9 @@ The khepri run Kinken semi-autonomously, though none admit this state of affairs
 
 Kinken is a step up from the desperately poor khepri homes in Creekside.
 
+![Races of New Crobuzon](https://i.imgur.com/r5eG4ZX.jpg)
+By [*Marc Simonetti*](https://art.marcsimonetti.com/)
+
 ---
 
 *Rail and Industrial Locations*
@@ -249,6 +252,9 @@ An industrial castle, bristling with random parapets, Perdido Street Station's w
 The city's five main lines are the Dexter, Head, Sink, Sud, and Verso lines, with more than two dozen stations. The Dexter Line includes the Kelltree and Dog Fenn spurs. The Sink Line is abandoned in the section leading into Rude Wood.
 
 **Tarmuth**: Although New Crobuzon itself is about ten miles from the sea, Tarmuth serves it as a port just a few miles to the east. Though not technically within the city itself, Tarmuth is the city's port and is controlled by Parliament and the great merchant houses. Many of the city's gentry and parliamentarians keep summer houses in the countryside nearby or further along the shore of Iron Bay.
+
+![Perdido Street Station](https://i.imgur.com/jylZ0dE.jpg)
+By [*Alberto Gordillo*](https://gordillo.artstation.com/)
 
 ---
 
@@ -534,6 +540,11 @@ Of the many energies and powerful forces in Bas-Lag, the vast majority can be, b
 Over two-hundred years ago, nearing the end of the Pirate Wars, New Crobuzon dropped Torque bombs on Suroch. It would be easier to imagine that nothing, today, remained of that once-great city; the reality is far worse. Houses became molten, shifting statues; insects contorted into thick tree-like structures and calcified; the sentient inhabitants of the city bent into strange shapes and now wander the constantly distorting wasteland in herds. A hundred years later, the city sent a secret research mission to Suroch, to see the long-term effects of the war. So horrified was the heliotypist, Sacramundi, at what he saw, that he leaked copies of his heliotypes to bookshops across the city. The riots that ensued nearly brought down the government. This has largely been forgotten today, but no Torquic experiments have since been conducted.
 
 Far to the south-west of the city, there is a centuries-old Torque rift - the Cacotopic Stain, where Torquic energies are constantly raging. Some, drinking in pubs in Kelltree or Dog Fenn, will claim to have seen it and returned alive, pointing to an extra toe or disfigured eye as proof. They are seldom believed, but the details of their stories are, on occasion, uncannily life-like.
+
+---
+
+![Brock Marsh Laboratory](https://i.imgur.com/Tbbf1Qc.jpg)
+By [*Fredrik Dahl*](https://www.fredrikart.com/)
 
 ---
 
