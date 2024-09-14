@@ -53,7 +53,7 @@
 
 **Bryce Jones** (Creator of [The Bas-Lag Gazeteer](https://forums.giantitp.com/showthread.php?496536-Setting-153pgs-Bas-Lag-Gazetteer-China-Meiville-s-New-Crobuzon-Perdido-Street&p=21068791), from which this guide borrows liberally. GMs unconcerned by 'canon' are advised to use Jones', much more expansive guide to help expand on the world described in this one, which generally goes without detail not found within Miéville's books.)
 
-**China Miéville** (Author; writer of the Bas-Lag books.)
+**China Miéville** (Author; writer of the Bas-Lag books. This guide uses some portions of his texts verbatim.)
 
 ## Introduction
 
